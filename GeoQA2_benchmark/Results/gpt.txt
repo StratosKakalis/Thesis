@@ -141,13 +141,11 @@
 141: Alabama: https://en.wikipedia.org/wiki/Alabama
 142: Thessaloniki: https://en.wikipedia.org/wiki/Thessaloniki
 143: UK: https://en.wikipedia.org/wiki/United_Kingdom, woodland: https://en.wikipedia.org/wiki/Woodland_in_the_United_K
-144: Crete: https://en.wikipedia.org/wiki/Crete
-Thessaly: https://en.wikipedia.org/wiki/Thessaly
+144: Crete: https://en.wikipedia.org/wiki/Crete , Thessaly: https://en.wikipedia.org/wiki/Thessaly
 145: Worcestershire: https://en.wikipedia.org/wiki/Worcestershire , Oxfordshire: https://en.wikipedia.org/wiki/Oxfordshire
 146: County Cavan: https://en.wikipedia.org/wiki/County_Cavan, County Mayo: https://en.wikipedia.org/wiki/County_Mayo
 147: Kythira: https://en.wikipedia.org/wiki/Kythira , Attica: https://en.wikipedia.org/wiki/Attica
-148: Bedford: https://en.wikipedia.org/wiki/Bedford
-Essex: https://en.wikipedia.org/wiki/Essex
+148: Bedford: https://en.wikipedia.org/wiki/Bedford , Essex: https://en.wikipedia.org/wiki/Essex
 149: County Mayo: https://en.wikipedia.org/wiki/County_Mayo, County Sligo: https://en.wikipedia.org/wiki/County_Sligo
 150: Dublin: https://en.wikipedia.org/wiki/Dublin , Kilkenny: https://en.wikipedia.org/wiki/Kilkenny
 151: Samos: https://en.wikipedia.org/wiki/Samos , Mykonos: https://en.wikipedia.org/wiki/Mykonos
@@ -162,10 +160,8 @@ Essex: https://en.wikipedia.org/wiki/Essex
 160: Mullingar: https://en.wikipedia.org/wiki/Mullingar , Dublin: https://en.wikipedia.org/wiki/Dublin
 161: Denbighshire: https://en.wikipedia.org/wiki/Denbighshire, Wales: https://en.wikipedia.org/wiki/Wales
 162: Dublin: https://en.wikipedia.org/wiki/Dublin , Galway County: https://en.wikipedia.org/wiki/County_Galway
-163: Kallithea: https://en.wikipedia.org/wiki/Kallithea
-Nea Smyrni: https://en.wikipedia.org/wiki/Ne
-164: Cork: https://en.wikipedia.org/wiki/Cork
-Galway: https://en.wikipedia.org/wiki/Galway
+163: Kallithea: https://en.wikipedia.org/wiki/Kallithea , Nea Smyrni: https://en.wikipedia.org/wiki/Ne
+164: Cork: https://en.wikipedia.org/wiki/Cork , Galway: https://en.wikipedia.org/wiki/Galway
 165: Southampton: https://en.wikipedia.org/wiki/Southampton
 166: Agia Paraskevi: https://en.wikipedia.org/wiki/Agia_Paraskevi,_Attica , Chalandri: https://en
 167: Delta: https://en.wikipedia.org/wiki/Delta,_Thessaloniki , Thessaloniki regional unit: https://en.wikipedia.org/wiki/
@@ -191,3 +187,903 @@ Galway: https://en.wikipedia.org/wiki/Galway
 187: Kallithea: https://en.wikipedia.org/wiki/Kallithea, Nea Smyrni: https://en.wikipedia.org/wiki/Ne
 188: Norwich: https://en.wikipedia.org/wiki/Norwich, London: https://en.wikipedia.org/wiki/London
 189: Norilsk: https://en.wikipedia.org/wiki/Norilsk, Dublin: https://en.wikipedia.org/wiki/Dublin
+190: Athens: https://en.wikipedia.org/wiki/Athens, Kallithea: https://en.wikipedia.org/wiki/Kallithea
+191: Manchester: https://en.wikipedia.org/wiki/Manchester
+192: Belfast: https://en.wikipedia.org/wiki/Belfast, Dublin: https://en.wikipedia.org/wiki/Dublin
+193: Lake Yliki: https://en.wikipedia.org/wiki/Lake_Yliki, Athens: https://en.wikipedia.org/wiki/Athens
+194: Limerick: https://en.wikipedia.org/wiki/Limerick , Waterford: https://en.wikipedia.org/wiki/Waterford
+195: Rochdale: https://en.wikipedia.org/wiki/Rochdale , Manchester: https://en.wikipedia.org/wiki/Manchester
+196: Nafpaktia: https://en.wikipedia.org/wiki/Nafpaktia , Athens: https://en.wikipedia.org/wiki/Athens
+197: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+198: Scotland: https://en.wikipedia.org/wiki/Scotland, Dublin: https://en.wikipedia.org/wiki/Dublin
+199: Thessaly: https://en.wikipedia.org/wiki/Thessaly , Attica: https://en.wikipedia.org/wiki/Attica
+200: Plymouth: https://en.wikipedia.org/wiki/Plymouth , Cardiff: https://en.wikipedia.org/wiki/Cardiff
+201: Dublin: https://en.wikipedia.org/wiki/Dublin
+202: Astypalaia: https://en.wikipedia.org/wiki/Astypalaia , Decentralized Administration of the Aegean: https://en
+203: Sennen Cove: https://en.wikipedia.org/wiki/Sennen_Cove , Helston: https://en.wikipedia.org/wiki/Helston
+204: Howth: https://en.wikipedia.org/wiki/Howth, Dublin: https://en.wikipedia.org/wiki/Dublin
+205: Athlone: https://en.wikipedia.org/wiki/Athlone , Portumna: https://en.wikipedia.org/wiki/Portumna
+206: Kalamata: https://en.wikipedia.org/wiki/Kalamata, Tripoli: https://en.wikipedia.org/wiki/Tripoli
+207: Kastanas beach: No Wikipedia link found. Athens: https://en.wikipedia.org/wiki/Athens
+208: Liverpool: https://en.wikipedia.org/wiki/Liverpool , Scotland: https://en.wikipedia.org/wiki/Scotland
+209: Killarney Beach: https://en.wikipedia.org/wiki/Killarney_Beach
+210: Ierapetra: https://en.wikipedia.org/wiki/Ierapetra, Chania: https://en.wikipedia.org/wiki/Chania
+211: Cambridge: https://en.wikipedia.org/wiki/Cambridge , London: https://en.wikipedia.org/wiki/London
+212: County Cavan: https://en.wikipedia.org/wiki/County_Cavan , County Laois: https://en.wikipedia.org/wiki/County_Lao
+213: Kinsale: https://en.wikipedia.org/wiki/Kinsale , Kilkenny: https://en.wikipedia.org/wiki/Kilkenny
+214: Bristol: https://en.wikipedia.org/wiki/Bristol
+215: Chios: https://en.wikipedia.org/wiki/Chios , axi: https://en.wikipedia.org/wiki/Paxi
+216: Canada: https://en.wikipedia.org/wiki/Canada , China: https://en.wikipedia.org/wiki/China
+217: Crete: https://en.wikipedia.org/wiki/Crete , Attica: https://en.wikipedia.org/wiki/Attica
+218: Tullyhaw: No results found
+219: Liverpool: https://en.wikipedia.org/wiki/Liverpool , Manchester: https://en.wikipedia.org/wiki/Manchester
+220: Athlone: https://en.wikipedia.org/wiki/Athlone, Kilkenny: https://en.wikipedia.org/wiki/Kilkenny
+221: Nottingham: https://en.wikipedia.org/wiki/Nottingham , Liverpool: https://en.wikipedia.org/wiki/Liverpool
+222: Lesbos: https://en.wikipedia.org/wiki/Lesbos , Chania: https://en.wikipedia.org/wiki/Chania
+223: Kastoria: https://en.wikipedia.org/wiki/Kastoria , Livadeia: https://en.wikipedia.org/wiki/Livadeia
+224: Birmingham: https://en.wikipedia.org/wiki/Birmingham, Leicester: https://en.wikipedia.org/wiki/Leicester
+225: Cork City: https://en.wikipedia.org/wiki/Cork_%28city%29 , Dublin: https://en.wikipedia.org/wiki/Dublin
+226: Chania: https://en.wikipedia.org/wiki/Chania , Athens: https://en.wikipedia.org/wiki/Athens
+227: Kent: https://en.wikipedia.org/wiki/Kent , Norfolk: https://en.wikipedia.org/wiki/Norfolk
+228: Ballymoe: https://en.wikipedia.org/wiki/Ballymoe , Ratoath: https://en.wikipedia.org/wiki/Ratoath
+229: Athens: https://en.wikipedia.org/wiki/Athens , Manchester: https://en.wikipedia.org/wiki/Manchester
+230: Dublin: https://en.wikipedia.org/wiki/Dublin, Thessaloniki: https://en.wikipedia.org/wiki/Thessaloniki
+231: Suffolk: https://en.wikipedia.org/wiki/Suffolk , County Cork: https://en.wikipedia.org/wiki/County_Cork
+232: Albany: https://en.wikipedia.org/wiki/Albany,_New_York, New York City: https://en.wikipedia.org/wiki/New
+233: Wales: https://en.wikipedia.org/wiki/Wales, Cambridge: https://en.wikipedia.org/wiki/Cambridge
+234: Glasgow: https://en.wikipedia.org/wiki/Glasgow, Edinburgh: https://en.wikipedia.org/wiki/Edinburgh
+235: Cardiff: https://en.wikipedia.org/wiki/Cardiff , Manchester: https://en.wikipedia.org/wiki/Manchester
+236: Alabama: https://en.wikipedia.org/wiki/Alabama , Louisiana: https://en.wikipedia.org/wiki/Louisiana
+237: Texas: https://en.wikipedia.org/wiki/Texas , Kentucky: https://en.wikipedia.org/wiki/Kentucky
+238: Dublin: https://en.wikipedia.org/wiki/Dublin , Scotland: https://en.wikipedia.org/wiki/Scotland
+239: Manchester: https://en.wikipedia.org/wiki/Manchester , Liverpool: https://en.wikipedia.org/wiki/Liverpool
+240: Ladis: No information found. , Dublin: https://en.wikipedia.org/wiki/Dublin
+241: Whitehall: https://en.wikipedia.org/wiki/Whitehall
+242: Cumbria: https://en.wikipedia.org/wiki/Cumbria , Birmingham: https://en.wikipedia.org/wiki/Birmingham
+243: Athens: https://en.wikipedia.org/wiki/Athens
+244: England: https://en.wikipedia.org/wiki/England , Greece: https://en.wikipedia.org/wiki/Greece
+245: York: https://en.wikipedia.org/wiki/York
+246: Essex: https://en.wikipedia.org/wiki/Essex , Hertfordshire: https://en.wikipedia.org/wiki/Hertfordshire
+247: Patras: https://en.wikipedia.org/wiki/Patras, Tripoli: https://en.wikipedia.org/wiki/Tripoli
+248: Belfast: https://en.wikipedia.org/wiki/Belfast , Galatsi: https://en.wikipedia.org/wiki/Galatsi
+249: NYC: https://en.wikipedia.org/wiki/New_York_City, Cambridge: https://en.wikipedia.org/wiki/Cambridge
+250: Dublin: https://en.wikipedia.org/wiki/Dublin
+251: Patmos: https://en.wikipedia.org/wiki/Patmos , Rhodes: https://en.wikipedia.org/wiki/Rhodes
+252: Doolin: https://en.wikipedia.org/wiki/Doolin , Dublin: https://en.wikipedia.org/wiki/Dublin
+253: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+254: Sfakia: https://en.wikipedia.org/wiki/Sfakia, Greece: https://en.wikipedia.org/wiki/Greece
+255: Belfast: https://en.wikipedia.org/wiki/Belfast , London: https://en.wikipedia.org/wiki/London
+256: Peristeri: https://en.wikipedia.org/wiki/Peristeri , Nea Smyrni: https://en.wikipedia.org/wiki/Nea
+257: Essex: https://en.wikipedia.org/wiki/Essex , Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+258: Ballymoe: https://en.wikipedia.org/wiki/Ballymoe , Longford: https://en.wikipedia.org/wiki/County_Longford
+259: Ierapetra: https://en.wikipedia.org/wiki/Ierapetra , Athens: https://en.wikipedia.org/wiki/Athens
+260: Edinburgh: https://en.wikipedia.org/wiki/Edinburgh , London: https://en.wikipedia.org/wiki/London
+261: Belfast: https://en.wikipedia.org/wiki/Belfast , London: https://en.wikipedia.org/wiki/London
+262: Bristol: https://en.wikipedia.org/wiki/Bristol
+263: Thessaly: https://en.wikipedia.org/wiki/Thessaly , Western Macedonia: https://en.wikipedia.org/wiki/West_Macedonia
+264: Dublin: https://en.wikipedia.org/wiki/Dublin , Arklow: https://en.wikipedia.org/wiki/Arklow
+265: Kallithea: https://en.wikipedia.org/wiki/Kallithea , Nea Smyrni: https://en.wikipedia.org/wiki/Ne
+266: Norwich: https://en.wikipedia.org/wiki/Norwich
+267: Norilsk: https://en.wikipedia.org/wiki/Norilsk, Dublin: https://en.wikipedia.org/wiki/Dublin
+268: Leicester: https://en.wikipedia.org/wiki/Leicester , Birmingham: https://en.wikipedia.org/wiki/Birmingham
+269: Scotland: https://en.wikipedia.org/wiki/Scotland, England: https://en.wikipedia.org/wiki/England
+270: York: https://en.wikipedia.org/wiki/York , New York:  https://en.wikipedia.org/wiki/New_York_City
+271: Alaska: https://en.wikipedia.org/wiki/Alaska, Florida: https://en.wikipedia.org/wiki/Florida
+272: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland, United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+273: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland, UK: https://en.wikipedia.org/wiki/United_Kingdom
+274: Tripoli: https://en.wikipedia.org/wiki/Tripoli, Ioannina: https://en.wikipedia.org/wiki/Ioannina
+275: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland , Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
+276: Dublin: https://en.wikipedia.org/wiki/Dublin
+277: Limerick: https://en.wikipedia.org/wiki/Limerick , Waterford: https://en.wikipedia.org/wiki/Waterford , Dublin:
+278: Epirus: https://en.wikipedia.org/wiki/Epirus
+279: Oxfordshire: https://en.wikipedia.org/wiki/Oxfordshire
+280: County Mayo: https://en.wikipedia.org/wiki/County_Mayo
+281: Moschato Tavros: https://en.wikipedia.org/wiki/Moschato-Tavros
+282: Essex: https://en.wikipedia.org/wiki/Essex
+283: County Sligo: https://en.wikipedia.org/wiki/County_Sligo
+284: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+285: Doolin: https://en.wikipedia.org/wiki/Doolin
+286: Mykonos: https://en.wikipedia.org/wiki/Mykonos
+287: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+288: Manchester: https://en.wikipedia.org/wiki/Manchester
+289: Dublin: https://en.wikipedia.org/wiki/Dublin, Canals in Dublin: https://en.wikipedia.org/wiki/Canals_in_Dub
+290: Piraeus: https://en.wikipedia.org/wiki/Piraeus
+291: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire.
+292: Dublin: https://en.wikipedia.org/wiki/Dublin
+293: Corfu: https://en.wikipedia.org/wiki/Corfu
+294: Dublin: https://en.wikipedia.org/wiki/Dublin , Lakes within 50km of Dublin: There are no notable lakes within 50
+295: Cardiff: https://en.wikipedia.org/wiki/Cardiff
+296: Westminster: https://en.wikipedia.org/wiki/Westminster
+297: Castleblayney: https://en.wikipedia.org/wiki/Castleblayney
+298: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+299: Hampshire: https://en.wikipedia.org/wiki/Hampshire
+300: Cork: https://en.wikipedia.org/wiki/Cork
+301: Agia Paraskevi: https://en.wikipedia.org/wiki/Agia_Paraskevi
+302: Central Athens Regional Unit: https://en.wikipedia.org/wiki/Central_Athens_Regional_Unit
+303: Greater London Authority: https://en.wikipedia.org/wiki/Greater_London_Authority
+304: County Carlow: https://en.wikipedia.org/wiki/County_Carlow , County Kilkenny: https://en.wikipedia.org/wiki/County_K
+305: Dublin: https://en.wikipedia.org/wiki/Dublin
+306: Naxos: https://en.wikipedia.org/wiki/Naxos , 
+307: Manchester: https://en.wikipedia.org/wiki/Manchester
+308: Doolin: https://en.wikipedia.org/wiki/Doolin , Bays: There are several bays near Doolin, including: -
+309: Lincolnshire: https://en.wikipedia.org/wiki/Lincolnshire
+310: Greek: https://en.wikipedia.org/wiki/Greece
+311: Dublin: https://en.wikipedia.org/wiki/Dublin , Islands (North of Dublin): No specific Wikipedia link provided.
+312: Athens: https://en.wikipedia.org/wiki/Athens
+313: Cambridge: https://en.wikipedia.org/wiki/Cambridge
+314: Lough Neagh: https://en.wikipedia.org/wiki/Lough_Neagh
+315: Ierapetra: https://en.wikipedia.org/wiki/Ierapetra
+316: London: https://en.wikipedia.org/wiki/London
+317: Kilkieran: https://en.wikipedia.org/wiki/Kilkieran
+318: Birmingham: https://en.wikipedia.org/wiki/Birmingham
+319: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland , Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
+320: Lake District: https://en.wikipedia.org/wiki/Lake_District , Loch Ness: https://en.wikipedia.org/wiki/Loch_Ness
+321: Nea Smirni: https://en.wikipedia.org/wiki/Nea_Smirni
+322: Athens: https://en.wikipedia.org/wiki/Athens
+323: Greater London: https://en.wikipedia.org/wiki/Greater_London
+324: Dublin: https://en.wikipedia.org/wiki/Dublin
+325: Dublin: https://en.wikipedia.org/wiki/Dublin
+326: Manchester: https://en.wikipedia.org/wiki/Manchester
+327: Thessaloniki: https://en.wikipedia.org/wiki/Thessaloniki
+328: Dublin: https://en.wikipedia.org/wiki/Dublin
+329: Greater London: https://en.wikipedia.org/wiki/Greater_London
+330: Greece: https://en.wikipedia.org/wiki/Greece
+331: Essex County: https://en.wikipedia.org/wiki/Essex_County,_New_Jersey
+332: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+333: Epirus: https://en.wikipedia.org/wiki/Epirus
+334: Greater London: https://en.wikipedia.org/wiki/Greater_London , Surrey: https://en.wikipedia.org/wiki/Surrey, 
+335: Belfast: https://en.wikipedia.org/wiki/Belfast
+336: Greenwich: https://en.wikipedia.org/wiki/Greenwich, Stream: https://en.wikipedia.org/wiki/Stream
+337: Alonnisos: https://en.wikipedia.org/wiki/Alonnisos
+338: Nottingham: https://en.wikipedia.org/wiki/Nottingham
+339: Dublin: https://en.wikipedia.org/wiki/Dublin
+340: Worcestershire County: https://en.wikipedia.org/wiki/Worcestershire
+341: Coolea: https://en.wikipedia.org/wiki/Coolea
+342: Kilkis: https://en.wikipedia.org/wiki/Kilkis
+343: Copeland district: https://en.wikipedia.org/wiki/Copeland_district
+344: Kastanas beach: https://en.wikipedia.org/wiki/Kastanas_beach
+345: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+346: Cork: https://en.wikipedia.org/wiki/Cork
+347: Greece: https://en.wikipedia.org/wiki/Greece
+348: England: https://en.wikipedia.org/wiki/England
+349: Dublin: https://en.wikipedia.org/wiki/Dublin
+350: Donegal county: https://en.wikipedia.org/wiki/County_Donegal
+351: Warwickshire: https://en.wikipedia.org/wiki/Warwickshire
+352: Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia
+353: Clondalkin: https://en.wikipedia.org/wiki/Clondalkin
+354: Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia
+355: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+356: Stafford district does not border any other districts as it is a non-metropolitan district in Staffordshire, England.
+357: County Clare: https://en.wikipedia.org/wiki/County_Clare
+358: Wakefield district: https://en.wikipedia.org/wiki/City_of_Wakefield
+359: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+360: Athens: https://en.wikipedia.org/wiki/Athens
+361: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+362: Ardee: https://en.wikipedia.org/wiki/Ardee
+363: Chania: https://en.wikipedia.org/wiki/Chania
+364: Norfolk: https://en.wikipedia.org/wiki/Norfolk
+365: Barony of Coshlea: https://en.wikipedia.org/wiki/Coshlea
+366: Makrakomi: https://en.wikipedia.org/wiki/Makrakomi
+367: Durham County: https://en.wikipedia.org/wiki/Durham_County,_North_Carolina
+368: Meath: https://en.wikipedia.org/wiki/County_Meath
+369: Edinburgh Forests: https://en.wikipedia.org/wiki/Forests_in_Edinburgh , Edinburgh Canals: https://en.wikipedia.org/wiki
+370: Ormos Vourkari: https://en.wikipedia.org/wiki/Ormos_Vourkari
+371: English county: https://en.wikipedia.org/wiki/English_counties
+372: Lincolnshire: https://en.wikipedia.org/wiki/Lincolnshire
+373: Manchester: https://en.wikipedia.org/wiki/Manchester
+374: UK: https://en.wikipedia.org/wiki/United_Kingdom
+375: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+376: Loch Ness: https://en.wikipedia.org/wiki/Loch_Ness
+377: New York City: https://en.wikipedia.org/wiki/New_York_City
+378: Lake Michigan: https://en.wikipedia.org/wiki/Lake_Michigan
+379: Hoy: https://en.wikipedia.org/wiki/Hoy , Island: https://en.wikipedia.org/wiki/Island
+380: Miami: https://en.wikipedia.org/wiki/Miami
+381: Lough Corrib: https://en.wikipedia.org/wiki/Lough_Corrib
+382: Scotland: https://en.wikipedia.org/wiki/Scotland
+383: Wales: https://en.wikipedia.org/wiki/Wales
+384: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+385: Lough Neagh: https://en.wikipedia.org/wiki/Lough_Neagh , Lough Corrib: https://en.wikipedia.org/wiki/Lough
+386: Peristeri: https://en.wikipedia.org/wiki/Peristeri
+387: York: https://en.wikipedia.org/wiki/York
+388: Missolonghi: https://en.wikipedia.org/wiki/Missolonghi
+389: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
+390: Ioannina: https://en.wikipedia.org/wiki/Ioannina
+391: Chania: https://en.wikipedia.org/wiki/Chania
+392: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+393: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+394: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+395: New York City: https://en.wikipedia.org/wiki/New_York_City
+396: Thebes: https://en.wikipedia.org/wiki/Thebes, Boeotia: https://en.wikipedia.org/wiki/Boeotia
+397: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+398: Dublin: https://en.wikipedia.org/wiki/Dublin
+399: Lemnos: https://en.wikipedia.org/wiki/Lemnos
+400: County Carlow: https://en.wikipedia.org/wiki/County_Carlow
+401: Wales: https://en.wikipedia.org/wiki/Wales
+402: Manchester: https://en.wikipedia.org/wiki/Manchester
+403: Clonakilty: https://en.wikipedia.org/wiki/Clonakilty
+404: Peloponnese: https://en.wikipedia.org/wiki/Peloponnese
+405: Dublin: https://en.wikipedia.org/wiki/Dublin
+406: Bedford County: https://en.wikipedia.org/wiki/Bedford_County,_[state]
+407: Chalandri: https://en.wikipedia.org/wiki/Chalandri
+408: South Athens Regional Unit: https://en.wikipedia.org/wiki/South_Athens_Regional_Unit
+409: Greater London Authority: https://en.wikipedia.org/wiki/Greater_London_Authority, districts: https://en.wikipedia.org/wiki/List_of_London
+410: London: https://en.wikipedia.org/wiki/London
+411: Corfu: https://en.wikipedia.org/wiki/Corfu
+412: New York City: https://en.wikipedia.org/wiki/New_York_City
+413: NYC: https://en.wikipedia.org/wiki/New_York_City
+414: Nottinghamshire: https://en.wikipedia.org/wiki/Nottinghamshire
+415: Wales: https://en.wikipedia.org/wiki/Wales
+416: Athens: https://en.wikipedia.org/wiki/Athens
+417: County Kerry: https://en.wikipedia.org/wiki/County_Kerry
+418: Athens: https://en.wikipedia.org/wiki/Athens
+419: Dublin: https://en.wikipedia.org/wiki/Dublin
+420: Greater London: https://en.wikipedia.org/wiki/Greater_London
+421: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+422: Tripoli: https://en.wikipedia.org/wiki/Tripoli,_Greece , Greece: https://en.wikipedia.org/wiki/Greece
+423: Chania: https://en.wikipedia.org/wiki/Chania
+424: UK: https://en.wikipedia.org/wiki/United_Kingdom
+425: Houston: https://en.wikipedia.org/wiki/Houston , San Antonio: https://en.wikipedia.org/wiki/San_Antonio , Dallas: https://
+426: Manchester: https://en.wikipedia.org/wiki/Manchester , England: https://en.wikipedia.org/wiki/England
+427: Northumberland: https://en.wikipedia.org/wiki/Northumberland , Alnwick: https://en.wikipedia.org/wiki/Alnwick
+428: Suffolk: https://en.wikipedia.org/wiki/Suffolk
+429: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+430: Attica: https://en.wikipedia.org/wiki/Attica
+431: Pallini: https://en.wikipedia.org/wiki/Pallini , Agia Paraskevi: https://en.wikipedia.org/wiki/Agia_P
+432: Municipalities: 'https://en.wikipedia.org/wiki/Municipality'
+433: I'm sorry, but I cannot browse the internet or access up-to-date information. My responses are based on pre-existing knowledge. Therefore, I cannot
+434: There are many lakes that border villages around the world. Some examples include: - Lake Como: https://en.wikipedia.org/wiki/Lake_Como
+435: streams: https://en.wikipedia.org/wiki/Stream, cities: https://en.wikipedia.org/wiki/City
+436: Barony: https://en.wikipedia.org/wiki/Barony , Townlands: https://en.wikipedia.org/wiki/Townland
+437: Nature Reserves: 1. Serengeti National Park: https://en.wikipedia.org/wiki/Serengeti_National_Park
+438: Towns with beaches: 1. Miami: https://en.wikipedia.org/wiki/Miami  , 2. Rio de Janeiro: https://en.wikipedia.org
+439: Rural areas: https://en.wikipedia.org/wiki/Rural_area , Lakes: https://en.wikipedia.org/wiki/Lake
+440: Urban centers: - Sydney: https://en.wikipedia.org/wiki/Sydney  , - Miami: https://en.wikipedia.org/wiki/Miami , -
+441: woodland area: https://en.wikipedia.org/wiki/Woodland
+442: Delaware: https://en.wikipedia.org/wiki/Delaware , Rhode Island: https://en.wikipedia.org/wiki/Rhode_Island
+443: Lake Tahoe: https://en.wikipedia.org/wiki/Lake_Tahoe
+444: stream: https://en.wikipedia.org/wiki/Stream
+445: localities: https://en.wikipedia.org/wiki/Localities_adjacent_to_lakes, lakes: https://en.wikipedia.org/wiki/Lake
+446: I'm sorry, but I'm unable to browse the internet and provide live information. My responses are generated based on pre-existing knowledge. However, I
+447: Islands: https://en.wikipedia.org/wiki/Island , Lakes: https://en.wikipedia.org/wiki/Lake
+448: Greek villages: No Wikipedia link available
+449: Irish Baronies: No specific answer found
+450: Islands: https://en.wikipedia.org/wiki/Island
+451: County: https://en.wikipedia.org/wiki/County , Forest: https://en.wikipedia.org/wiki/Forest
+452: States without lakes: , - Arizona: https://en.wikipedia.org/wiki/Arizona , - Nevada: https://en.wikipedia.org/wiki/Nevada
+453: US: https://en.wikipedia.org/wiki/United_States
+454: Central Greece: https://en.wikipedia.org/wiki/Central_Greece
+455: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+456: Lakes in England: https://en.wikipedia.org/wiki/Lakes_of_England, Streams in England: https://en.wikipedia.org/wiki/List_of
+457: Milos: https://en.wikipedia.org/wiki/Milos
+458: Oxford: https://en.wikipedia.org/wiki/Oxford
+459: County Mayo: https://en.wikipedia.org/wiki/County_Mayo
+460: Civil Parishes or Communites: Birmingham: https://en.wikipedia.org/wiki/Birmingham
+461: Dublin: https://en.wikipedia.org/wiki/Dublin
+462: Corfu Island: https://en.wikipedia.org/wiki/Corfu
+463: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+464: Cumbria: https://en.wikipedia.org/wiki/Cumbria
+465: County Longford: https://en.wikipedia.org/wiki/County_Longford
+466: Greece: https://en.wikipedia.org/wiki/Greece
+467: Edinburgh: https://en.wikipedia.org/wiki/Edinburgh
+468: County Roscommon: https://en.wikipedia.org/wiki/County_Roscommon
+469: Suffolk: https://en.wikipedia.org/wiki/Suffolk
+470: County Kildare: https://en.wikipedia.org/wiki/County_Kildare
+471: England: https://en.wikipedia.org/wiki/England
+472: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+473: Central Athens regional unit does not have any parks.
+474: Cork: https://en.wikipedia.org/wiki/Cork , County Cork: https://en.wikipedia.org/wiki/County_Cork
+475: Cambridge: https://en.wikipedia.org/wiki/Cambridge
+476: Epirus: https://en.wikipedia.org/wiki/Epirus, Lake: https://en.wikipedia.org/wiki/Lake
+477: Thasos: https://en.wikipedia.org/wiki/Thasos , Lagoon: https://en.wikipedia.org/wiki/Lagoon
+478: St. Stephen's Green: https://en.wikipedia.org/wiki/St_Stephen%27s_Green
+479: Birmingham: https://en.wikipedia.org/wiki/Birmingham
+480: Naxos: https://en.wikipedia.org/wiki/Naxos
+481: Dublin: https://en.wikipedia.org/wiki/Dublin
+482: beaches: https://en.wikipedia.org/wiki/Beach , Greece: https://en.wikipedia.org/wiki/Greece
+483: Irish city councils: https://en.wikipedia.org/wiki/City_and_County_Councils_in_Ireland , parks: https://en.wikipedia.org
+484: Northumberland: https://en.wikipedia.org/wiki/Northumberland , Cumbria: https://en.wikipedia.org/wiki/Cumbria
+485: County Wicklow: https://en.wikipedia.org/wiki/County_Wicklow
+486: Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia
+487: England: https://en.wikipedia.org/wiki/England
+488: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+489: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+490: Greece: https://en.wikipedia.org/wiki/Greece
+491: England: https://en.wikipedia.org/wiki/England
+492: Kilmacrenan: https://en.wikipedia.org/wiki/Kilmacrenan
+493: Kastoria: https://en.wikipedia.org/wiki/Kastoria
+494: County Cavan: https://en.wikipedia.org/wiki/County_Cavan
+495: Breckland district: https://en.wikipedia.org/wiki/Breckland_district
+496: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+497: Staffordshire: https://en.wikipedia.org/wiki/Staffordshire
+498: County Longford: https://en.wikipedia.org/wiki/County_Longford
+499: Cork: https://en.wikipedia.org/wiki/Cork , Northern side of Cork: No specific location provided. , Forests near Cork: No specific location
+500: State of Iowa: https://en.wikipedia.org/wiki/Iowa
+501: County Cumbria: https://en.wikipedia.org/wiki/Cumbria
+502: Corfu: https://en.wikipedia.org/wiki/Corfu
+503: Prespa Lakes: https://en.wikipedia.org/wiki/Prespa_lakes
+504: English County: https://en.wikipedia.org/wiki/English_counties , forests: https://en.wikipedia.org/wiki/Forest_of_Department
+505: Irish Barony: https://en.wikipedia.org/wiki/Barony
+506: Norfolk County: https://en.wikipedia.org/wiki/Norfolk_County,_Massachusetts
+507: Baronies: https://en.wikipedia.org/wiki/Barony (no specific location mentioned) , Coshlea: No specific location found.
+508: Cambridge: https://en.wikipedia.org/wiki/Cambridge
+509: Ireland: https://en.wikipedia.org/wiki/Ireland
+510: Greek municipalities: https://en.wikipedia.org/wiki/List_of_municipalities_of_Greece
+511: Scotland: https://en.wikipedia.org/wiki/Scotland
+512: Ireland: https://en.wikipedia.org/wiki/Ireland
+513: South Aegean: https://en.wikipedia.org/wiki/South_Aegean
+514: State of Illinois: https://en.wikipedia.org/wiki/Illinois
+515: Orange County, California: https://en.wikipedia.org/wiki/Orange_County,_California
+516: Greece: https://en.wikipedia.org/wiki/Greece
+517: England: https://en.wikipedia.org/wiki/England
+518: Ireland: https://en.wikipedia.org/wiki/Ireland
+519: Attica: https://en.wikipedia.org/wiki/Attica , Municipalities in Attica: - Athens: https://en.wikipedia.org/wiki
+520: Yellowstone National Park: https://en.wikipedia.org/wiki/Yellowstone_National_Park  , Great Smoky Mountains National Park: https://en.wikipedia
+521: Dublin: https://en.wikipedia.org/wiki/Dublin , Rural areas south of Dublin do not have specific names mentioned.
+522: Attica: https://en.wikipedia.org/wiki/Attica
+523: London: https://en.wikipedia.org/wiki/London
+524: County Wicklow: https://en.wikipedia.org/wiki/County_Wicklow
+525: Greece: https://en.wikipedia.org/wiki/Greece
+526: Reservoirs: https://en.wikipedia.org/wiki/Reservoirs_in_Ireland , 3rd order administrative units: https://en.wikipedia.org
+527: England: https://en.wikipedia.org/wiki/England
+528: Greek villages: No specific Wikipedia link provided since the prompt does not specify any particular villages.
+529: Nature reserves in the United Kingdom: https://en.wikipedia.org/wiki/Nature_reserves_in_the_United_Kingdom
+530: US: https://en.wikipedia.org/wiki/United_States
+531: Thrace: https://en.wikipedia.org/wiki/Thrace
+532: Oxford: https://en.wikipedia.org/wiki/Oxford
+533: Parks in the US: https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States
+534: Ireland: https://en.wikipedia.org/wiki/Ireland
+535: UK: https://en.wikipedia.org/wiki/United_Kingdom
+536: England: https://en.wikipedia.org/wiki/England
+537: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+538: Lake Prespa: https://en.wikipedia.org/wiki/Lake_Prespa , Lake Trichonida: https://en.wikipedia.org/wiki/Lake
+539: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+540: United States: https://en.wikipedia.org/wiki/United_States
+541: Peloponnese: https://en.wikipedia.org/wiki/Peloponnese
+542: Essex: https://en.wikipedia.org/wiki/Essex
+543: Tullyhaw Barony: https://en.wikipedia.org/wiki/Tullyhaw
+544: Ireland: https://en.wikipedia.org/wiki/Ireland
+545: England: https://en.wikipedia.org/wiki/England , Wales: https://en.wikipedia.org/wiki/Wales
+546: Texas: https://en.wikipedia.org/wiki/Texas
+547: County Kerry: https://en.wikipedia.org/wiki/County_Kerry , County Wexford: https://en.wikipedia.org/wiki/County_Wexford
+548: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+549: Corfu: https://en.wikipedia.org/wiki/Corfu
+550: Lake Trichonida: https://en.wikipedia.org/wiki/Lake_Trichonida
+551: Streams in Crete: https://en.wikipedia.org/wiki/List_of_rivers_of_Crete
+552: Paros: https://en.wikipedia.org/wiki/Paros
+553: Dublin: https://en.wikipedia.org/wiki/Dublin
+554: Greece: https://en.wikipedia.org/wiki/Greece
+555: Ireland: https://en.wikipedia.org/wiki/Ireland
+556: Cheshire West and Chester: https://en.wikipedia.org/wiki/Cheshire_West_and_Chester , Shropshire: https://en.wikipedia
+557: Wicklow: https://en.wikipedia.org/wiki/County_Wicklow
+558: British county: https://en.wikipedia.org/wiki/British_county
+559: Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia
+560: Greece: https://en.wikipedia.org/wiki/Greece
+561: Ireland: https://en.wikipedia.org/wiki/Ireland
+562: Ireland: https://en.wikipedia.org/wiki/Ireland
+563: Greece: https://en.wikipedia.org/wiki/Greece
+564: Great Britain: https://en.wikipedia.org/wiki/Great_Britain
+565: Peloponnese: https://en.wikipedia.org/wiki/Peloponnese
+566: Prespa Lakes: https://en.wikipedia.org/wiki/Prespa_lakes
+567: Irish Barony: https://en.wikipedia.org/wiki/Barony
+568: Corfu: https://en.wikipedia.org/wiki/Corfu
+569: Longford: https://en.wikipedia.org/wiki/County_Longford
+570: Baronies: There are no specific Wikipedia links available for baronies in this context. However, baronies are administrative divisions in Ireland.
+571: Greece: https://en.wikipedia.org/wiki/Greece
+572: United States: https://en.wikipedia.org/wiki/United_States
+573: Staffordshire: https://en.wikipedia.org/wiki/Staffordshire
+574: Oregon: https://en.wikipedia.org/wiki/Oregon
+575: US Virgin Islands: https://en.wikipedia.org/wiki/United_States_Virgin_Islands  , Hawaii: https://en.wikipedia.org/wiki/H
+576: Which county in Wales has the smallest number of villages?
+577: Epirus: https://en.wikipedia.org/wiki/Epirus_(region) , Thessaly: https://en.wikipedia.org/wiki/Thessaly
+578: Epirus: https://en.wikipedia.org/wiki/Epirus
+579: Arkansas: https://en.wikipedia.org/wiki/Arkansas , Louisiana: https://en.wikipedia.org/wiki/Louisiana , Mississippi: https://en
+580: Missouri: https://en.wikipedia.org/wiki/Missouri
+581: Lough Neagh: https://en.wikipedia.org/wiki/Lough_Neagh
+582: Texas: https://en.wikipedia.org/wiki/Texas
+583: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland, Ireland: https://en.wikipedia.org/wiki/Ireland
+584: Chania: https://en.wikipedia.org/wiki/Chania , Greece: https://en.wikipedia.org/wiki/Greece
+585: Longford: https://en.wikipedia.org/wiki/County_Longford
+586: County Cumbria: https://en.wikipedia.org/wiki/Cumbria
+587: English counties: 'https://en.wikipedia.org/wiki/Counties_of_England' , Forests in England: 'https://en.wikipedia.org/wiki
+588: Greek regions: 1. Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia  2. Eastern Macedonia and Thrace: https
+589: Greek municipalities: https://en.wikipedia.org/wiki/List_of_municipalities_of_Greece
+590: Irish counties: - Fingal: https://en.wikipedia.org/wiki/Fingal - Dún Laoghaire–Rath
+591: Essex: https://en.wikipedia.org/wiki/Essex
+592: Periferiaki Enotita Nison: https://en.wikipedia.org/wiki/Periferiaki_Enotita_Nison
+593: Wards of Northern Ireland: https://en.wikipedia.org/wiki/Wards_of_Northern_Ireland, Dublin: https://en.wikipedia.org/wiki/D
+594: Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia
+595: Greece: https://en.wikipedia.org/wiki/Greece
+596: Dublin: https://en.wikipedia.org/wiki/Dublin
+597: This query requires a list of municipalities in Greece with a population of less than 30000.
+598: Peloponnese: https://en.wikipedia.org/wiki/Peloponnese
+599: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
+600: Scarawalsh Barony: https://en.wikipedia.org/wiki/Scarawalsh_Barony
+601: Kastoria: https://en.wikipedia.org/wiki/Kastoria
+602: Crete: https://en.wikipedia.org/wiki/Crete
+603: Scotland: https://en.wikipedia.org/wiki/Scotland
+604: County Longford: https://en.wikipedia.org/wiki/County_Longford, Dublin: https://en.wikipedia.org/wiki/Dublin
+605: Aegina: https://en.wikipedia.org/wiki/Aegina , Kea-Kythnos: https://en.wikipedia.org/wiki/Kea-K
+606: Central Athens Regional Unit: https://en.wikipedia.org/wiki/Central_Athens_Regional_Unit. I could not find a specific list of municipalities in
+607: Northern Irish: https://en.wikipedia.org/wiki/Northern_Ireland , Wales: https://en.wikipedia.org/wiki/Wales
+608: Epping Forest: https://en.wikipedia.org/wiki/Epping_Forest , counties: No specific link available
+609: Central Athens: https://en.wikipedia.org/wiki/Central_Athens
+610: Greece: https://en.wikipedia.org/wiki/Greece
+611: Achaea: https://en.wikipedia.org/wiki/Achaea , Aetolia-Acarnania: https://en.wikipedia.org/wiki/Aet
+612: Louisiana: https://en.wikipedia.org/wiki/Louisiana
+613: Los Angeles: https://en.wikipedia.org/wiki/Los_Angeles
+614: England: https://en.wikipedia.org/wiki/England
+615: County Roscommon: https://en.wikipedia.org/wiki/County_Roscommon
+616: Pyrgos: https://en.wikipedia.org/wiki/Pyrgos,_Elis
+617: Cork: https://en.wikipedia.org/wiki/Cork
+618: Essex: https://en.wikipedia.org/wiki/Essex
+619: Greece: https://en.wikipedia.org/wiki/Greece
+620: England: https://en.wikipedia.org/wiki/England
+621: Dublin: https://en.wikipedia.org/wiki/Dublin
+622: Monaghan: https://en.wikipedia.org/wiki/County_Monaghan
+623: I'm sorry, but I am unable to answer that question as it requires access to a database or specific information on the number of lakes in each county
+624: County Cavan: https://en.wikipedia.org/wiki/County_Cavan
+625: Staffordshire: https://en.wikipedia.org/wiki/Staffordshire
+626: Rural Area south of Cork City: No specific Wikipedia link provided.
+627: Lakeside villages: No specific Wikipedia link provided
+628: streams: https://en.wikipedia.org/wiki/Stream
+629: cities: https://en.wikipedia.org/wiki/List_of_cities_with_seven_hills
+630: Greek region: https://en.wikipedia.org/wiki/Greek_region
+631: English districts: https://en.wikipedia.org/wiki/Districts_of_England
+632: Townland: https://en.wikipedia.org/wiki/Townland , Lake: https://en.wikipedia.org/wiki/Lake
+633: forests: https://en.wikipedia.org/wiki/Forest , lake: https://en.wikipedia.org/wiki/Lake
+634: city limits: https://en.wikipedia.org/wiki/City_limits
+635: bays: https://en.wikipedia.org/wiki/Bay , villages: not found
+636: Municipalities: https://en.wikipedia.org/wiki/Municipality
+637: Counties: https://en.wikipedia.org/wiki/List_of_counties_in_the_United_States
+638: counties: No results found.
+639: Greek regions with a beach: 1. Attica: https://en.wikipedia.org/wiki/Attica 2. Central Greece: https://en
+640: Counties: https://en.wikipedia.org/wiki/County
+641: Sorry, I am not able to perform toponym recognition.
+642: Nature reserves: https://en.wikipedia.org/wiki/Nature_reserve , Forests: https://en.wikipedia.org/wiki/Forest
+643: Oxbows do not refer to administrative entities, but rather to a geographic feature found in rivers.
+644: Islands: https://en.wikipedia.org/wiki/Island , Lakes: https://en.wikipedia.org/wiki/Lake
+645: nature reserves: https://en.wikipedia.org/wiki/Nature_reserve, towns: https://en.wikipedia.org/wiki/Town
+646: Villages: https://en.wikipedia.org/wiki/Village , Towns: https://en.wikipedia.org/wiki/Town
+647: beaches: https://en.wikipedia.org/wiki/Beach
+648: district wards: https://en.wikipedia.org/wiki/District_ward
+649: Irish counties: https://en.wikipedia.org/wiki/Counties_of_Ireland
+650: forest: https://en.wikipedia.org/wiki/Forest
+651: I'm sorry, but I can only provide information about the toponyms (location names) and their associated Wikipedia links. Could you please rephrase
+652: Forests: https://en.wikipedia.org/wiki/Forest, Lakes: https://en.wikipedia.org/wiki/Lake
+653: This prompt does not contain any specific location names.
+654: Bay: https://en.wikipedia.org/wiki/Bay
+655: Streams: https://en.wikipedia.org/wiki/Stream , Lakes: https://en.wikipedia.org/wiki/Lake
+656: nature reserves: https://en.wikipedia.org/wiki/Nature_reserve , forests: https://en.wikipedia.org/wiki/Forest
+657: 'villages': https://en.wikipedia.org/wiki/Village
+658: nature reserves: https://en.wikipedia.org/wiki/Nature_reserves , islands: https://en.wikipedia.org/wiki/Island
+659: There is not enough information given to provide a specific answer.
+660: parks: https://en.wikipedia.org/wiki/Park, lakes: https://en.wikipedia.org/wiki/Lake
+661: There is no specific location mentioned in the prompt.
+662: Cretan villages: https://en.wikipedia.org/wiki/Cretan_villages , Cretan forests: https://en.wikipedia.org/wiki/C
+663: County Kerry: https://en.wikipedia.org/wiki/County_Kerry
+664: Greek municipalities: https://en.wikipedia.org/wiki/List_of_municipalities_of_Greece
+665: Metropolitan districts: https://en.wikipedia.org/wiki/Metropolitan_district.
+666: villages: https://en.wikipedia.org/wiki/Village , cities: https://en.wikipedia.org/wiki/City
+667: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+668: Scotland: https://en.wikipedia.org/wiki/Scotland
+669: localities: https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_the_United_States_adjacent_to_forests
+670: municipalities: https://en.wikipedia.org/wiki/Municipality
+671: Canal: https://en.wikipedia.org/wiki/Canal
+672: Wales: https://en.wikipedia.org/wiki/Wales
+673: Lakes: https://en.wikipedia.org/wiki/Lake
+674: Greece: https://en.wikipedia.org/wiki/Greece
+675: England: https://en.wikipedia.org/wiki/England
+676: Greece: https://en.wikipedia.org/wiki/Greece
+677: English counties: https://en.wikipedia.org/wiki/Counties_of_England , parks: https://en.wikipedia.org/wiki/Park
+678: nature reserves: https://en.wikipedia.org/wiki/Nature_reserve
+679: Greek regional units: https://en.wikipedia.org/wiki/Decentralized_administrations_of_Greece#Nomenclature
+680: Irish townlands: https://en.wikipedia.org/wiki/Townland , County Kildare: https://en.wikipedia.org/wiki/County_Kild
+681: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+682: Oxford: https://en.wikipedia.org/wiki/Oxford
+683: County Longford: https://en.wikipedia.org/wiki/County_Longford
+684: Greece: https://en.wikipedia.org/wiki/Greece
+685: England: https://en.wikipedia.org/wiki/England
+686: County Mayo: https://en.wikipedia.org/wiki/County_Mayo
+687: English counties: https://en.wikipedia.org/wiki/Counties_of_England
+688: Plymouth: https://en.wikipedia.org/wiki/Plymouth
+689: Attica: https://en.wikipedia.org/wiki/Attica
+690: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+691: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
+692: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+693: England: https://en.wikipedia.org/wiki/England
+694: Greece: https://en.wikipedia.org/wiki/Greece
+695: Michigan: https://en.wikipedia.org/wiki/Michigan
+696: Scotland: https://en.wikipedia.org/wiki/Scotland
+697: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+698: Alabama: https://en.wikipedia.org/wiki/Alabama
+699: California: https://en.wikipedia.org/wiki/California
+700: Ireland: https://en.wikipedia.org/wiki/Ireland
+701: California: https://en.wikipedia.org/wiki/California
+702: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
+703: Villages: https://en.wikipedia.org/wiki/Village
+704: Ireland: https://en.wikipedia.org/wiki/Ireland
+705: Greece: https://en.wikipedia.org/wiki/Greece
+706: Texas: https://en.wikipedia.org/wiki/Texas
+707: Irish counties: https://en.wikipedia.org/wiki/Counties_of_Ireland
+708: Lakeside forests: https://en.wikipedia.org/wiki/Lakeside_forest
+709: Canals: https://en.wikipedia.org/wiki/Canals
+710: Bay: https://en.wikipedia.org/wiki/Bay
+711: Woodlands: https://en.wikipedia.org/wiki/Woodlands
+712: English districts: https://en.wikipedia.org/wiki/Local_government_in_England
+713: Forests: https://en.wikipedia.org/wiki/Forest , Lakes: https://en.wikipedia.org/wiki/Lake
+714: Lake: https://en.wikipedia.org/wiki/Lake
+715: Parks: https://en.wikipedia.org/wiki/Park
+716: nature reserves: https://en.wikipedia.org/wiki/Nature_reserve
+717: There are many nature reserves that have beaches bordering them. Could you please provide the name of a specific nature reserve?
+718: Lake: https://en.wikipedia.org/wiki/Lake , Forest: https://en.wikipedia.org/wiki/Forest
+719: streams: https://en.wikipedia.org/wiki/Stream
+720: United States: https://en.wikipedia.org/wiki/United_States
+721: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire, England: https://en.wikipedia.org/wiki/England
+722: Greece: https://en.wikipedia.org/wiki/Greece
+723: There is no specific location mentioned in the prompt, so I cannot provide any specific information about villages located on the border of cities.
+724: Parks: https://en.wikipedia.org/wiki/Parks
+725: I'm sorry, but I am unable to provide an answer to that question as it does not involve specific locations or toponyms.
+726: Greece: https://en.wikipedia.org/wiki/Greece
+727: Regions: https://en.wikipedia.org/wiki/Region
+728: cities: https://en.wikipedia.org/wiki/City, lakes: https://en.wikipedia.org/wiki/Lake
+729: Forests: https://en.wikipedia.org/wiki/Forest
+730: Greek municipalities: https://en.wikipedia.org/wiki/Municipalities_and_communities_of_Greece
+731: Irish Baronies: https://en.wikipedia.org/wiki/Baronies_of_Ireland
+732: Ireland: https://en.wikipedia.org/wiki/Ireland
+733: Greek regions: https://en.wikipedia.org/wiki/Regions_of_Greece
+734: Baronies: https://en.wikipedia.org/wiki/Barony
+735: Streams, Beaches: https://en.wikipedia.org/wiki/Beach, Lakes: https://en.wikipedia.org/wiki/Lake
+736: Nature reserve: https://en.wikipedia.org/wiki/Nature_reserve
+737: parks: https://en.wikipedia.org/wiki/List_of_parks_with_lagoons
+738: municipalities: https://en.wikipedia.org/wiki/Municipality
+739: British counties: https://en.wikipedia.org/wiki/Geography_of_the_United_Kingdom
+740: British counties: https://en.wikipedia.org/wiki/Counties_of_the_United_Kingdom
+741: Baronies: https://en.wikipedia.org/wiki/Barony (Note: Baronies do not typically have parks inside them, as they are historical
+742: Municipalities of Central Greece: https://en.wikipedia.org/wiki/Municipalities_of_Central_Greece
+743: Texas: https://en.wikipedia.org/wiki/Texas
+744: Greece: https://en.wikipedia.org/wiki/Administrative_divisions_of_Greece
+745: Scottish lakes: https://en.wikipedia.org/wiki/List_of_lochs_of_Scotland
+746: Greece: https://en.wikipedia.org/wiki/Greece
+747: Islands: 1. Great Lakes Island: https://en.wikipedia.org/wiki/Great_Lakes_Island 2. Isle Royale: https://en
+748: American States: https://en.wikipedia.org/wiki/States_of_the_United_States
+749: US county: https://en.wikipedia.org/wiki/County_(United_States)
+750: UK: https://en.wikipedia.org/wiki/United_Kingdom
+751: England: https://en.wikipedia.org/wiki/England
+752: Greece: https://en.wikipedia.org/wiki/Greece, Ireland: https://en.wikipedia.org/wiki/Ireland
+753: islands: https://en.wikipedia.org/wiki/List_of_islands
+754: UK: https://en.wikipedia.org/wiki/United_Kingdom
+755: Greece: https://en.wikipedia.org/wiki/Greece
+756: Thrace: https://en.wikipedia.org/wiki/Thrace
+757: Harris County: https://en.wikipedia.org/wiki/Harris_County,_Texas , Texas: https://en.wikipedia.org/wiki/Texas
+758: Athens: https://en.wikipedia.org/wiki/Athens
+759: Belfast: https://en.wikipedia.org/wiki/Belfast
+760: Athens: https://en.wikipedia.org/wiki/Athens
+761: Irish: https://en.wikipedia.org/wiki/Ireland , county: https://en.wikipedia.org/wiki/Counties_of_Ireland
+762: Gavdos: https://en.wikipedia.org/wiki/Gavdos , Antikythera: https://en.wikipedia.org/wiki/Antiky
+763: Island of Ireland: https://en.wikipedia.org/wiki/Ireland
+764: Greece: https://en.wikipedia.org/wiki/Greece
+765: British Isles: https://en.wikipedia.org/wiki/British_Isles
+766: Mandra-Eidyllia: https://en.wikipedia.org/wiki/Mandra-Eidyllia , Ano Liosia: https://en.wikipedia
+767: Essex: https://en.wikipedia.org/wiki/Essex
+768: Dublin: https://en.wikipedia.org/wiki/Dublin , Baronies: https://en.wikipedia.org/wiki/Barony
+769: England: https://en.wikipedia.org/wiki/England
+770: Dublin: https://en.wikipedia.org/wiki/Dublin
+771: Naxos: https://en.wikipedia.org/wiki/Naxos
+772: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+773: Bury: https://en.wikipedia.org/wiki/Bury
+774: County Kerry: https://en.wikipedia.org/wiki/County_Kerry
+775: Epirus: https://en.wikipedia.org/wiki/Epirus
+776: Essex: https://en.wikipedia.org/wiki/Essex
+777: County Wexford: https://en.wikipedia.org/wiki/County_Wexford
+778: Budgebury Forest: No match found.
+779: Agia Paraskevi: https://en.wikipedia.org/wiki/Agia_Paraskevi
+780: Cork: https://en.wikipedia.org/wiki/Cork
+781: Rhodes: https://en.wikipedia.org/wiki/Rhodes
+782: England: https://en.wikipedia.org/wiki/England
+783: Dublin: https://en.wikipedia.org/wiki/Dublin
+784: Greece: https://en.wikipedia.org/wiki/Greece
+785: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom , City of London: https://en.wikipedia.org/wiki/City_of_London
+786: Crete: https://en.wikipedia.org/wiki/Crete
+787: Dublin: https://en.wikipedia.org/wiki/Dublin
+788: Sefton Park: https://en.wikipedia.org/wiki/Sefton_Park
+789: Greece: https://en.wikipedia.org/wiki/Greece
+790: South Aegean: https://en.wikipedia.org/wiki/South_Aegean , beaches: https://en.wikipedia.org/wiki/Beaches
+791: Longford: https://en.wikipedia.org/wiki/Longford
+792: England: https://en.wikipedia.org/wiki/England
+793: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+794: Greece: https://en.wikipedia.org/wiki/Greece
+795: Amintaio: https://en.wikipedia.org/wiki/Amintaio
+796: Norfolk: https://en.wikipedia.org/wiki/Norfolk
+797: Killinane: https://en.wikipedia.org/wiki/Killinane
+798: Greece: https://en.wikipedia.org/wiki/Greece
+799: Greece: https://en.wikipedia.org/wiki/Greece
+800: Ireland: https://en.wikipedia.org/wiki/Ireland
+801: England: https://en.wikipedia.org/wiki/England
+802: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+803: Dublin: https://en.wikipedia.org/wiki/Dublin , lakes: Sorry, could not find any specific information about the smallest lakes north of Dublin
+804: Thermi: https://en.wikipedia.org/wiki/Thermi
+805: England: https://en.wikipedia.org/wiki/England
+806: Kastanas beach: https://en.wikipedia.org/wiki/Kastanas_beach
+807: Cork: https://en.wikipedia.org/wiki/Cork
+808: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+809: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+810: Florida: https://en.wikipedia.org/wiki/Florida
+811: Kansas: https://en.wikipedia.org/wiki/Kansas
+812: Alaska: https://en.wikipedia.org/wiki/Alaska
+813: Los Angeles County: https://en.wikipedia.org/wiki/Los_Angeles_County,_California
+814: Nevada: https://en.wikipedia.org/wiki/Nevada
+815: Kansas: https://en.wikipedia.org/wiki/Kansas
+816: Ireland: https://en.wikipedia.org/wiki/Ireland
+817: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+818: Texas: https://en.wikipedia.org/wiki/Texas
+819: USA: https://en.wikipedia.org/wiki/United_States, largest state: https://en.wikipedia.org/wiki/Alaska
+820: England: https://en.wikipedia.org/wiki/England
+821: Scotland: https://en.wikipedia.org/wiki/Scotland
+822: Ireland: https://en.wikipedia.org/wiki/Ireland
+823: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+824: Milies: https://en.wikipedia.org/wiki/Milies , Konitsa: https://en.wikipedia.org/wiki/Konitsa , Agios Vas
+825: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+826: Greece: https://en.wikipedia.org/wiki/Greece
+827: Greece: https://en.wikipedia.org/wiki/Greece
+828: Greece: https://en.wikipedia.org/wiki/Greece
+829: Monaco: https://en.wikipedia.org/wiki/Monaco , Vatican City: https://en.wikipedia.org/wiki/Vatican_City
+830: Athens: https://en.wikipedia.org/wiki/Athens , Marathon: https://en.wikipedia.org/wiki/Marathon,_Greece
+831: Plymouth: https://en.wikipedia.org/wiki/Plymouth , district wards: I'm sorry, but I couldn't find any specific information about
+832: Essex: https://en.wikipedia.org/wiki/Essex
+833: Ireland: https://en.wikipedia.org/wiki/Ireland
+834: Kozani Municipality: https://en.wikipedia.org/wiki/Kozani_Municipality
+835: Greater London: https://en.wikipedia.org/wiki/Greater_London
+836: Municipality of Deskati: https://en.wikipedia.org/wiki/Deskati
+837: Oxford: https://en.wikipedia.org/wiki/Oxford
+838: County Wicklow: https://en.wikipedia.org/wiki/County_Wicklow
+839: Kaisariani: https://en.wikipedia.org/wiki/Kaisariani , Tavros: https://en.wikipedia.org/wiki/Tavros
+840: Districts of Greater London: https://en.wikipedia.org/wiki/Districts_of_Greater_London
+841: County Kerry does not have any lakes.
+842: England: https://en.wikipedia.org/wiki/England
+843: Peloponnese: https://en.wikipedia.org/wiki/Peloponnese
+844: Copeland: https://en.wikipedia.org/wiki/Copeland_(borough) , Allerdale: https://en.wikipedia.org/wiki/Allerdale
+845: County Wicklow doesn't have any baronies.
+846: North Yorkshire: https://en.wikipedia.org/wiki/North_Yorkshire
+847: rural area: https://en.wikipedia.org/wiki/Rural_area
+848: US State: https://en.wikipedia.org/wiki/List_of_U.S._states_by_area, England: https://en.wikipedia.org/wiki/England
+849: US State: https://en.wikipedia.org/wiki/Alaska
+850: England: https://en.wikipedia.org/wiki/England
+851: Texas: https://en.wikipedia.org/wiki/Texas
+852: Lough Neagh: https://en.wikipedia.org/wiki/Lough_Neagh
+853: UK: https://en.wikipedia.org/wiki/United_Kingdom
+854: Phoenix: https://en.wikipedia.org/wiki/Phoenix,_Arizona
+855: England: https://en.wikipedia.org/wiki/England
+856: Scotland: https://en.wikipedia.org/wiki/Scotland
+857: England: https://en.wikipedia.org/wiki/England
+858: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland, UK: https://en.wikipedia.org/wiki/United_Kingdom
+859: Galway: https://en.wikipedia.org/wiki/Galway
+860: Greece: https://en.wikipedia.org/wiki/Greece
+861: Scotland: https://en.wikipedia.org/wiki/Scotland
+862: Antipodes Island: https://en.wikipedia.org/wiki/Antipodes_Island
+863: Peloponnese: https://en.wikipedia.org/wiki/Peloponnese
+864: Thermopylae: https://en.wikipedia.org/wiki/Thermopylae , Thessaloniki: https://en.wikipedia.org/wiki
+865: Greece: https://en.wikipedia.org/wiki/Greece, Athens: https://en.wikipedia.org/wiki/Athens
+866: England: https://en.wikipedia.org/wiki/England
+867: Gytheio: https://en.wikipedia.org/wiki/Gytheio
+868: Attica: https://en.wikipedia.org/wiki/Attica , Crete: https://en.wikipedia.org/wiki/Crete
+869: Greece: https://en.wikipedia.org/wiki/Greece
+870: Scotland: https://en.wikipedia.org/wiki/Scotland
+871: Molaoi: https://en.wikipedia.org/wiki/Molaoi , Karyes: https://en.wikipedia.org/wiki/Karyes
+872: Lowestoft: https://en.wikipedia.org/wiki/Lowestoft , Great Yarmouth: https://en.wikipedia.org/wiki/Great_Yarm
+873: English district: https://en.wikipedia.org/wiki/The_Lakes_(district)
+874: Ireland: https://en.wikipedia.org/wiki/Ireland
+875: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+876: Irish: https://en.wikipedia.org/wiki/Irish_county
+877: Greece: https://en.wikipedia.org/wiki/Greece
+878: England: https://en.wikipedia.org/wiki/England
+879: UK: https://en.wikipedia.org/wiki/United_Kingdom, the counties need further analysis and data to provide the correct answer.
+880: England: https://en.wikipedia.org/wiki/England
+881: Ireland: https://en.wikipedia.org/wiki/Ireland
+882: Bedfordshire: https://en.wikipedia.org/wiki/Bedfordshire , Buckinghamshire: https://en.wikipedia.org/wiki/Buckinghamshire
+883: Irish Baronies: 1. Tullyhaw: https://en.wikipedia.org/wiki/Tullyhaw 2. Leitrim:
+884: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+885: Greece: https://en.wikipedia.org/wiki/Greece
+886: Nevada: https://en.wikipedia.org/wiki/Nevada
+887: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+888: Ireland: https://en.wikipedia.org/wiki/Ireland
+889: Texan county: toponym recognition model cannot identify specific county
+890: Texas: https://en.wikipedia.org/wiki/Texas, Alabama: https://en.wikipedia.org/wiki/Alabama
+891: Texas: https://en.wikipedia.org/wiki/Texas , Austin: https://en.wikipedia.org/wiki/Austin,_Texas
+892: Missouri: https://en.wikipedia.org/wiki/Missouri
+893: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+894: English county: No information found
+895: San Francisco: https://en.wikipedia.org/wiki/San_Francisco
+896: California: https://en.wikipedia.org/wiki/California
+897: Mount Shuksan: https://en.wikipedia.org/wiki/Mount_Shuksan
+898: UK: https://en.wikipedia.org/wiki/United_Kingdom
+899: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
+900: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
+901: Athens: https://en.wikipedia.org/wiki/Athens
+902: USA: https://en.wikipedia.org/wiki/United_States
+903: LA: https://en.wikipedia.org/wiki/Los_Angeles
+904: Loch Ness: https://en.wikipedia.org/wiki/Loch_Ness
+905: Ireland: https://en.wikipedia.org/wiki/Ireland
+906: John F. Kennedy International Airport: https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport
+907: River Liffey: https://en.wikipedia.org/wiki/River_Liffey
+908: Dublin: https://en.wikipedia.org/wiki/Dublin
+909: Lower Ghaghri Falls: No results found
+910: NYC: https://en.wikipedia.org/wiki/New_York_City
+911: Scotland: https://en.wikipedia.org/wiki/Scotland
+912: Victoria Falls: https://en.wikipedia.org/wiki/Victoria_Falls
+913: North Somerset: https://en.wikipedia.org/wiki/North_Somerset
+914: Skye: https://en.wikipedia.org/wiki/Skye
+915: Awali River: No Wikipedia link found
+916: Dnyanganga River: https://en.wikipedia.org/wiki/Dnyanganga_River
+917: Mount Rushmore: https://en.wikipedia.org/wiki/Mount_Rushmore
+918: Grand Canyon: https://en.wikipedia.org/wiki/Grand_Canyon
+919: Detroit: https://en.wikipedia.org/wiki/Detroit
+920: England: https://en.wikipedia.org/wiki/England
+921: Bala Lake: https://en.wikipedia.org/wiki/Bala_Lake
+922: Loch Awe: https://en.wikipedia.org/wiki/Loch_Awe
+923: Lake Taupo: https://en.wikipedia.org/wiki/Lake_Taupo
+924: Washington: https://en.wikipedia.org/wiki/Washington,_D.C.
+925: Buckingham Palace: https://en.wikipedia.org/wiki/Buckingham_Palace
+926: England: https://en.wikipedia.org/wiki/England
+927: New York: https://en.wikipedia.org/wiki/New_York_City, US: https://en.wikipedia.org/wiki/United_States
+928: Dublin: https://en.wikipedia.org/wiki/Dublin, Ireland: https://en.wikipedia.org/wiki/Ireland
+929: Belfast: https://en.wikipedia.org/wiki/Belfast , Dublin: https://en.wikipedia.org/wiki/Dublin , Edinburgh: https://en.wikipedia
+930: Athens: https://en.wikipedia.org/wiki/Athens , New York: https://en.wikipedia.org/wiki/New_York_City
+931: Ireland: https://en.wikipedia.org/wiki/Ireland, Scotland: https://en.wikipedia.org/wiki/Scotland
+932: MoMA P.S. 1: https://en.wikipedia.org/wiki/MoMA_P.S._1 , City: location not mentioned
+933: Dublin: https://en.wikipedia.org/wiki/Dublin
+934: Key Largo: https://en.wikipedia.org/wiki/Key_Largo
+935: Edinburgh: https://en.wikipedia.org/wiki/Edinburgh
+936: Lake Como: https://en.wikipedia.org/wiki/Lake_Como
+937: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+938: NYC: https://en.wikipedia.org/wiki/New_York_City
+939: Dublin: https://en.wikipedia.org/wiki/Dublin
+940: New York: https://en.wikipedia.org/wiki/New_York_City
+941: Athens: https://en.wikipedia.org/wiki/Athens
+942: United States: https://en.wikipedia.org/wiki/United_States
+943: Dallas: https://en.wikipedia.org/wiki/Dallas
+944: Dublin: https://en.wikipedia.org/wiki/Dublin
+945: Scotland: https://en.wikipedia.org/wiki/Scotland
+946: Galway: https://en.wikipedia.org/wiki/Galway
+947: United States: https://en.wikipedia.org/wiki/United_States
+948: Athlone: https://en.wikipedia.org/wiki/Athlone
+949: US capital: https://en.wikipedia.org/wiki/Washington,_D.C.
+950: Statue of Liberty: https://en.wikipedia.org/wiki/Statue_of_Liberty
+951: Royal Armouries Museum: https://en.wikipedia.org/wiki/Royal_Armouries_Museum
+952: Belfast: https://en.wikipedia.org/wiki/Belfast
+953: Bedfordshire: https://en.wikipedia.org/wiki/Bedfordshire, Berkshire: https://en.wikipedia.org/wiki/Berkshire, Buckinghamshire:
+954: Metropolitan counties of England: https://en.wikipedia.org/wiki/Metropolitan_counties_of_England
+955: Washington, D.C.: https://en.wikipedia.org/wiki/Washington,_D.C.
+956: Kansas: https://en.wikipedia.org/wiki/Kansas
+957: New York: https://en.wikipedia.org/wiki/New_York
+958: Ireland: https://en.wikipedia.org/wiki/Ireland
+959: UK: https://en.wikipedia.org/wiki/United_Kingdom
+960: Norfolk: https://en.wikipedia.org/wiki/Norfolk, Virginia_only
+961: USA: https://en.wikipedia.org/wiki/United_States
+962: United States: https://en.wikipedia.org/wiki/United_States
+963: US: https://en.wikipedia.org/wiki/United_States
+964: Texas: https://en.wikipedia.org/wiki/Texas
+965: Houston: https://en.wikipedia.org/wiki/Houston
+966: Miami: https://en.wikipedia.org/wiki/Miami
+967: Brighton: https://en.wikipedia.org/wiki/Brighton
+968: Belfast: https://en.wikipedia.org/wiki/Belfast
+969: USA: https://en.wikipedia.org/wiki/United_States
+970: England: https://en.wikipedia.org/wiki/England
+971: Glasgow: https://en.wikipedia.org/wiki/Glasgow
+972: Central London: https://en.wikipedia.org/wiki/Central_London
+973: London: https://en.wikipedia.org/wiki/London
+974: Newcastle Emlyn: https://en.wikipedia.org/wiki/Newcastle_Emlyn
+975: Ireland: https://en.wikipedia.org/wiki/Ireland
+976: Ireland: https://en.wikipedia.org/wiki/Ireland
+977: United States of America: https://en.wikipedia.org/wiki/United_States
+978: InterContinental Hotels: https://en.wikipedia.org/wiki/InterContinental_Hotels
+979: Scotland: https://en.wikipedia.org/wiki/Scotland , castles: https://en.wikipedia.org/wiki/Castles_in_Scotland
+980: Georgia: https://en.wikipedia.org/wiki/Georgia_(U.S._state)
+981: Cork: https://en.wikipedia.org/wiki/Cork
+982: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+983: Seattle: https://en.wikipedia.org/wiki/Seattle
+984: London: https://en.wikipedia.org/wiki/London
+985: USA: https://en.wikipedia.org/wiki/United_States
+986: Texas: https://en.wikipedia.org/wiki/Texas
+987: Ireland: https://en.wikipedia.org/wiki/Ireland
+988: Los Angeles: https://en.wikipedia.org/wiki/Los_Angeles , San Diego: https://en.wikipedia.org/wiki/San_Diego
+989: Missouri: https://en.wikipedia.org/wiki/Missouri
+990: Little Rock: https://en.wikipedia.org/wiki/Little_Rock,_Arkansas  , Fort Smith: https://en.wikipedia.org/wiki/Fort_Smith
+991: Missouri: https://en.wikipedia.org/wiki/Missouri
+992: US capital: https://en.wikipedia.org/wiki/Washington,_D.C. , most populated city: https://en.wikipedia.org/wiki/New_York_C
+993: London: https://en.wikipedia.org/wiki/London
+994: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+995: Leitrim: https://en.wikipedia.org/wiki/County_Leitrim, Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of
+996: Los Angeles County: https://en.wikipedia.org/wiki/Los_Angeles_County,_California
+997: Oldest monument in the US: https://en.wikipedia.org/wiki/Newark_Earthworks
+998: Ireland: https://en.wikipedia.org/wiki/Ireland , Tara Bridge: https://en.wikipedia.org/wiki/Tara_Bridge
+999: Kansas: https://en.wikipedia.org/wiki/Kansas
+1000: Phoenix: https://en.wikipedia.org/wiki/Phoenix, Arizona: https://en.wikipedia.org/wiki/Arizona
+1001: Galway: https://en.wikipedia.org/wiki/County_Galway, Connacht: https://en.wikipedia.org/wiki/Connacht
+1002: United States: https://en.wikipedia.org/wiki/United_States
+1003: Mississippi River: https://en.wikipedia.org/wiki/Mississippi_River , Colorado River: https://en.wikipedia.org/wiki/Colorado_River
+1004: Europe: https://en.wikipedia.org/wiki/Europe
+1005: France: https://en.wikipedia.org/wiki/France
+1006: Greece: https://en.wikipedia.org/wiki/Greece
+1007: United States: https://en.wikipedia.org/wiki/United_States
+1008: United States: https://en.wikipedia.org/wiki/United_States
+1009: California: https://en.wikipedia.org/wiki/California
+1010: Pennsylvania: https://en.wikipedia.org/wiki/Pennsylvania
+1011: United States: https://en.wikipedia.org/wiki/United_States
+1012: Ireland: https://en.wikipedia.org/wiki/Ireland
+1013: New York: https://en.wikipedia.org/wiki/New_York
+1014: Chicago: https://en.wikipedia.org/wiki/Chicago
+1015: London: https://en.wikipedia.org/wiki/London, Birmingham: https://en.wikipedia.org/wiki/Birmingham, Manchester: https://en.wikipedia.org/wiki
+1016: California: https://en.wikipedia.org/wiki/California , Texas: https://en.wikipedia.org/wiki/Texas , Florida: https://en.wikipedia.org/wiki
+1017: California: https://en.wikipedia.org/wiki/California
+1018: Region of Central Greece: https://en.wikipedia.org/wiki/Central_Greece
+1019: Cambridge: https://en.wikipedia.org/wiki/Cambridge
+1020: Kalithea: https://en.wikipedia.org/wiki/Kalithea
+1021: Andraveda: No information found.
+1022: Psara: https://en.wikipedia.org/wiki/Psara
+1023: Nikaia Agios Ioannis Rentis: https://en.wikipedia.org/wiki/Nikaia-Agios_Ioannis_Rentis
+1024: Manchester: https://en.wikipedia.org/wiki/Manchester
+1025: Oxfordshire: https://en.wikipedia.org/wiki/Oxfordshire, Kent: https://en.wikipedia.org/wiki/Kent
+1026: Oxfordshire: https://en.wikipedia.org/wiki/Oxfordshire , Kent: https://en.wikipedia.org/wiki/Kent
+1027: County Galway: https://en.wikipedia.org/wiki/County_Galway , Claregalway: https://en.wikipedia.org/wiki/Claregal
+1028: Samos: https://en.wikipedia.org/wiki/Samos , Rodos: https://en.wikipedia.org/wiki/Rhodes
+1029: Cork: https://en.wikipedia.org/wiki/Cork , Galway: https://en.wikipedia.org/wiki/Galway
+1030: Dublin: https://en.wikipedia.org/wiki/Dublin , Arklow: https://en.wikipedia.org/wiki/Arklow
+1031: Athens: https://en.wikipedia.org/wiki/Athens, Kallithea: https://en.wikipedia.org/wiki/	Kallithea
+1032: Kalmata: https://en.wikipedia.org/wiki/Kalamata , Tripoli: https://en.wikipedia.org/wiki/Tripoli
+1033: Liverpool: https://en.wikipedia.org/wiki/Liverpool , Manchester: https://en.wikipedia.org/wiki/Manchester
+1034: County Sligo: https://en.wikipedia.org/wiki/County_Sligo
+1035: Naxos: https://en.wikipedia.org/wiki/Naxos
+1036: Ipiros: https://en.wikipedia.org/wiki/Epirus, Lakes: No specific lakes mentioned in the prompt.
+1037: City Belfast: https://en.wikipedia.org/wiki/City_of_Belfast
+1038: Athens: https://en.wikipedia.org/wiki/Athens
+1039: Norfolk: https://en.wikipedia.org/wiki/Norfolk
+1040: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+1041: Cork: https://en.wikipedia.org/wiki/Cork
+1042: Staffordshire: https://en.wikipedia.org/wiki/Staffordshire
+1043: England: https://en.wikipedia.org/wiki/England
+1044: UK: https://en.wikipedia.org/wiki/United_Kingdom
+1045: Ireland: https://en.wikipedia.org/wiki/Ireland
+1046: Greece: https://en.wikipedia.org/wiki/Greece , islands in Greece: https://en.wikipedia.org/wiki/Greek_islands
+1047: Greece: https://en.wikipedia.org/wiki/Greece
+1048: Essex County: https://en.wikipedia.org/wiki/Essex_County,_New_Jersey
+1049: Tullyhaw: https://en.wikipedia.org/wiki/Tullyhaw , Forest: No specific forest mentioned
+1050: Crete: https://en.wikipedia.org/wiki/Crete
+1051: New York: https://en.wikipedia.org/wiki/New_York
+1052: England: https://en.wikipedia.org/wiki/England
+1053: Greece: https://en.wikipedia.org/wiki/Greece
+1054: England: https://en.wikipedia.org/wiki/England
+1055: Sorry, I am unable to answer your question as it does not provide any specific location. Could you please provide the name of a specific place or region
+1056: Isles: https://en.wikipedia.org/wiki/Isle , Lakes: https://en.wikipedia.org/wiki/Lake
+1057: Greece: https://en.wikipedia.org/wiki/Greece
+1058: USA: https://en.wikipedia.org/wiki/United_States
+1059: Irish counties: 1. Carlow: https://en.wikipedia.org/wiki/County_Carlow , 2. Kildare: https://
+1060: Kavos: https://en.wikipedia.org/wiki/Kavos , Karditza: https://en.wikipedia.o
+1061: Rodes: https://en.wikipedia.org/wiki/Rhodes
+1062: Greece: https://en.wikipedia.org/wiki/Greece
+1063: Monaco: https://en.wikipedia.org/wiki/Monaco , Nauru: https://en.wikipedia.org/wiki/Nauru
+1064: United States: https://en.wikipedia.org/wiki/United_States
+1065: Irish Barony: No relevant answer
+1066: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+1067: North Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
+1068: LA: https://en.wikipedia.org/wiki/Los_Angeles
+1069: NYC: https://en.wikipedia.org/wiki/New_York_City
+1070: New York: https://en.wikipedia.org/wiki/New_York_City
+1071: Belfast: https://en.wikipedia.org/wiki/Belfast
+1072: USA: https://en.wikipedia.org/wiki/United_States
+1073: Seattle: https://en.wikipedia.org/wiki/Seattle
+1074: United States: https://en.wikipedia.org/wiki/United_States
+1075: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+1076: Eretria: https://en.wikipedia.org/wiki/Eretria
+1077: Siros: https://en.wikipedia.org/wiki/Syros
+1078: Syros: https://en.wikipedia.org/wiki/Syros
+1079: Chicago: https://en.wikipedia.org/wiki/Chicago
+1080: Dublin: https://en.wikipedia.org/wiki/Dublin , Kilkenny: https://en.wikipedia.org/wiki/Kilkenny
+1081: Oxford: https://en.wikipedia.org/wiki/Oxford , Cambridge: https://en.wikipedia.org/wiki/Cambridge
+1082: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+1083: Greater London: https://en.wikipedia.org/wiki/Greater_London
+1084: Dublin: https://en.wikipedia.org/wiki/Dublin
+1085: Ioannina: https://en.wikipedia.org/wiki/Ioannina
+1086: Bedford: https://en.wikipedia.org/wiki/Bedford
+1087: Los Angeles: https://en.wikipedia.org/wiki/Los_Angeles
+1088: Manchester: https://en.wikipedia.org/wiki/Manchester , England: https://en.wikipedia.org/wiki/England
+1089: Southampton: https://en.wikipedia.org/wiki/Southampton
