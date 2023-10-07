@@ -1,0 +1,1089 @@
+1: What is the population of Central Greece?
+2: Where is the Dorset county located?
+3: Where is Lough Ramor located?
+4: What is the population of the Municipality of Moschato Tavros?
+5: Where is Oxfordshire located?
+6: What is the total area of County Galway?
+7: Where is Liverpool located?
+8: Where is Kilkenny located?
+9: Where is Glyfada located?
+10: What is the population of Aegina ?
+11: What is the location of the county of Cambridge?
+12: What is the total area of Glengarra Wood forest?
+13: What is the population of Piraeus?
+14: What is the total area of Cambridgeshire?
+15: What is the location of Dublin?
+16: Where is Aghaboy located?
+17: Where is Taghsheenod Glebe located?
+18: Where is Petroupoli located?
+19: What is the total area of the river Garw?
+20: Where is Muckross village located?
+21: What is the population of the municipality of Oinofyta?
+22: Where is Anafi located?
+23: What is the location of Southampton?
+24: Where is the city of Cork located?
+25: What is the population of the municipality of Lemnos?
+26: Where is Oxford located?
+27: How large is County Donegal?
+28: What is the size of Eretria?
+29: Where is Cambridge located?
+30: What is Dublin's administrative type?
+31: Where is Galatsi located?
+32: Where is Mitchelstown located?
+33: Where is Loch Ness located?
+34: Where is the location of Lake Kerkini?
+35: Where is Lough Derg located?
+36: What is the population of the municipality of Gravia?
+37: What is the area of West Sussex?
+38: What is the area of the Republic of Ireland?
+39: Where is Crete located?
+40: Where is City of London located?
+41: What is the location of Lough Derg?
+42: Is Crete an island?
+43: What is the population of Kallithea?
+44: What is the national level of Plymouth?
+45: Where is Lough Ree located?
+46: What is the total area of Liverpool?
+47: Where is Dublin located?
+48: What population does Icaria have?
+49: What is the population of Andravida?
+50: Where is Scotland located?
+51: What is the total area of Manchester?
+52: Where is Nafpaktia located?
+53: What is the population of Psara?
+54: Where is York located?
+55: How many citizens does Astypalaia have?
+56: Where is the Isle of Portland located?
+57: What is the location of County Cork?
+58: What is Londonderry's surface area?
+59: What is the population of Syros?
+60: Where is Kastanas beach located?
+61: Where is the Loch Leven National Nature Reserve located?
+62: What's the location of Killarney Beach?
+63: Where is Selby District located?
+64: What is the total area of town Ballinasloe?
+65: Where is the city of Drogheda located?
+66: Where is Crewe located?
+67: Where is Lesbos located?
+68: Where is Arkansas located?
+69: Where is Chichester located?
+70: What is the population of Nikaia-Agios Ioannis Rentis?
+71: Where is Mullingar, the county town, located?
+72: Where is the city of Manchester located?
+73: Where is Paxi island located?
+74: Where is the municipality of Athens located?
+75: Where is Coventry located?
+76: Where is Cork City located?
+77: Where is the municipality of Chania located?
+78: Where is Norfolk, the county, located?
+79: Where is the Ballymoe barony located?
+80: Where is Galway located?
+81: What is the total area of Greece?
+82: Where is Edinburgh located?
+83: What area does Greenwich Park cover?
+84: Where Glasgow is located?
+85: What is the total area of the United Kingdom?
+86: Which are the inflows and outflows of Lake Michigan?
+87: What is the population of Lincoln in Montana?
+88: What is the location of the city of Houston?
+89: What's the location of Lake Houston?
+90: What is the location of Selby District?
+91: What is the total area of Arkansas?
+92: Where is Drogheda located?
+93: Where is Pallini located?
+94: Where is Corfu located?
+95: What's the location of Cardiff?
+96: How many people live in Albany County, New York?
+97: What is the population of the Greek region of Epirus?
+98: What is the location of Marousi?
+99: Where is the forest of Sherwood located?
+100: Where is Texas located?
+101: What is the size of Greece?
+102: Where is Alaska situated?
+103: Where is Swansea located?
+104: How large is Newport?
+105: Where is Bristol located?
+106: Where is Lake Trichonida located?
+107: How large is Trichonida?
+108: How many inhabitants does Piraeus have?
+109: What is the total surface area of the Andover Ponds?
+110: Where is Ullswater on a map?
+111: Where is Rafina located?
+112: Where is the village of Muckross located?
+113: What is the population of Wells County, North Dakota?
+114: What is the size of Wells County, North Dakota?
+115: Where is Southampton situated?
+116: Where is Alaska located?
+117: Where is Kalamata located?
+118: Where is the location of the County Cavan?
+119: What is the national level of Essex?
+120: What is the population of Serifos?
+121: Where is Kifisia located?
+122: Where is Chicago located?
+123: What's the location of Birmingham?
+124: Where is Nottinghamshire located?
+125: What is the total area of city of Dundee?
+126: Where is Luton located?
+127: Where is Broxtowe located?
+128: Where is Distomo-Arachova-Antikyra located?
+129: Where is municipality of Nafplio located?
+130: Where is Pylos located?
+131: What is the population of Pylos?
+132: What is the aggregate surface area of Liverpool?
+133: What is the total land area within Manchester's boundaries?
+134: What is the number of inhabitants residing in Amarynthos?
+135: What is the geographical position of Petroupoli?
+136: How many residents does Western Macedonia have?
+137: What is the size of Oklahoma?
+138: Is Londonderry in Wales?
+139: What is the area of George Washington Park?
+140: How many people live in Missouri?
+141: What is the population of Alabama?
+142: What is the population density of the municipality of Thessaloniki?
+143: How much of the UK is woodland?
+144: Is Crete south of Thessaly?
+145: Is Worcestershire west of Oxfordshire?
+146: Is county Cavan east of county Mayo?
+147: Is Kythira within Attica?
+148: Is Bedford east of Essex?
+149: Is County Mayo bordering County Sligo?
+150: Is Dublin north of Kilkenny?
+151: Is Samos east of Mykonos?
+152: Is the municipality of Thessaloniki located to the north of the municipality of Trikala?
+153: Is Oxfordshire more than 100km away from Kent?
+154: Is Lough Leane in County Kerry ?
+155: Is Peristeri west of Zografou?
+156: Do Cambridge and Oxford intersect?
+157: Does County Galway contain Claregalway?
+158: Is Samos west of Rodhes?
+159: Is Cardiff adjacent to Birmingham?
+160: Is Mullingar within 70 km of Dublin?
+161: Is Denbighshire located in Wales?
+162: Is Dublin at most 210km from Galway County?
+163: Is Kallithea located on the border of Nea Smyrni?
+164: Is the city of Cork located to the south of the city of Galway?
+165: Is Southampton located south of Oxford?
+166: Is Agia Paraskevi west of Chalandri?
+167: Is Delta a municipality within the Thessaloniki regional unit?
+168: Does Essex border Hertfordshire ?
+169: Is County Donegal north of County Wexford?
+170: Is Elafonisos west of Galatsi?
+171: Is Oxford at most 3km from Cambridge?
+172: Is Dublin bordering with Clane?
+173: Is Rhodes west of Patmos?
+174: Is Doolin south of Dublin?
+175: Is Liverpool east of Adare?
+176: Is Sfakia in Scotland?
+177: Is Belfast close to Edinburgh?
+178: Is Sfakia located north of Peristeri?
+179: Is Essex north of Kent?
+180: Is Ballymoe located in County Longford?
+181: Is Ierapetra south of Athens?
+182: Is Scotland north of London?
+183: Is Dublin west of London?
+184: Does Bristol belong to Wales?
+185: Does Thessaly border Western Macedonia?
+186: Is the distance between Dublin and Arklow greater than 10km?
+187: Does Kallithea share a border with Nea Smyrni?
+188: Is Norwich at least 100 kilometers away from London?
+189: Is Norilsk north of Dublin?
+190: Does the municipality of Athens border Kallithea?
+191: Is Manchester part of the Northwestern European region?
+192: Is Belfast south of Dublin?
+193: Is Lake Yliki north of the municipality of Athens
+194: Is Limerick close to Waterford?
+195: Does Rochdale border Manchester?
+196: Is Nafpaktia west of Athens?
+197: Is Liverpool south of Wales?
+198: Is Scotland north of Dublin?
+199: Is Thessaly south of Attica?
+200: Is Plymouth near Cardiff?
+201: Is Dublin south of Belfast?
+202: Does Astypalaia belong to the Decentralized Administration of the Aegean?
+203: Is the Sennen Cove beach east of Helston?
+204: Is Howth far from Dublin?
+205: Is Athlone northeast of Portumna?
+206: Is Kalamata north of Tripoli?
+207: Is Kastanas beach located south of the municipality of Athens?
+208: Is Liverpool south of Scotland?
+209: Is Killarney Beach north of Cork?
+210: Is Ierapetra east of Chania?
+211: Is Cambridge south of London?
+212: Is County Cavan located on the border of County Laois?
+213: Is the barony of Kinsale south of the city of Kilkenny?
+214: Is Bristol west of Liverpool?
+215: Is Chios east of Paxi?
+216: Is Canada east of China?
+217: Is Crete south of Attica?
+218: Is Tullyhaw within Northern Ireland?
+219: Is the distance between Liverpool and Manchester approximately 40 kilometers?
+220: Is Athlone north of Kilkenny?
+221: Is Nottingham east of Liverpool?
+222: Is Lesbos west of Chania?
+223: Is Kastoria north of Livadeia?
+224: Is Birmingham west of Leicester?
+225: Is Cork City west of Dublin?
+226: Is Chania east of Athens?
+227: Is Kent west of Norfolk?
+228: Is Ballymoe west of Ratoath?
+229: Is Athens south of Manchester?
+230: Is Dublin east of the municipality of Thessaloniki?
+231: Is Suffolk north of County Cork?
+232: Is Albany north of New York city?
+233: Is Wales to the east of Cambridge?
+234: What is the distance between Glasgow and Edinburgh?
+235: Is Cardiff north of Manchester?
+236: Is Alabama west of Louisiana?
+237: Is Texas north of Kentucky?
+238: How close is Dublin to Scotland?
+239: Is Manchester to the east of Liverpool?
+240: Is Ladis north of Dublin?
+241: Is Whitehall located to the west of Trafalgar Square?
+242: How far is Cumbria from Birmingham?
+243: Is Athens south of Oxford?
+244: Is England to the west of Greece?
+245: Is York in Scotland ?
+246: Do Essex and Hertfordshire share a border?
+247: Is Patras north of Tripoli?
+248: Is Belfast farther west than Galatsi?
+249: Is NYC less than 100km from Cambridge?
+250: Does Dublin share a border with Clane?
+251: Is Patmos east of Rhodes?
+252: Is Doolin to the south of Dublin?
+253: Does Liverpool border Adare?
+254: Is Sfakia in Greece?
+255: Is Belfast far from London?
+256: Does Peristeri intersect with Nea Smyrni?
+257: Is Essex located in Cambridgeshire?
+258: Is Ballymoe within the county of Longford?
+259: Is Ierapetra close to Athens?
+260: Is Edinburgh north of London?
+261: Is Belfast west of London?
+262: Is Bristol in Wales?
+263: Are Thessaly and Western Macedonia neighboring regions?
+264: Are Dublin and Arklow more than 10km apart?
+265: Do Kallithea and Nea Smyrni share a border?
+266: Is Norwich at least 200 kilometers away from Greece?
+267: Is the city of Norilsk north of the city of Dublin?
+268: Does Leicester lie to the east of Birmingham?
+269: Is Scotland part of England?
+270: Is York larger than New York?
+271: How far is Alaska from Florida?
+272: Is the Republic of Ireland part of the United Kingdom?
+273: Is Northern Ireland part of the UK?
+274: Is Tripoli closer to Athens than Ioannina?
+275: How many times larger is the Republic of Ireland from Northern Ireland?
+276: Is Dublin east of New York City and West of London?
+277: Is Limerick closer to Waterford than Dublin?
+278: Which lakes are in the Epirus region?
+279: Which streams cross Oxfordshire?
+280: Which counties border County Mayo?
+281: Which Municipalities border with Moschato Tavros?
+282: Which District Wards are within Essex?
+283: Which forests are less than 25km away from County Sligo?
+284: Which parks are in Liverpool?
+285: Which bays are at most 5000 meters from Doolin?
+286: Which beaches are near Mykonos?
+287: Which Regional Units border with Thessaly?
+288: Which Metropolitan Districts border Manchester ?
+289: Which canals cross Dublin?
+290: Which Municipalities intersect with the Regional Unit of Piraeus?
+291: Which are the forests of Cambridgeshire?
+292: Which townlands border with Dublin?
+293: Does Corfu have any beaches?
+294: Which lakes are within 50km of Dublin?
+295: Which Unitary Authorities are on the border of Cardiff?
+296: Which parks are at most 10km away from the city of Westminster?
+297: Which rural areas border with Castleblayney?
+298: Which villages are located in Thessaly?
+299: Which 3rd order administrative units border Hampshire?
+300: Which counties border the city of Cork?
+301: Which municipalities border Agia Paraskevi?
+302: Which municipalities does the Central Athens Regional Unit contain?
+303: Which districts border the Greater London Authority?
+304: Which counties are west of County Wexford?
+305: Is Dublin on an island?
+306: Which beaches are near Naxos?
+307: Which parks are in Manchester?
+308: Which bays are near Doolin?
+309: Which counties border with Lincolnshire?
+310: Find all the Greek parks.
+311: Which islands are north of Dublin?
+312: Which municipalities border Athens?
+313: Which lakes are in Cambridge?
+314: Which townlands intersect the Lough Neagh lake?
+315: Which municipalities are east of Ierapetra?
+316: Which Metropolitan Boroughs are north of London?
+317: Which Civil Parish borders the Kilkieran?
+318: Which Metropolitan districts border Birmingham?
+319: Which countries are south of the Republic of Ireland
+320: Give me ten lakes of the United Kingdom.
+321: which beaches are near Nea Smirni?
+322: With which municipalities does Athens share borders?
+323: Which are the cities near Greater London?
+324: Which are the cities north of Dublin?
+325: Which are all the parks in Dublin?
+326: Which District Wards are located north of Manchester?
+327: Which regional units border the regional unit of Thessaloniki?
+328: Which 2nd Order Administrative Units border Dublin ?
+329: Which streams are inside Greater London?
+330: Which lakes are in Greece?
+331: Which counties border county Essex?
+332: Which county councils exist in the Republic of Ireland?
+333: Which municipalities are in Epirus?
+334: Which districts border Greater London?
+335: Which wards comprise the city of Belfast?
+336: Is there a stream near Greenwich?
+337: Find beaches in Alonnisos.
+338: Which counties are near Nottingham?
+339: What villages are within 100 km from Dublin?
+340: Are there any parks in Worcestershire County?
+341: In which barony is Coolea located?
+342: Which lakes are located in Kilkis?
+343: Which are the districts that border Copeland district?
+344: Are there any forests in a 10km radius from Kastanas beach?
+345: Show me the parks of Liverpool.
+346: Which streams intersect with Cork?
+347: Which regions are in Greece?
+348: Which forests are in England?
+349: Which are the parks of Dublin?
+350: Which counties border Donegal county?
+351: Which districts border Warwickshire?
+352: Which regions border the Central Macedonia region?
+353: Which country contains Clondalkin?
+354: Which are the lakes inside Central Macedonia?
+355: Which parks are within a 10km radius of Liverpool?
+356: Which districts border with the Stafford district?
+357: Which counties border County Clare?
+358: Which districts share a border with Wakefield district?
+359: Which regions are next to the region of Thessaly?
+360: Which municipalities border the municipality of Athens?
+361: Which metropolitan districts are adjacent to Liverpool?
+362: Which baronies border Ardee?
+363: Which municipalities share a border with Chania?
+364: Which forests are found within the boundaries of Norfolk?
+365: Which forests are contained in the barony of Coshlea?
+366: Which municipalities border the Municipality of Makrakomi?
+367: Which counties border the county of Durham?
+368: Which counties are adjacent to the county of Meath?
+369: Which are the forests and the canals of Edinburgh?
+370: Which beaches are at most 100 km away from Ormos Vourkari?
+371: Is there a lake on the border of an English county?
+372: Which forests are in a radius of 10km from Lincolnshire.
+373: Which is the closest forest to Manchester
+374: Which is the largest county in the UK?
+375: Which are the 5 smallest district wards that are north of Liverpool?
+376: In which country is the Loch Ness lake located?
+377: Which islands are in New York City?
+378: Which states does Lake Michigan intersect?
+379: Which island is located south of island Hoy?
+380: Which cities are north of Miami?
+381: Are there any rivers connected with lake Lough Corrib?
+382: How many islands does Scotland have?
+383: How many parks does Wales have?
+384: How many county councils does the Republic of Ireland have?
+385: Which are the three largest lakes of the Republic of Ireland?
+386: Which Municipalities are on the border of Peristeri?
+387: Which are the unitary authority wards of York?
+388: Are there forests less than 50 kilometres away from the municipality of Missolonghi?
+389: Which parks are in Northern Ireland?
+390: Which lakes are in a 100km radius of Ioannina?
+391: Are there any beaches near the city of Chania?
+392: Which are Thessaly's neighboring Regional Units?
+393: Which Municipalities are on Thessaly's border?
+394: Which Metropolitan Districts border Liverpool ?
+395: Do any canals cross New York City?
+396: Which municipalities border Thebes?
+397: How many forests does Cambridgeshire have?
+398: Which are Dublin's neighboring townlands?
+399: Does Lemnos have any beaches?
+400: Which lakes are within 20km of County Carlow?
+401: Which Unitary Authorities exist in Wales?
+402: Which parks are less than 10km away from the city of Manchester?
+403: Which rural areas border with Clonakilty?
+404: Which villages are located in the Peloponnese?
+405: Which townlands border the county council of Dublin?
+406: Which counties border the county of Bedford?
+407: Which municipalities are adjacent to Chalandri?
+408: Which municipalities are contained in the South Athens Regional Unit?
+409: Which districts share a border with the Greater London Authority?
+410: Is the city of London inside a forest?
+411: Which beaches are close to Corfu?
+412: Which parks are in New York City?
+413: Which towns are a short distance away from NYC?
+414: Which counties border with Nottinghamshire?
+415: Which are the canals of Wales?
+416: Which beaches are at most 100 km away from Athens?
+417: What is the largest body of water located in the region of County Kerry?
+418: Which is the largest park by area in the municipality of Athens?
+419: Which forests are located within a distance of 20km from Dublin?
+420: What are the adjacent districts surrounding Greater London?
+421: What are the green spaces located within a distance of 10 kilometers from Liverpool?
+422: Which region of Greece contains Tripoli?
+423: On which island is the city of Chania located?
+424: Which countries make up the UK?
+425: Give me five cities in Texas?
+426: Which lakes in England are also west of Manchester?
+427: Which villages in Northumberland also border Alnwick?
+428: Which parks are in Suffolk?
+429: Which forests in England are also east of Liverpool?
+430: Which Municipality in Attica is less than 50km away from Corinth?
+431: Which municipalities border with both Pallini and Agia Paraskevi?
+432: Which municipalities contain at least one beach and one village?
+433: Give me 10 nature reserves that are west of townlands.
+434: Which lakes border villages?
+435: Which streams flow through cities?
+436: Which forests are entirely within a Barony and intersect with townlands?
+437: Identify any nature reserves that are situated south of a forested area.
+438: Which towns have beaches?
+439: Which rural areas intersect with lakes?
+440: What urban centers possess beaches?
+441: Which lakes are linked to a woodland area?
+442: Which States of the US border with at most 2 other States?
+443: Is there a lake that touches both a forest and a village?
+444: Give me a stream that crosses at least two lakes.
+445: Which localities are adjacent to lakes?
+446: Give me 5 streams that are on islands?
+447: Which islands are situated within the boundaries of lakes?
+448: How many Greek villages are either in a lake or in a forest?
+449: Which Irish Baronies contain both a lake and a forest?
+450: Which islands don't have any lakes but have forests?
+451: Which counties have no forests?
+452: Which states have no lakes?
+453: Which US state has no lakes?
+454: Are there any streams that cross villages in Central Greece?
+455: Which lakes intersect with forests in the Republic of Ireland?
+456: Which lakes in England intersect with streams?
+457: Do beaches which are right next to lagoons that intersect with the municipality of Milos exist?
+458: Which District Wards border Civil Parishes or Communites that border Oxford?
+459: Which bays intersect with counties that border with County Mayo?
+460: Which Civil Parishes or Communites intersect Metropolitan District Wards in Birmingham?
+461: Which bays are east of parks in Dublin?
+462: Which beaches intersect villages on Corfu Island?
+463: Which streams cross municipalities that are located in the region of Thessaly?
+464: Which streams cross counties that border Cumbria ?
+465: Which streams cross counties that border County Longford?
+466: Which bays are east of a reservoir in Greece?
+467: Which streams intersect Unitary Authority Wards in Edinburgh?
+468: Which localities are in towns that intersect with County Roscommon?
+469: Which districts of Suffolk have forests within them?
+470: Which Irish counties that border County Kildare intersect with canals?
+471: Which lakes are within counties in England?
+472: Which forests intersect with rural areas in the Republic of Ireland?
+473: Which municipalities intersect with parks in the Central Athens regional unit.
+474: Which county bordering the city of Cork contains the largest lake?
+475: Are there district wards within districts in Cambridge?
+476: Which regional unit in the region of Epirus has a lake?
+477: Is there a lagoon located north of a beach in Thasos?
+478: Give me exactly one park of Dublin that is south of a canal.
+479: Which villages in Birmingham are north of canals?
+480: Which islands are south of beaches in Naxos?
+481: Are there any bays next to parks in Dublin?
+482: Which beaches are located on the islands of Greece?
+483: Which Irish city councils have parks?
+484: Which are the unitary authorities of England that border with Scotland?
+485: Is there a lake inside a forest in County Wicklow?
+486: Which municipalities have lakes in Central Macedonia?
+487: Is there a village that is next to a nature reserve in England?
+488: Which streams in the Republic of Ireland are tributaries?
+489: Which forests are within baronies in the Republic of Ireland?
+490: Which Greek municipalities have beaches?
+491: Which parks are inside counties of England?
+492: Which towns have lakes in the Kilmacrenan barony?
+493: Which municipalities south of Kastoria have a lake?
+494: Which localities are south of lakes in County Cavan?
+495: In Breckland district, which forests are south of streams?
+496: Which villages are north of beaches, in Thessaly?
+497: Which districts that are located south of Staffordshire have forests?
+498: Which rural areas located south of County Longford have forests?
+499: Which rural areas are located on the northern side of the city of Cork and have forests?
+500: Which forests contain streams in the State of Iowa?
+501: Which villages are north of lakes, in County Cumbria?
+502: Which villages are located east of beaches, in Corfu?
+503: Which lakes are entirely contained by a Greek municipality?
+504: Which forests are entirely within an English County?
+505: Which forests are entirely within an Irish Barony?
+506: Which forests are entirely contained in counties that are west of the county of Norfolk?
+507: Which forests are entirely contained in baronies east of Coshlea?
+508: Which districts of Cambridge have forests?
+509: Which civil parishes in Ireland contain more than 10 townlands?
+510: Which greek municipalities have more than 5 beaches?
+511: Which streams cross lakes in Scotland?
+512: Which nature reserves in Ireland have lakes within their boundaries?
+513: Which villages are located on islands in South Aegean
+514: Which forests intersect with villages in the State of Illinois?
+515: Which parks are located within the boundaries of cities in Orange County, California
+516: Which islands are east of villages in Greece?
+517: Which canals are located to the north of forests in England?
+518: Which lakes in Ireland are adjacent to forests?
+519: Which municipalities of Attica have at least one beach?
+520: Which parks in the US engulf at least one lake inside them?
+521: Can you provide me with the names of 4 villages located in rural areas south of Dublin?
+522: Is there a park north of a stream in Attica?
+523: Which lakes are north of a canal in London?
+524: Which localities are located east of forests in County Wicklow?
+525: Which reservoirs are located within third-order administrative units in Greece?
+526: Which reservoirs are east of 3rd order administrative units in Ireland?
+527: Which streams cross a town in England?
+528: Which Greek villages are located east of a beach?
+529: Which streams cross nature reserves in the United Kingdom?
+530: Which forests have a lake inside them in the US?
+531: Which towns are west of lakes in Thrace?
+532: Which streams cross forests located south of Oxford?
+533: Which parks intersect with forests in the US?
+534: Which localities are next to lakes in Ireland?
+535: Which forests intersect with streams in the UK?
+536: Which villages border towns in England?
+537: Which districts intersect streams in Cambridgeshire?
+538: Which municipalities in Greece have a lake inside their boundaries?
+539: Which forests are bordering lakes in the Republic of Ireland?
+540: In the United States, which villages border lakes?
+541: Which villages are west of bays in the Peloponnese region?
+542: Which forests in Essex are west of a lake?
+543: In Tullyhaw Barony, which streams are west of a townland?
+544: In Ireland, which townloads and lakes are next to eachother?
+545: Which counties of England border Wales?
+546: Which city has the largest park in Texas?
+547: Which counties are east of County Kerry and west of County Wexford?
+548: Which regional unit in the region of Thessaly has a beach?
+549: Is there a stream located east of a lake in Corfu?
+550: Give me one lake in Greece that is west of a canal.
+551: Which beaches in Crete are west of streams?
+552: Which islands are north of towns in Paros?
+553: Which villages are south of parks in Dublin?
+554: Which streams are located on the islands of Greece?
+555: Which city councils in Ireland are located south of a park?
+556: Which are the unitary authorities of England that are on the border of Wales?
+557: Is there a village south of a forest in Wicklow?
+558: Is there a lake that shares a border with a British county?
+559: Which streams are north of lakes in Central Macedonia?
+560: In Greece, is there a village that is next to a nature reserve?
+561: Which streams in Ireland are tributaries?
+562: Are there lakes located inside forests in Ireland?
+563: Which municipalities in Greece have parks?
+564: Which county of Great Britain has the most lakes?
+565: Which villages are south of beaches in Peloponnese?
+566: Which lakes are entirely contained by a Greek region?
+567: Which lakes are entirely within an Irish Barony?
+568: Are there forests that are entirely contained in a region which is south of Corfu?
+569: Which parks are entirely contained in counties that are east of the county of Longford?
+570: Which lakes are entirely contained in baronies west of Coshlea?
+571: Can you determine the names of the lakes in Greece that are completely encompassed within a single municipality?
+572: What are the parks situated in the forests of the United States?
+573: Can you identify the woodland areas in the districts situated to the south of Staffordshire?
+574: What are the lakes intersecting a flowing body of water in Oregon?
+575: What are the parks situated on islands of the US?
+576: Which county in Wales has the smallest number of villages?
+577: Which regional units of Greece share a border with three regional units?
+578: Is there a lake that intersects with all the regional units of Epirus?
+579: Which US states border with Arkansas?
+580: Which US counties intersect with Missouri?
+581: Which lake in Northern Ireland intersects with the most counties?
+582: Which US states border with Texas?
+583: Which town of Ireland is closest to Northern Ireland?
+584: Which lakes are entirely contained in a Greek municipality which is east of Chania?
+585: Which townlands are south of streams and baronies in the county of Longford?
+586: Which villages are north of lakes and parks in County Cumbria?
+587: Which English counties have both forests and lakes?
+588: Which Greek regions have no lakes?
+589: Which Greek municipalities do not have any parks?
+590: Which Irish counties have no forestlands?
+591: How big is the park in Essex?
+592: Which municipalities that belong to Periferiaki Enotita Nison and have less than 3000 residents individually, contain islands?
+593: What is the name and the area of the parks that are in Wards of Northern Ireland that are east of Dublin?
+594: Which municipalities in Central Macedonia have a population of more than 50.000 people?
+595: Give me the population of islands located in Greece.
+596: Is the area of any canal that intersects with Dublin greater than zero?
+597: Which municipalities in Greece have a population of less than 30000?
+598: Which regional units of the Peloponnese have more than 30.000 inhabitants?
+599: Which local government districts in Northern Ireland, north of Belfast, have an area of more than 1000000 square meters?
+600: What is the area of each forest in the Scarawalsh Barony?
+601: What is the population of the municipalities that border Kastoria?
+602: Which municipality in Crete has a population over 20000?
+603: Is there a village in Scotland with an area smaller than 0.05 square kilometers?
+604: Which towns in County Longford with area bigger than 0.01 are west of Dublin?
+605: Which Greek regional units have less than 10000 inhabitants?
+606: Which municipalities in the Central Athens Regional Unit have less than 50000 residents and contain parks?
+607: What are the names of the lakes in the Northern Irish wards west of Wales?
+608: What are the largest lakes that belong to counties south of Epping Forest?
+609: Which municipalities in Central Athens that intersect with a park have a population of more than 10.000 people?
+610: Which is the number of inhabitants residing on the islands situated within Greece?
+611: Which Greek regions have between 500000 and 1000000 inhabitants?
+612: Which counties in Louisiana have less than 20000 inhabitants?
+613: How many lakes are there in Los Angeles?
+614: Find the number of forests in England.
+615: What is the total number of localities in County Roscommon, and what is their total and average area?
+616: What is the average number of beaches located in the municipalities to the west of Pyrgos in the Elis region?
+617: What is the total number of lakes and the total number of streams located within the city limits of Cork?
+618: How many parks and how many streams are there in Essex?
+619: How many lakes does Greece have?
+620: How many lakes are there in England?
+621: How many parks does Dublin have and what is their total area?
+622: What is the total area of lakes in Monaghan?
+623: What is the number of lakes in each county that has lakes?
+624: What is the maximum area among lakes located in County Cavan?
+625: What are the smallest, largest and average forest areas that are within a district which is placed south of Staffordshire?
+626: What is the average area of the forests that are within the Rural Area south of Cork City?
+627: How many lakeside villages are there?
+628: How many streams cross forests?
+629: How many cities have beaches?
+630: How many islands are within a Greek region?
+631: How many English districts contain parks?
+632: How many townlands intersect with lakes?
+633: What is the number of forests that are right next to a lake?
+634: How many parks are located within city limits?
+635: What is the number of bays that are adjacent to villages?
+636: How many municipalities contain at least one lake?
+637: How many counties contain at least one reservoir?
+638: How many counties have beaches?
+639: How many greek regions have a beach?
+640: What is the number of Counties that intersect with lakes?
+641: What is the total number of baronies which have nature reserves?
+642: How many nature reserves intersect with forests?
+643: How many administrative level 3 entities have oxbows?
+644: What is the number of islands that have lakes?
+645: How many nature reserves intersect with towns?
+646: How many villages border towns?
+647: How many beaches are next to cities?
+648: How many district wards are within districts?
+649: How many lakes are within Irish counties?
+650: What is the number of lakes that are connected to a forest?
+651: How many baronies border with city councils?
+652: How many forests border lakes?
+653: What is the number of parks located within cities?
+654: How many bays are adjacent to villages?
+655: How many streams intersect with lakes?
+656: How many nature reserves contain forests?
+657: How many villages are on islands?
+658: What is the number of nature reserves that are located on islands?
+659: How many beaches border forests?
+660: How many parks have lakes running through them?
+661: What is the number of lakes that border forests?
+662: How many Cretan villages are north of Cretan forests?
+663: How many canals are east of villages in County Kerry?
+664: How many Greek municipalities contain at least one forest?
+665: How many lakes overlap with metropolitan districts?
+666: How many villages are right next to cities?
+667: How many lakes are north of forests in Cambridgeshire?
+668: How many lakes in Scotland are south of canals in Scotland?
+669: How many localities are adjacent to forests?
+670: How many municipalities have at least one beach?
+671: What is the number of municipalities that contain one or more canals?
+672: How many cities are north of streams, in Wales?
+673: How many lakes are inside forests?
+674: How many rivers are on islands in Greece?
+675: What is the total number of villages that are inside lakes in England?
+676: How many beaches are in regions in Greece?
+677: How many parks exist in English counties?
+678: How many nature reserves are in rural areas?
+679: How many Greek regional units contain islands?
+680: How many rivers cross Irish townlands in County Kildare?
+681: How many cities intersect with beaches in Thessaly?
+682: How many streams cross a nature reserve in Oxford?
+683: How many forests in County Longford have a lagoon inside them?
+684: How many municipalities in Greece contain beaches?
+685: What is the total number of counties that border with forests in England?
+686: How many parks have lakes in or as parts of them in County Mayo?
+687: How many English counties have lakes inside them?
+688: How many parks have streams crossing them in Plymouth?
+689: How many municipalities have a park in Attica?
+690: How many towns have beaches in the Republic of Ireland?
+691: How many towns have canals in Northern Ireland?
+692: How many canals are there in the Republic of Ireland?
+693: How many beaches are there in England and what is their total area?
+694: How many beaches are in municipalities of Greece?
+695: How many lakes are in Michigan?
+696: How many lakes does Scotland have?
+697: How many lakes are there in the Republic of Ireland?
+698: How many streams are there in Alabama?
+699: How many forests are there in California?
+700: How many forests exist in Ireland?
+701: How many counties are there in California?
+702: How many villages does Northern Ireland have?
+703: How many villages border other villages?
+704: How many islands does Ireland have?
+705: How many parks does Greece have?
+706: What is the total area of lakes in the state of Texas?
+707: How many lakes do Irish counties have, if any?
+708: How many lakeside forests are there?
+709: How many canals run through forests?
+710: How many cities have bays?
+711: How many towns intersect with woodlands?
+712: How many english districts contain lakes?
+713: What is the number of forests that intersect with lakes?
+714: What is the number of forests that are adjacent to a lake?
+715: How many parks are inside cities?
+716: How many nature reserves are located in cities?
+717: How many beaches border nature reserves?
+718: How many lakes intersect forests?
+719: What is the total amount of streams that border forests?
+720: How many canals intersect with lakes in the United States?
+721: How many canals in England are west of villages in Camrbridgeshire?
+722: How many lakes overlap with Greek municipalities?
+723: What is the total count of villages located on the border of cities?
+724: How many parks contain streams?
+725: How many lakes intersect canals?
+726: What is the number of regions that have at least one canal in Greece?
+727: What is the number of regions that contain one or more streams?
+728: How many cities are adjacent to lakes?
+729: How many rivers are inside forests?
+730: How many beaches are in Greek municipalities?
+731: How many parks are there in Irish Baronies?
+732: How many lakes are in townlands in Ireland?
+733: How many Greek regions contain islands and streams?
+734: How many rivers cross baronies?
+735: How many streams interect beaches and lakes?
+736: How many streams are within a nature reserve?
+737: How many parks contain a lagoon within them?
+738: How many municipalities contain canals?
+739: What is the total number of British counties that contain streams?
+740: How many British counties have lakes and canals in or as parts of them?
+741: How many baronies have parks inside them?
+742: What is the number of people that live in the Municipalities of Central Greece?
+743: How many counties does Texas have?
+744: How many municipalities does Greece have?
+745: How many Scottish lakes are there?
+746: How many beaches are located in municipalities with less than 100000 inhabitants in Greece?
+747: Give me 5 islands that have at least three lakes?
+748: How many American States have no lakes and no canals?
+749: What is the average US county population?
+750: How many islands does the UK have?
+751: What is the average size of a lake in England?
+752: Does Greece have more towns than Ireland?
+753: How many islands have no towns, villages or cities?
+754: How many constituent countries make up the UK?
+755: How much of Greece is covered by lakes?
+756: What percentage of Thrace is covered by lakes?
+757: Does Harris County in Texas have more inhabitants than all its neighboring counties?
+758: Which is the most populated municipality in Greece?
+759: Which forest is nearest to the city of Belfast?
+760: Which lake is closest to the municipality of Athens?
+761: Which Irish county has the fewest townlands?
+762: Find the 3 least populated municipalities of Greece.
+763: Which are the 10 smallest towns in the island of Ireland?
+764: Which region of Greece has the most inhabitants?
+765: Which county in the British Isles is the smallest by area ?
+766: Which 10 municipalities west of Athens have the lowest population?
+767: What is the smallest forest area that intersects with Essex?
+768: Which are the two biggest baronies that intersect with Dublin?
+769: Which is the largest forest by area in England?
+770: Which is the largest park by area in Dublin?
+771: Which is the smallest beach by area in Naxos?
+772: Which region that borders Thessaly has the largest population ?
+773: What is the smallest metropolitan district that borders Manchester?
+774: Which is the biggest lake in County Kerry ?
+775: Which 3 municipalities in Epirus have the biggest population?
+776: Which is the biggest district that borders Greater London?
+777: Which is the biggest forest in County Wexford?
+778: What are the largest parks that belong to counties north of Budgebury Forest?
+779: Which municipality bordering Agia Paraskevi has the largest population ?
+780: Which county bordering the city of Cork has the largest area?
+781: Which village in Rhodes has the biggest population?
+782: Which village in England has the largest area?
+783: Which park within Dublin is the smallest by area?
+784: Which is the largest region of Greece?
+785: What are the top five largest counties by area in the United Kingdom that are located north of the City of London?
+786: Which are the 3 most populated municipalities of Crete?
+787: Which is the biggest park in Dublin?
+788: Show me the biggest park in Liverpool
+789: Which is the largest Greek region?
+790: Which is the least populated regional unit that belongs to the South Aegean administrative region and intersects with beaches?
+791: Which rural area south of Longford has the smallest forest?
+792: Which county of England has the largest forest?
+793: Which district of the United Kingdom covers the biggest area?
+794: Which is the most populated region in Greece?
+795: Which lake of the municipality of Amintaio covers the largest area?
+796: Which is the largest forest in Norfolk?
+797: Which civil parish bordering Killinane occupies the smallest area?
+798: Which is the most populated region of Greece?
+799: Which region of Greece has the biggest area?
+800: How large is the largest county in Ireland?
+801: Which is the smallest county of England?
+802: Which is the largest bay in the Republic of Ireland?
+803: Which are the smallest 5 lakes north of Dublin?
+804: Which of the municipalities that border Thessaloniki has the biggest area?
+805: Which town in England with a river crossing it has the largest area?
+806: Which is the largest forest in a 1000km radius from Kastanas beach?
+807: Which is the largest stream that intersects with Cork?
+808: Which is the smallest lake in the Republic of Ireland?
+809: What is the largest lake in the United Kingdom?
+810: What is the largest city in Florida?
+811: Which is the largest lake in Kansas?
+812: What is the 10th largest town in Alaska?
+813: Which county has the most inhabitants in the US?
+814: Which county is the biggest by population in Nevada?
+815: Which county has the lowest population in Kansas?
+816: Which is the largest island in Ireland?
+817: Is Liverpool the largest city of the United Kingdom?
+818: Which is the biggest city in Texas?
+819: What is the largest state by area in the USA?
+820: Which is the smallest city in England?
+821: What is the largest lake in Scotland?
+822: Which county in Ireland has the largest park?
+823: What is the largest lake in Cambridgeshire?
+824: Find the 5 least populated municipalities of Greece.
+825: Which are the two smallest parks in the Republic of Ireland?
+826: Is there at least one beach in any of the top 5 least populated regional units of Greece?
+827: Which Greek municipality has the biggest surface area?
+828: Which municipality of Greece has the smallest number of inhabitants?
+829: Which 2 counties are the smallest by area?
+830: Which 5 municipalities east of Athens have the most residents?
+831: Which are the three largest district wards that intersect with Plymouth?
+832: Which are the 5 district wards with the smallest area that intersect with Essex?
+833: Which is the largest lake by area in Ireland?
+834: Which is the municipality by area in Western Macedonia?
+835: Which is the smallest forest by area in Greater London?
+836: Which municipality on the border of Wester Macedonia has the smallest population?
+837: Which is the largest district that borders Oxford?
+838: Which is the smallest forest in County Wicklow?
+839: Which 5 municipalities in Athens have the smallest population?
+840: What is the smallest district that borders Greater London?
+841: Which is the biggest lake in County Kerry?
+842: Out of all lakes in England, which is the smallest?
+843: Which region that borders the Peloponnese has the smallest area?
+844: Which are the two smallest districts that border Cumbria?
+845: Which is the smallest barony in County Wicklow?
+846: Which is the largest village in North Yorkshire?
+847: Which is the largest rural area?
+848: Is the largest US State larger than England?
+849: Which is the largest US State?
+850: Which city in England is adjacent to the most lakes?
+851: What is the largest forest in Texas by area?
+852: Which is the largest lake in Northern Ireland?
+853: What is the largest island that belongs to the UK?
+854: Which US state capital has the highest population?
+855: Which States are larger than England?
+856: Which are the 3 largest canals, by length, in Scotland?
+857: Which is the longest canal in England?
+858: Is Northern Ireland the least forested country in the UK?
+859: Which is the largest lake southeast of Galway?
+860: Which is the largest park in Greece?
+861: Is Scotland's capital also its largest city?
+862: Which is the largest uninhabited island?
+863: Which is the smallest beach in the Peloponnese prefecture?
+864: Which is the largest lake south of Thessaloniki and north of Athens?
+865: Which is the largest beach in Greece north of Athens?
+866: How large is the the smallest county of England?
+867: Which is the smallest municipality of Greece?
+868: Does Attica have more lakes than Crete?
+869: Is there at least one beach in any of the top 10 most populated municipalities in Greece?
+870: Is the population of the most nothern city in Scotland less than the population of the most southern city in Scotland?
+871: Which are the two smallest municipalities in Greece?
+872: Which are the easternmost towns of England?
+873: Which English district has the most lakes?
+874: Which county of Ireland has the most nature reserves?
+875: Which district of the United Kingdom has the most villages?
+876: Which Irish county has the highest number of lakes?
+877: Which island of Greece has the most beaches?
+878: Which county in England has the largest number of lakes?
+879: Which 5 counties of the UK have the most forests?
+880: Which county of England has the most parks?
+881: Which barony in Ireland has the most lakes?
+882: Find the 10 British Counties having the most forests.
+883: Find the 10 Irish Baronies with the most forests and at least 2 lakes.
+884: What is the size of the largest forest in Cambridgeshire?
+885: How large is the largest forest in Greece?
+886: What is the average area of a lake in Nevada?
+887: What is the size of the largest county in the Republic of Ireland?
+888: Which county has the most townlands in Ireland?
+889: Which Texan county has the most lakes?
+890: Does Texas have more counties than Alabama?
+891: How many counties of Texas are larger than Austin?
+892: Which state in the US has the most neighboring states?
+893: How many counties border the largest county of the Republic of Ireland?
+894: Which English county has the most forests?
+895: What is the population of San Francisco?
+896: What is the capital of California?
+897: What is the height of the Mount Shuksan Waterfalls?
+898: What is the population of the UK?
+899: What is the population of Northern Ireland?
+900: Which is the capital of Northern Ireland?
+901: What is the population of Athens?
+902: What are the geographic coordinates of the USA?
+903: How many people live in LA?
+904: What's the length of the Loch Ness?
+905: How many people live in the Ireland?
+906: What are the coordinaties of the John F. Kennedy International Airport?
+907: Which is the length of River Liffey?
+908: What is the population of Dublin?
+909: What is the height of the Lower Ghaghri Falls?
+910: Give me the latitude and longitude of NYC.
+911: What is the population of Scotland?
+912: How tall are the Victoria Falls?
+913: Which country is North Somerset located in?
+914: What is Skye?
+915: What is the length of the Awali river?
+916: What is the length of the Dnyanganga river?
+917: How much area does Mount Rushmore cover?
+918: How long is the Grand Canyon?
+919: In which state is Detroit?
+920: How many people live in the capital of England?
+921: What is the maximum length of Bala Lake?
+922: How long is Loch Awe?
+923: What is the total area of Lake Taupo?
+924: How many people live in Washington, the capital of the US?
+925: Where is the Buckingham Palace located?
+926: What is the population of England?
+927: How far is New York from the capital of the US?
+928: Is Dublin the capital of Ireland?
+929: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland?
+930: Which city has higher population, Athens or New York?
+931: Which country's capital city is larger, Ireland's or Scotland's?
+932: Which city is MoMA P.S. 1 located in?
+933: Which city is the capital of Ireland?
+934: Which state is Key Largo located in?
+935: Which is the capital city of Scotland?
+936: Which country is lake Como located in??
+937: Does Liverpool have a stadium?
+938: Which are the churches of NYC?
+939: What memorials can I visit in Dublin?
+940: What museums can I visit in New York?
+941: Find all the museums in Athens.
+942: Find all the airports in the United States
+943: Which state does Dallas belong to?
+944: Are there any waterfalls in Dublin?
+945: Which mountains exist in Scotland?
+946: Is there a hospital in Galway?
+947: Which are the states of the United States?
+948: Does Athlone have a university?
+949: Which museums can I visit in the US capital?
+950: Which island in New York is the Statue of Liberty on?
+951: Where is the Royal Armouries Museum located?
+952: Which country's capital is Belfast?
+953: Which are the non-metropolitan counties of England?
+954: Which are the metropolitan counties of England?
+955: Which is the closest city to the capital of the US?
+956: Which cities in Kansas have more than 100,000 inhabitants?
+957: Which villages in New York have more than 10000 residents?
+958: Which rivers are in Ireland?
+959: How many cities in the UK have a population of less than 5 million?
+960: How many towns with a population between 5000 and 10000 are there in Norfolk?
+961: How many towns in the USA, with a population of more than 50000 have an airport?
+962: How many inhabited islands belong to the United States?
+963: How many cities of more than 100.000 inhabitants are there in the US?
+964: How many museums does Texas have?
+965: How many universities are there in Houston?
+966: How many libraries does Miami have?
+967: How many schools are in Brighton?
+968: How many universities are in Belfast?
+969: How many states does the USA have?
+970: How many airports does England have?
+971: How many churches are there in Glasgow?
+972: How many hotels are there in Central London?
+973: How many museums are there in London?
+974: How many churches are there in Newcastle Emlyn?
+975: How many international airports are there in Ireland?
+976: How many universities are there in Ireland?
+977: How many states does the United States of America have?
+978: In how many states are there intercontinental hotels ?
+979: How many castles are there in Scotland?
+980: How many stadiums does Georgia have?
+981: How many hospitals does the city of Cork have?
+982: How many stadiums are there in Liverpool?
+983: How many universities exist in Seattle?
+984: How many archaelogical sites are there in London?
+985: How many airports exist in the USA?
+986: How many many airports are there in Texas?
+987: Which is the most populated province of Ireland ?
+988: What are the 5 biggest cities by population in the state of California ?
+989: Which is the most populated city in Missouri?
+990: Which are the top three most populated cities in Arkansas?
+991: What is the most populated city in the State of Missouri?
+992: Is the US capital its most populated city?
+993: Is London the most populated city in England?
+994: Which is the most populated village in the Republic of Ireland?
+995: Is Leitrim the least populated county in the Republic of Ireland?
+996: Which is the most populous county of California?
+997: Which is the oldest monument in the US?
+998: Which are the 2 newest bridges of Ireland?
+999: Which is the oldest museum in Kansas?
+1000: Which state capital in the USA has the largest population?
+1001: Is Galway the largest county in Connacht?
+1002: What is the longest river in the United States ?
+1003: Give me 10 rivers in USA?
+1004: Which is the largest settlement in Europe?
+1005: Which settlement has the biggest population in France?
+1006: Which is the longest river in Greece?
+1007: What is the oldest historical site in the United States?
+1008: Which is the tallest building in the United States?
+1009: Which is the tallest dam in California?
+1010: Which is the oldest castle in Pennsylvania?
+1011: Which is the oldest church in the United States?
+1012: What is the tallest building in Ireland ?
+1013: In which state is the tallest building in New York?
+1014: Which is the tallest building in Chicago?
+1015: What is the total population of the 5 biggest cities of the United Kingdom ?
+1016: What is the population total of the 5 largest US states?
+1017: Which city in California has the most hospitals?
+1018: What is the population of Region of Central Greece?
+1019: What is location of the county Cambridge?
+1020: What is population of Kalithea?
+1021: What is the population of Andraveda?
+1022: What is the population of region Psara?
+1023: Which is the population of Nikaia Agios Ioannis Rentis?
+1024: Where is the Manchester city located?
+1025: Is Oxfordshire far away from Kent more than 100km?
+1026: Is Oxfordshire at distance of 100km from Kent?
+1027: Does County Galway contains Claregalway?
+1028: Is Samos west of Rodos?
+1029: Is the city of Cork located southern of the city of Galway?
+1030: Is the Distance between Bublin and Arklow more than 10km?
+1031: Does the Athens municipality touch Kallithea?
+1032: Is Kalmata north of Tripoli??
+1033: Is Liverpool around 40 kms of Manchester?
+1034: Which Forests are less than 25km far away from County Sligo?
+1035: Which beaches are near by Naxos?
+1036: Which lakes are in Ipiros region?
+1037: Which are the wards that comprise of City Belfast?
+1038: Which municipalities border municipality Athens?
+1039: Which forests are contained in the Norfolk?
+1040: Which streams cross the municipalities that are located in the interior region of Thessaly?
+1041: Which county council boarding the city of Cork contains the biggest lake?
+1042: All the district that has forest south of Staffordshire?
+1043: Which England county has inside the biggest area forest?
+1044: What is the county with the max area in the UK?
+1045: What is the maximum area between Ireland's counties?
+1046: Which rivers are in islands in Greece?
+1047: All municipalities have a beach inside their boundaries, in Greece?
+1048: Which forests in Essex county are west of a lake?
+1049: In TULLYHAW Barony, which forest are west a town?
+1050: Which municipality in Crete region have population over 20000?
+1051: Which villages at New York contain more than 10000 residents?
+1052: Find count of forests on Egland?
+1053: Count lakes in Greece.
+1054: How many lakes are there at England?
+1055: How much lakeside vilages are there?
+1056: What's the count of isles with lakes?
+1057: How many beaches are at regions at Greece?
+1058: How many inhabited islands belong to the USA of America?
+1059: Which Irish counties have no forstlands?
+1060: Find the 3 least populated munciplaities of Greece.
+1061: Which village in Rodes has the biggest population?
+1062: What is the most large park in Greece?
+1063: Which 2 counties are the fewest by area?
+1064: Which is the largest United State?
+1065: Which irish barony county has most count of lakes?
+1066: How much is the size of the largest forest in Cambridgeshire?
+1067: Which is the capital of North Ireland?
+1068: How much people live in the LA?
+1069: Give me the lat and lon of the NYC?
+1070: What museums can I visit in Nwe York?
+1071: Which countrys capital is Belfast?
+1072: How much states does the USA have?
+1073: How much universities be in Seattle?
+1074: What is the most older historical site in United States?
+1075: Where is the Liverpool located?
+1076: How much is the size of Eretria?
+1077: What is the population of Siros?
+1078: How much population does Syros has?
+1079: Where is Chikago located?
+1080: Is Dublin above Kilkenny?
+1081: Is Oxford at most 3kms from Cambridge?
+1082: Which Regional Unit border with Thessaly?
+1083: Which are bordering districts of the Greater London Authority?
+1084: Is Dublin in an island?
+1085: Which lakes are in 10km of Ioannina?
+1086: Which counties border the Bedford?
+1087: How much lakes are in Los Angeles?
+1088: Which lakes of England are west of city Manchester?
+1089: Where Southampton is located?
