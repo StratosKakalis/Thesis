@@ -6,8 +6,10 @@ from Models.REL import REL_Inference
 from Models.WAT import WAT_Inference
 
 def Model_Inference(model, question):
-    if (model == 'gpt'):
-        return GPT_Inference(question)
+    if (model == 'gpt-one'):
+        return GPT_Inference(question, "one")
+    elif (model == "gpt-few"):
+        return GPT_Inference(question, "few")
     elif (model == "wat"):
         return WAT_Inference(question)
     elif (model == "rel"):
@@ -18,8 +20,8 @@ with open('GeoQuestionsNoAnswers.json', 'r') as json_file:
 
 skip_until = 0
 
-#model_list = {"gpt", "rel", "wat"}
-model_list = {"wat"}
+#model_list = {"gpt-one", "gpt-few", "rel", "wat"}
+model_list = {"gpt-few"}
 # For each model that we test, run all the questions and save the results in a respective file.
 for model in model_list:
     print("Testing model: " + model)
