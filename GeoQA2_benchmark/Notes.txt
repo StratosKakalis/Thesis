@@ -1,0 +1,7 @@
+Notes on Wikification Accuracy Metric:
+    
+    I opened approximately 200 links in random and I measured how many were correct for each model.
+
+    -REL/WAT: Mostly correct links, the only ones I counted as incorrect were when the model would describe something and not link to it (e.g. Kalithea->Kalithea F.C.)
+    -GPT: The gpt models were also very accurate on their predictions but their lower accuracy is due to them returning "No link found" in many cases, however the same
+    links that the GPT models say they cannot find are often found on other predictions. This means that maybe asking the model twice will solve the issue.
