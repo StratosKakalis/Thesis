@@ -25,7 +25,7 @@
 25: What is the population of the municipality of Lemnos?
 26: Where is Oxford located?
 27: How large is County Donegal?
-28: What is the size of Eretria?
+28: What is the size of Eretria?`
 29: Where is Cambridge located?
 30: What is Dublin's administrative type?
 31: Where is Galatsi located?
@@ -114,7 +114,7 @@
 114: What is the size of Wells County, North Dakota?
 115: Where is Southampton situated?
 116: Where is Alaska located?
-117: Where is Kalamata located?
+117: Where is Kalamata located? -------------------------------------------------------------------------------------------
 118: Where is the location of the County Cavan?
 119: What is the national level of Essex?
 120: What is the population of Serifos?
