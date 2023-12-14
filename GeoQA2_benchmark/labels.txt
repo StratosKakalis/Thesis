@@ -110,11 +110,11 @@
 110: Ullswater: https://en.wikipedia.org/wiki/Ullswater
 111: Rafina: https://en.wikipedia.org/wiki/Rafina
 112: Muckross: Unavailable.
-113: Wells County: https://en.wikipedia.org/wiki/Wells_County,_North_Dakota, North Dakota: https://en.wikipedia.org/wiki/North_Dakota
+113: Wells County: https://en.wikipedia.org/wiki/Wells_County,_North_Dakota
 114: Wells County: https://en.wikipedia.org/wiki/Wells_County,_North_Dakota
 115: Southampton: https://en.wikipedia.org/wiki/Southampton
 116: Alaska: https://en.wikipedia.org/wiki/Alaska
-117: Kalamata: https://en.wikipedia.org/wiki/Kalamata
+117: Kalamata: https://en.wikipedia.org/wiki/Kalamata -------------------------------------------------------------------------------------------
 118: County Cavan: https://en.wikipedia.org/wiki/County_Cavan
 119: Essex: https://en.wikipedia.org/wiki/Essex
 120: Serifos: https://en.wikipedia.org/wiki/Serifos
