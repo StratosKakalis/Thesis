@@ -114,7 +114,7 @@
 114: What is the size of Wells County, North Dakota?
 115: Where is Southampton situated?
 116: Where is Alaska located?
-117: Where is Kalamata located? -------------------------------------------------------------------------------------------
+117: Where is Kalamata located?
 118: Where is the location of the County Cavan?
 119: What is the national level of Essex?
 120: What is the population of Serifos?
@@ -155,7 +155,7 @@
 155: Is Peristeri west of Zografou?
 156: Do Cambridge and Oxford intersect?
 157: Does County Galway contain Claregalway?
-158: Is Samos west of Rodhes?
+158: Is Samos west of Rhodes?
 159: Is Cardiff adjacent to Birmingham?
 160: Is Mullingar within 70 km of Dublin?
 161: Is Denbighshire located in Wales?
@@ -202,7 +202,7 @@
 202: Does Astypalaia belong to the Decentralized Administration of the Aegean?
 203: Is the Sennen Cove beach east of Helston?
 204: Is Howth far from Dublin?
-205: Is Athlone northeast of Portumna?
+205: Is Athlone northeast of Portumna? 
 206: Is Kalamata north of Tripoli?
 207: Is Kastanas beach located south of the municipality of Athens?
 208: Is Liverpool south of Scotland?
@@ -242,7 +242,7 @@
 242: How far is Cumbria from Birmingham?
 243: Is Athens south of Oxford?
 244: Is England to the west of Greece?
-245: Is York in Scotland ?
+245: Is York in Scotland?
 246: Do Essex and Hertfordshire share a border?
 247: Is Patras north of Tripoli?
 248: Is Belfast farther west than Galatsi?
@@ -776,7 +776,7 @@
 776: Which is the biggest district that borders Greater London?
 777: Which is the biggest forest in County Wexford?
 778: What are the largest parks that belong to counties north of Budgebury Forest?
-779: Which municipality bordering Agia Paraskevi has the largest population ?
+779: Which municipality bordering Agia Paraskevi has the largest population?
 780: Which county bordering the city of Cork has the largest area?
 781: Which village in Rhodes has the biggest population?
 782: Which village in England has the largest area?
@@ -794,7 +794,7 @@
 794: Which is the most populated region in Greece?
 795: Which lake of the municipality of Amintaio covers the largest area?
 796: Which is the largest forest in Norfolk?
-797: Which civil parish bordering Killinane occupies the smallest area?
+797: Which civil parish bordering Kilfinane occupies the smallest area?
 798: Which is the most populated region of Greece?
 799: Which region of Greece has the biggest area?
 800: How large is the largest county in Ireland?
@@ -1018,22 +1018,22 @@
 1018: What is the population of Region of Central Greece?
 1019: What is location of the county Cambridge?
 1020: What is population of Kalithea?
-1021: What is the population of Andraveda?
+1021: What is the population of Andravida?
 1022: What is the population of region Psara?
 1023: Which is the population of Nikaia Agios Ioannis Rentis?
 1024: Where is the Manchester city located?
 1025: Is Oxfordshire far away from Kent more than 100km?
 1026: Is Oxfordshire at distance of 100km from Kent?
 1027: Does County Galway contains Claregalway?
-1028: Is Samos west of Rodos?
+1028: Is Samos west of Rhodes?
 1029: Is the city of Cork located southern of the city of Galway?
-1030: Is the Distance between Bublin and Arklow more than 10km?
+1030: Is the Distance between Dublin and Arklow more than 10km?
 1031: Does the Athens municipality touch Kallithea?
-1032: Is Kalmata north of Tripoli??
+1032: Is Kalamata north of Tripoli?
 1033: Is Liverpool around 40 kms of Manchester?
 1034: Which Forests are less than 25km far away from County Sligo?
 1035: Which beaches are near by Naxos?
-1036: Which lakes are in Ipiros region?
+1036: Which lakes are in Epirus region?
 1037: Which are the wards that comprise of City Belfast?
 1038: Which municipalities border municipality Athens?
 1039: Which forests are contained in the Norfolk?
@@ -1058,7 +1058,7 @@
 1058: How many inhabited islands belong to the USA of America?
 1059: Which Irish counties have no forstlands?
 1060: Find the 3 least populated munciplaities of Greece.
-1061: Which village in Rodes has the biggest population?
+1061: Which village in Rhodes has the biggest population?
 1062: What is the most large park in Greece?
 1063: Which 2 counties are the fewest by area?
 1064: Which is the largest United State?
@@ -1067,16 +1067,16 @@
 1067: Which is the capital of North Ireland?
 1068: How much people live in the LA?
 1069: Give me the lat and lon of the NYC?
-1070: What museums can I visit in Nwe York?
+1070: What museums can I visit in New York?
 1071: Which countrys capital is Belfast?
 1072: How much states does the USA have?
 1073: How much universities be in Seattle?
 1074: What is the most older historical site in United States?
 1075: Where is the Liverpool located?
 1076: How much is the size of Eretria?
-1077: What is the population of Siros?
+1077: What is the population of Syros?
 1078: How much population does Syros has?
-1079: Where is Chikago located?
+1079: Where is Chicago located?
 1080: Is Dublin above Kilkenny?
 1081: Is Oxford at most 3kms from Cambridge?
 1082: Which Regional Unit border with Thessaly?

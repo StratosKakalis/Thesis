@@ -57,7 +57,8 @@ def print_wat_annotations(wat_annotations):
     #json_list = [w.json_dict() for w in wat_annotations]
     result = ""
     for w in wat_annotations:
-        result += w.json_dict()['wiki_title'] + ': ' + w.json_dict()['wiki_link'] + '\t'
+        result += w.json_dict()['wiki_title'] + ': ' + w.json_dict()['wiki_link'] + ', '
+
 
     return result
     #print (json.dumps(json_list, indent=4))
