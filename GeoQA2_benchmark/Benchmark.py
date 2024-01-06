@@ -158,6 +158,111 @@ class Benchmark():
             # Display the resulting DataFrame
             print(df)
 
+            # Now evaluate the models performance by comparing df to the ground truth dataframe (self.df)
+            # Select only the relevant columns before merging.
+            model_df = df[['key', 'toponym1', 'wiki1', 'toponym2', 'wiki2', 'toponym3', 'wiki3']]
+            gt_df = self.df[['key', 'toponym1', 'wiki1', 'toponym2', 'wiki2', 'toponym3', 'wiki3']]
+
+            # Merge DataFrames on the 'key' column.
+            merged_df = pd.merge(model_df, gt_df, on='key', suffixes=('_gt', '_mdl'))
+
+            # Compare predictions for every key.
+            TP = 0
+            FP = 0
+            FN = 0
+            correct_wiki_links = 0
+            wrong_wiki_links = 0
+            for index, row in merged_df.iterrows():
+                key = row['key']
+                toponym1_gt = row['toponym1_gt']
+                toponym1_mdl = row['toponym1_mdl']
+                toponym2_gt = row['toponym2_gt']
+                toponym2_mdl = row['toponym2_mdl']
+                toponym3_gt = row['toponym3_gt']
+                toponym3_mdl = row['toponym3_mdl']
+
+                wiki1_gt = row['wiki1_gt']
+                wiki1_mdl = row['wiki1_mdl']
+                wiki2_gt = row['wiki2_gt']
+                wiki2_mdl = row['wiki2_mdl']
+                wiki3_gt = row['wiki3_gt']
+                wiki3_mdl = row['wiki3_mdl']
+
+                if toponym1_gt is not None:
+                    if toponym1_mdl is None:
+                        # If there is a toponym1 in gt and there isnt one in prediction that a FN.
+                        FN += 1
+                    else: 
+                        # If there is a predicted toponym then if its correct that a TP and if not correct then FP AND FN.
+                        if toponym1_gt.lower() == toponym1_mdl.lower():
+                            TP += 1
+                        else:
+                            FP += 1
+                            FN += 1
+                # Alternatively if there is no toponym in the ground truth yet we predict one that FP.
+                else: 
+                    if toponym1_mdl is not None:
+                        FP += 1
+
+                # Repeat the same process for the other 2 toponyms.
+                if toponym2_gt is not None:
+                    if toponym2_mdl is None:
+                        # If there is a toponym1 in gt and there isnt one in prediction that a FN.
+                        FN += 1
+                    else: 
+                        # If there is a predicted toponym then if its correct that a TP and if not correct then FP AND FN.
+                        if toponym2_gt.lower() == toponym2_mdl.lower():
+                            TP += 1
+                        else:
+                            FP += 1
+                            FN += 1
+                # Alternatively if there is no toponym in the ground truth yet we predict one that FP.
+                else: 
+                    if toponym2_mdl is not None:
+                        FP += 1
+
+                # 3rd toponym.
+                if toponym3_gt is not None:
+                    if toponym3_mdl is None:
+                        # If there is a toponym1 in gt and there isnt one in prediction that a FN.
+                        FN += 1
+                    else: 
+                        # If there is a predicted toponym then if its correct that a TP and if not correct then FP AND FN.
+                        if toponym3_gt.lower() == toponym3_mdl.lower():
+                            TP += 1
+                        else:
+                            FP += 1
+                            FN += 1
+                # Alternatively if there is no toponym in the ground truth yet we predict one that FP.
+                else: 
+                    if toponym3_mdl is not None:
+                        FP += 1
+
+                # TO DO: add some sort of similarity measure to allow for small deviations in the links that
+                # may lead to the same wikipedia page.
+                # Now evaluate the wikipedia link predictions:
+                if wiki1_gt is not None:
+                    if wiki1_mdl is None or wiki1_gt.lower() != wiki1_mdl.lower():
+                        wrong_wiki_links += 1
+                    else: correct_wiki_links += 1
+
+                if wiki2_gt is not None:
+                    if wiki2_mdl is None or wiki2_gt.lower() != wiki2_mdl.lower():
+                        wrong_wiki_links += 1
+                    else: correct_wiki_links += 1
+                
+                if wiki3_gt is not None:
+                    if wiki3_mdl is None or wiki3_gt.lower() != wiki3_mdl.lower():
+                        wrong_wiki_links += 1
+                    else: correct_wiki_links += 1
+
+            # Calculate model metrics.
+            precision = TP / (TP + FP)
+            recall = TP / (TP + FN)
+            F1 = (2 * precision * recall) / (precision + recall)
+            wiki_accuracy = (correct_wiki_links / (correct_wiki_links + wrong_wiki_links)) * 100
+            print(f"Model {filename} metrics: Precision: {precision}, Recall: {recall}, F1-Score: {F1}, Wikification Accuracy: {wiki_accuracy}.")
+
 # First run the benchmark and generate model responses.
 bench = Benchmark()
 # Create a dataframe from the labaled dataset.
