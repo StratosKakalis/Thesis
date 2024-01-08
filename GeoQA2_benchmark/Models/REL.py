@@ -12,6 +12,6 @@ def REL_Inference(question):
 
     response = ""
     for result in el_result:
-        response += result[2] + ": https://en.wikipedia.org/wiki/" + result[3] + ", "
+        response += result[2] + ": https://en.wikipedia.org/wiki/" + result[3] + " | "
     
     return response

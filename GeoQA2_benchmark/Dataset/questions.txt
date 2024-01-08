@@ -1049,7 +1049,7 @@
 1049: In TULLYHAW Barony, which forest are west a town?
 1050: Which municipality in Crete region have population over 20000?
 1051: Which villages at New York contain more than 10000 residents?
-1052: Find count of forests on Egland?
+1052: Find count of forests on England?
 1053: Count lakes in Greece.
 1054: How many lakes are there at England?
 1055: How much lakeside vilages are there?

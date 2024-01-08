@@ -5,6 +5,31 @@ import pandas as pd
 from Models.GPT import GPT_Inference
 from Models.REL import REL_Inference
 from Models.WAT import WAT_Inference
+import Levenshtein
+
+def is_similar(value1, value2, threshold=0.65):
+    # Check if two values are similar using Levenshtein distance
+    distance = Levenshtein.distance(value1.lower(), value2.lower())
+    max_len = max(len(value1), len(value2))
+    similarity = 1 - distance / max_len
+    return similarity >= threshold
+
+def is_subset(value1, value2):
+    # Check if one value is a subset of the other, considering singular/plural differences and typos.
+    set1 = set(value1.lower().split())
+    set2 = set(value2.lower().split())
+
+    return (
+        is_similar(value1, value2) or
+        set1 <= set2 or
+        set2 <= set1 or
+        ("usa" in value1.lower() and "united" in value2.lower() and "states" in value2.lower()) or
+        ("usa" in value2.lower() and "united" in value1.lower() and "states" in value1.lower()) or
+        ("us" in value1.lower() and "united" in value2.lower() and "states" in value2.lower()) or
+        ("us" in value2.lower() and "united" in value1.lower() and "states" in value1.lower()) or
+        ("uk" in value1.lower() and "united" in value2.lower() and "kingdom" in value2.lower()) or
+        ("uk" in value2.lower() and "united" in value1.lower() and "kingdom" in value1.lower())
+    )
 
 class Benchmark():
     df = None
@@ -48,8 +73,8 @@ class Benchmark():
                 # Get first toponym.
                 if ':' in answer:
                     toponym1, answer = map(str.strip, answer.split(':', 1))
-                if ',' in answer:
-                    wiki1, answer = map(str.strip, answer.split(',', 1))
+                if ' | ' in answer:
+                    wiki1, answer = map(str.strip, answer.split(' | ', 1))
                 else:
                     wiki1 = answer
                     stop = True
@@ -57,8 +82,8 @@ class Benchmark():
                 if stop == False:
                     if ':' in answer:
                         toponym2, answer = map(str.strip, answer.split(':', 1))
-                    if ',' in answer:
-                        wiki2, answer = map(str.strip, answer.split(',', 1))
+                    if ' | ' in answer:
+                        wiki2, answer = map(str.strip, answer.split(' | ', 1))
                     else:
                         wiki2 = answer
                         stop = True
@@ -66,8 +91,8 @@ class Benchmark():
                 if stop == False:
                     if ':' in answer:
                         toponym3, answer = map(str.strip, answer.split(':', 1))
-                    if ',' in answer:
-                        wiki3, answer = map(str.strip, answer.split(',', 1))
+                    if ' | ' in answer:
+                        wiki3, answer = map(str.strip, answer.split(' | ', 1))
                     else:
                         wiki3 = answer
 
@@ -129,8 +154,8 @@ class Benchmark():
                     # Get first toponym.
                     if ':' in answer:
                         toponym1, answer = map(str.strip, answer.split(':', 1))
-                    if ',' in answer:
-                        wiki1, answer = map(str.strip, answer.split(',', 1))
+                    if ' | ' in answer:
+                        wiki1, answer = map(str.strip, answer.split(' | ', 1))
                     else:
                         wiki1 = answer
                         stop = True
@@ -138,8 +163,8 @@ class Benchmark():
                     if stop == False:
                         if ':' in answer:
                             toponym2, answer = map(str.strip, answer.split(':', 1))
-                        if ',' in answer:
-                            wiki2, answer = map(str.strip, answer.split(',', 1))
+                        if ' | ' in answer:
+                            wiki2, answer = map(str.strip, answer.split(' | ', 1))
                         else:
                             wiki2 = answer
                             stop = True
@@ -147,8 +172,8 @@ class Benchmark():
                     if stop == False:
                         if ':' in answer:
                             toponym3, answer = map(str.strip, answer.split(':', 1))
-                        if ',' in answer:
-                            wiki3, answer = map(str.strip, answer.split(',', 1))
+                        if ' | ' in answer:
+                            wiki3, answer = map(str.strip, answer.split(' | ', 1))
                         else:
                             wiki3 = answer
 
@@ -164,7 +189,7 @@ class Benchmark():
             gt_df = self.df[['key', 'toponym1', 'wiki1', 'toponym2', 'wiki2', 'toponym3', 'wiki3']]
 
             # Merge DataFrames on the 'key' column.
-            merged_df = pd.merge(model_df, gt_df, on='key', suffixes=('_gt', '_mdl'))
+            merged_df = pd.merge(model_df, gt_df, on='key', suffixes=('_mdl', '_gt'))
 
             # Compare predictions for every key.
             TP = 0
@@ -173,6 +198,7 @@ class Benchmark():
             correct_wiki_links = 0
             wrong_wiki_links = 0
             for index, row in merged_df.iterrows():
+                initFP, initFN = TP, FN
                 key = row['key']
                 toponym1_gt = row['toponym1_gt']
                 toponym1_mdl = row['toponym1_mdl']
@@ -188,55 +214,35 @@ class Benchmark():
                 wiki3_gt = row['wiki3_gt']
                 wiki3_mdl = row['wiki3_mdl']
 
+                # List with predicted toponyms.
+                predicted_toponyms = []
+                if toponym1_mdl is not None:
+                    predicted_toponyms.append(toponym1_mdl.lower())
+                if toponym2_mdl is not None:
+                    predicted_toponyms.append(toponym2_mdl.lower())
+                if toponym3_mdl is not None:
+                    predicted_toponyms.append(toponym3_mdl.lower())
+
+                # List with ground truth toponyms.
+                gt_toponyms = []
                 if toponym1_gt is not None:
-                    if toponym1_mdl is None:
-                        # If there is a toponym1 in gt and there isnt one in prediction that a FN.
-                        FN += 1
-                    else: 
-                        # If there is a predicted toponym then if its correct that a TP and if not correct then FP AND FN.
-                        if toponym1_gt.lower() == toponym1_mdl.lower():
-                            TP += 1
-                        else:
-                            FP += 1
-                            FN += 1
-                # Alternatively if there is no toponym in the ground truth yet we predict one that FP.
-                else: 
-                    if toponym1_mdl is not None:
-                        FP += 1
-
-                # Repeat the same process for the other 2 toponyms.
+                    gt_toponyms.append(toponym1_gt.lower())
                 if toponym2_gt is not None:
-                    if toponym2_mdl is None:
-                        # If there is a toponym1 in gt and there isnt one in prediction that a FN.
-                        FN += 1
-                    else: 
-                        # If there is a predicted toponym then if its correct that a TP and if not correct then FP AND FN.
-                        if toponym2_gt.lower() == toponym2_mdl.lower():
-                            TP += 1
-                        else:
-                            FP += 1
-                            FN += 1
-                # Alternatively if there is no toponym in the ground truth yet we predict one that FP.
-                else: 
-                    if toponym2_mdl is not None:
+                    gt_toponyms.append(toponym2_gt.lower())
+                if toponym3_gt is not None:
+                    gt_toponyms.append(toponym3_gt.lower())
+
+                for value in predicted_toponyms:
+                    #if value in gt_toponyms:
+                    if any(is_subset(value, gt_value) for gt_value in gt_toponyms):
+                        TP += 1
+                    else:
                         FP += 1
 
-                # 3rd toponym.
-                if toponym3_gt is not None:
-                    if toponym3_mdl is None:
-                        # If there is a toponym1 in gt and there isnt one in prediction that a FN.
+                for value in gt_toponyms:
+                    #if value not in predicted_toponyms:
+                    if not any(is_subset(value, pred_value) for pred_value in predicted_toponyms):
                         FN += 1
-                    else: 
-                        # If there is a predicted toponym then if its correct that a TP and if not correct then FP AND FN.
-                        if toponym3_gt.lower() == toponym3_mdl.lower():
-                            TP += 1
-                        else:
-                            FP += 1
-                            FN += 1
-                # Alternatively if there is no toponym in the ground truth yet we predict one that FP.
-                else: 
-                    if toponym3_mdl is not None:
-                        FP += 1
 
                 # TO DO: add some sort of similarity measure to allow for small deviations in the links that
                 # may lead to the same wikipedia page.
@@ -256,6 +262,9 @@ class Benchmark():
                         wrong_wiki_links += 1
                     else: correct_wiki_links += 1
 
+                if (FP > initFP or FN > initFN):
+                    print (row)
+
             # Calculate model metrics.
             precision = TP / (TP + FP)
             recall = TP / (TP + FN)
@@ -268,6 +277,6 @@ bench = Benchmark()
 # Create a dataframe from the labaled dataset.
 bench.Create_Dataframe()
 # Run inference on the selected models.
-#bench.Inference_Pipeline()
+bench.Inference_Pipeline()
 # Compare model responses to the ground truth. 
 bench.Evaluate_Pipeline()
