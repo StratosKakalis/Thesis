@@ -14,13 +14,13 @@ def is_similar(value1, value2, threshold=0.65):
     similarity = 1 - distance / max_len
     return similarity >= threshold
 
-def is_subset(value1, value2):
+def is_subset(value1, value2, threshold=0.65):
     # Check if one value is a subset of the other, considering singular/plural differences and typos.
     set1 = set(value1.lower().split())
     set2 = set(value2.lower().split())
 
     return (
-        is_similar(value1, value2) or
+        is_similar(value1, value2, threshold) or
         set1 <= set2 or
         set2 <= set1 or
         ("usa" in value1.lower() and "united" in value2.lower() and "states" in value2.lower()) or
@@ -39,6 +39,8 @@ class Benchmark():
             return GPT_Inference(question, "one")
         elif (model == "gpt-few"):
             return GPT_Inference(question, "few")
+        elif (model == "gpt-few2"):
+            return GPT_Inference(question, "few2")
         elif (model == "wat"):
             return WAT_Inference(question)
         elif (model == "rel"):
@@ -113,7 +115,7 @@ class Benchmark():
     def Inference_Pipeline(self):
         skip_until = 0
         #model_list = {"gpt-one", "gpt-few", "rel", "wat"}
-        model_list = {"rel", "wat"}
+        model_list = {"gpt-few2"}
         # For each model that we test, run all the questions and save the results in a respective file.
         for model in model_list:
             print("Testing model: " + model)
@@ -244,26 +246,39 @@ class Benchmark():
                     if not any(is_subset(value, pred_value) for pred_value in predicted_toponyms):
                         FN += 1
 
-                # TO DO: add some sort of similarity measure to allow for small deviations in the links that
-                # may lead to the same wikipedia page.
                 # Now evaluate the wikipedia link predictions:
+                # List with predicted links.
+                predicted_wikis = []
+                if wiki1_mdl is not None:
+                    predicted_wikis.append(wiki1_mdl.lower())
+                if wiki2_mdl is not None:
+                    predicted_wikis.append(wiki2_mdl.lower())
+                if wiki3_mdl is not None:
+                    predicted_wikis.append(wiki3_mdl.lower())
+
+                # List with ground truth wikis.
+                gt_wikis = []
                 if wiki1_gt is not None:
-                    if wiki1_mdl is None or wiki1_gt.lower() != wiki1_mdl.lower():
-                        wrong_wiki_links += 1
-                    else: correct_wiki_links += 1
-
+                    gt_wikis.append(wiki1_gt.lower())
                 if wiki2_gt is not None:
-                    if wiki2_mdl is None or wiki2_gt.lower() != wiki2_mdl.lower():
-                        wrong_wiki_links += 1
-                    else: correct_wiki_links += 1
-                
+                    gt_wikis.append(wiki2_gt.lower())
                 if wiki3_gt is not None:
-                    if wiki3_mdl is None or wiki3_gt.lower() != wiki3_mdl.lower():
-                        wrong_wiki_links += 1
-                    else: correct_wiki_links += 1
+                    gt_wikis.append(wiki3_gt.lower())
+                
+                for value in predicted_wikis:
+                    #if value in gt_toponyms:
+                    if any(is_subset(value, gt_value, 1) for gt_value in gt_wikis):
+                        correct_wiki_links+=1
+                    else:
+                        wrong_wiki_links+=1
 
-                if (FP > initFP or FN > initFN):
-                    print (row)
+                for value in gt_wikis:
+                    #if value not in predicted_toponyms:
+                    if not any(is_subset(value, pred_value, 1) for pred_value in predicted_wikis):
+                        wrong_wiki_links+=1
+
+                #if (FP > initFP or FN > initFN):
+                    #print (row)
 
             # Calculate model metrics.
             precision = TP / (TP + FP)
