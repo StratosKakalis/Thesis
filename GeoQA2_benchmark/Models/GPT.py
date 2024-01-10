@@ -37,12 +37,40 @@ def GPT_Inference(question, learning_type):
         {"role": "user", "content": "Q: " + question + " A: "},
     ]
 
+    # Few-shot learning version 3.      Tried to follow basic prompt engineering principles.
+    few3_conversation = [
+        {"role": "system", "content": "I am a developer trying to use this conversation as an automated tool for toponym recognition. Can you identify the toponyms in the given questions?"
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples:"
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens"
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland"
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland"
+         "Q: Which state in the US has the most neighboring states? A: United States: https://en.wikipedia.org/wiki/United_States"},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
+    # Few-shot learning version 4.      Same prompt but shifted the examples to the user content.
+    few4_conversation = [
+        {"role": "system", "content": "I am a developer trying to use this conversation as an automated tool for toponym recognition. Can you identify the toponyms in the given questions?"
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow the given examples:"},
+        {"role": "user", "content": "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens"
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland"
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland"
+         "Q: Which state in the US has the most neighboring states? A: United States: https://en.wikipedia.org/wiki/United_States"
+         "Q: " + question + " A: "},
+    ]
+
     if (learning_type == "one"):
         conversation = one_conversation
     elif (learning_type == "few"):
         conversation = few_conversation
     elif (learning_type == "few2"):
         conversation = few2_conversation
+    elif (learning_type == "few3"):
+        conversation = few3_conversation
+    elif (learning_type == "few4"):
+        conversation = few4_conversation
 
 
     # Make a chat completion request

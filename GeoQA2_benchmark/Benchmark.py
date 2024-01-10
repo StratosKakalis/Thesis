@@ -41,6 +41,10 @@ class Benchmark():
             return GPT_Inference(question, "few")
         elif (model == "gpt-few2"):
             return GPT_Inference(question, "few2")
+        elif (model == "gpt-few3"):
+            return GPT_Inference(question, "few3")
+        elif (model == "gpt-few4"):
+            return GPT_Inference(question, "few4")
         elif (model == "wat"):
             return WAT_Inference(question)
         elif (model == "rel"):
@@ -113,9 +117,9 @@ class Benchmark():
         print(self.df)
 
     def Inference_Pipeline(self):
-        skip_until = 0
+        skip_until = 769
         #model_list = {"gpt-one", "gpt-few", "rel", "wat"}
-        model_list = {"gpt-few2"}
+        model_list = {"gpt-few3"}
         # For each model that we test, run all the questions and save the results in a respective file.
         for model in model_list:
             print("Testing model: " + model)
