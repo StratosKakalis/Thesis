@@ -9,26 +9,14 @@
 9: Glyfada: https://en.wikipedia.org/wiki/Glyfada
 10: Aegina: https://en.wikipedia.org/wiki/Aegina
 11: Cambridge: https://en.wikipedia.org/wiki/Cambridge
-12: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+12: 
 13: Piraeus: https://en.wikipedia.org/wiki/Piraeus
 14: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
 15: Dublin: https://en.wikipedia.org/wiki/Dublin
 16: Aghaboy: No Wikipedia link available.
-17: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+17: 
 18: Petroupoli: https://en.wikipedia.org/wiki/Petroupoli
-19: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+19: 
 20: Muckross village: No Wikipedia link available.
 21: Oinofyta: No toponyms found.
 22: Anafi: https://en.wikipedia.org/wiki/Anafi
@@ -47,41 +35,24 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 35: Lough Derg: https://en.wikipedia.org/wiki/Lough_Derg
 36: Gravia: No toponyms found.
 37: West Sussex: https://en.wikipedia.org/wiki/West_Sussex
-38: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+38: 
 39: Crete: https://en.wikipedia.org/wiki/Crete
 40: City of London: https://en.wikipedia.org/wiki/City_of_London
 41: Lough Derg: https://en.wikipedia.org/wiki/Lough_Derg
 42: Crete: https://en.wikipedia.org/wiki/Crete
 43: Kallithea: https://en.wikipedia.org/wiki/Kallithea
-44: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+44: 
 45: Lough Ree: https://en.wikipedia.org/wiki/Lough_Ree
 46: Liverpool: https://en.wikipedia.org/wiki/Liverpool
 47: Dublin: https://en.wikipedia.org/wiki/Dublin
-48: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+48: 
 49: Andravida: [wikipedia link]
 50: Scotland: https://en.wikipedia.org/wiki/Scotland
 51: Manchester: https://en.wikipedia.org/wiki/Manchester
 52: Nafpaktia: No wikipedia link available.
-53: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+53: 
 54: York: https://en.wikipedia.org/wiki/York
-55: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+55: 
 56: Isle of Portland: https://en.wikipedia.org/wiki/Isle_of_Portland
 57: County Cork: https://en.wikipedia.org/wiki/County_Cork
 58: Londonderry: https://en.wikipedia.org/wiki/Londonderry
@@ -90,11 +61,7 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 61: Loch Leven National Nature Reserve: https://en.wikipedia.org/wiki/Loch_Leven_National_Nature_Reserve
 62: Killarney Beach: No Wikipedia link available.
 63: Selby District: https://en.wikipedia.org/wiki/Selby_District
-64: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+64: 
 65: Drogheda: https://en.wikipedia.org/wiki/Drogheda
 66: Crewe: https://en.wikipedia.org/wiki/Crewe
 67: Lesbos: https://en.wikipedia.org/wiki/Lesbos
@@ -109,47 +76,29 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 76: Cork City: https://en.wikipedia.org/wiki/Cork_(city)
 77: Chania: https://en.wikipedia.org/wiki/Chania
 78: Norfolk: https://en.wikipedia.org/wiki/Norfolk
-79: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+79: 
 80: Galway: https://en.wikipedia.org/wiki/Galway
-81: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+81: 
 82: Edinburgh: https://en.wikipedia.org/wiki/Edinburgh
 83: Greenwich Park: https://en.wikipedia.org/wiki/Greenwich_Park
 84: Glasgow: https://en.wikipedia.org/wiki/Glasgow
 85: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
-86: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+86: 
 87: Lincoln: https://en.wikipedia.org/wiki/Lincoln,_Montana
 88: Houston: https://en.wikipedia.org/wiki/Houston
 89: Lake Houston: https://en.wikipedia.org/wiki/Lake_Houston
 90: Selby District: https://en.wikipedia.org/wiki/Selby_District
-91: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+91: 
 92: Drogheda: https://en.wikipedia.org/wiki/Drogheda
 93: Pallini: No Wikipedia link available.
 94: Corfu: https://en.wikipedia.org/wiki/Corfu
 95: Cardiff: https://en.wikipedia.org/wiki/Cardiff
 96: Albany County, New York: https://en.wikipedia.org/wiki/Albany_County,_New_York
-97: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+97: 
 98: Marousi: https://en.wikipedia.org/wiki/Marousi
 99: Sherwood Forest: https://en.wikipedia.org/wiki/Sherwood_Forest
 100: Texas: https://en.wikipedia.org/wiki/Texas
-101: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+101: 
 102: Alaska: https://en.wikipedia.org/wiki/Alaska
 103: Swansea: https://en.wikipedia.org/wiki/Swansea
 104: Newport:  https://en.wikipedia.org/wiki/Newport
@@ -161,19 +110,13 @@ Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of
 110: Ullswater: No toponyms found.
 111: Rafina: No wikipedia link available.
 112: Muckross: No Wikipedia link available.
-113: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-114: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+113: 
+114: 
 115: Southampton: https://en.wikipedia.org/wiki/Southampton
 116: Alaska: https://en.wikipedia.org/wiki/Alaska
 117: Kalamata: https://en.wikipedia.org/wiki/Kalamata
 118: County Cavan: https://en.wikipedia.org/wiki/County_Cavan
-119: Q: Which 5 municipalities east of Athens have the most residents?
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland?
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki
+119: 
 120: Serifos: No toponyms found.
 121: Kifisia: https://en.wikipedia.org/wiki/Kifisia
 122: Chicago: https://en.wikipedia.org/wiki/Chicago
@@ -191,20 +134,11 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 134: Amarynthos: [wikipedia link]
 135: Petroupoli: https://en.wikipedia.org/wiki/Petroupoli
 136: Western Macedonia: https://en.wikipedia.org/wiki/Western_Macedonia
-137: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+137: 
 138: Londonderry: https://en.wikipedia.org/wiki/Londonderry | Wales: https://en.wikipedia.org/wiki/Wales
-139: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+139: 
 140: Missouri: https://en.wikipedia.org/wiki/Missouri
-141: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+141: 
 142: Thessaloniki: https://en.wikipedia.org/wiki/Thessaloniki
 143: UK: https://en.wikipedia.org/wiki/United_Kingdom
 144: Crete: https://en.wikipedia.org/wiki/Crete | Thessaly: https://en.wikipedia.org/wiki/Thessaly
@@ -239,8 +173,7 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 173: Rhodes: https://en.wikipedia.org/wiki/Rhodes | Patmos: https://en.wikipedia.org/wiki/Patmos
 174: Doolin: No toponyms found.
 175: Liverpool: https://en.wikipedia.org/wiki/Liverpool | Adare: No toponyms found.
-176: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+176: 
 177: Belfast: https://en.wikipedia.org/wiki/Belfast | Edinburgh: https://en.wikipedia.org/wiki/Edinburgh
 178: Sfakia: No toponyms found.
 179: Essex: https://en.wikipedia.org/wiki/Essex | Kent: https://en.wikipedia.org/wiki/Kent
@@ -343,18 +276,10 @@ Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of
 276: Dublin: https://en.wikipedia.org/wiki/Dublin | New York City: https://en.wikipedia.org/wiki/New_York_City | London: https://en.wikipedia.org/wiki/London
 277: Limerick: https://en.wikipedia.org/wiki/Limerick | Waterford: https://en.wikipedia.org/wiki/Waterford | Dublin: https://en.wikipedia.org/wiki/Dublin
 278: Epirus: https://en.wikipedia.org/wiki/Epirus
-279: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+279: 
 280: County Mayo: https://en.wikipedia.org/wiki/County_Mayo
 281: Moschato Tavros: https://en.wikipedia.org/wiki/Moschato-Tavros
-282: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+282: 
 283: County Sligo: https://en.wikipedia.org/wiki/County_Sligo
 284: Liverpool: https://en.wikipedia.org/wiki/Liverpool
 285: Doolin: https://en.wikipedia.org/wiki/Doolin
@@ -386,8 +311,7 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 311: Dublin: https://en.wikipedia.org/wiki/Dublin
 312: Athens: https://en.wikipedia.org/wiki/Athens
 313: Cambridge: https://en.wikipedia.org/wiki/Cambridge
-314: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+314: 
 315: Ierapetra: https://en.wikipedia.org/wiki/Ierapetra
 316: London: https://en.wikipedia.org/wiki/London
 317: Kilkieran: 
@@ -398,11 +322,7 @@ Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of
 322: Athens: https://en.wikipedia.org/wiki/Athens
 323: Greater London: https://en.wikipedia.org/wiki/Greater_London
 324: Dublin: https://en.wikipedia.org/wiki/Dublin
-325: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+325: 
 326: Manchester: https://en.wikipedia.org/wiki/Manchester
 327: Thessaloniki: https://en.wikipedia.org/wiki/Thessaloniki
 328: Dublin: https://en.wikipedia.org/wiki/Dublin
@@ -460,19 +380,11 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 380: Miami: https://en.wikipedia.org/wiki/Miami
 381: Lough Corrib: https://en.wikipedia.org/wiki/Lough_Corrib
 382: Scotland: https://en.wikipedia.org/wiki/Scotland
-383: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+383: 
 384: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
 385: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
 386: Peristeri: https://en.wikipedia.org/wiki/Peristeri
-387: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+387: 
 388: Missolonghi: No toponyms found.
 389: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
 390: Ioannina: https://en.wikipedia.org/wiki/Ioannina
@@ -482,23 +394,11 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 394: Liverpool: https://en.wikipedia.org/wiki/Liverpool
 395: New York City: https://en.wikipedia.org/wiki/New_York_City
 396: Thebes: https://en.wikipedia.org/wiki/Thebes
-397: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+397: 
 398: Dublin: https://en.wikipedia.org/wiki/Dublin
-399: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+399: 
 400: County Carlow: https://en.wikipedia.org/wiki/County_Carlow
-401: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+401: 
 402: Manchester: https://en.wikipedia.org/wiki/Manchester
 403: Clonakilty: https://en.wikipedia.org/wiki/Clonakilty
 404: Peloponnese: https://en.wikipedia.org/wiki/Peloponnese
@@ -512,11 +412,7 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 412: New York City: https://en.wikipedia.org/wiki/New_York_City
 413: NYC: https://en.wikipedia.org/wiki/New_York_City
 414: Nottinghamshire: https://en.wikipedia.org/wiki/Nottinghamshire
-415: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+415: 
 416: Athens: https://en.wikipedia.org/wiki/Athens
 417: County Kerry: https://en.wikipedia.org/wiki/County_Kerry
 418: Athens: https://en.wikipedia.org/wiki/Athens
@@ -533,111 +429,33 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 429: Liverpool: https://en.wikipedia.org/wiki/Liverpool
 430: Municipality in Attica: | Corinth: https://en.wikipedia.org/wiki/Corinth
 431: Pallini: https://en.wikipedia.org/wiki/Pallini | Agia Paraskevi: https://en.wikipedia.org/wiki/Agia_Paraskevi
-432: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-433: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-434: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-435: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-436: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+432: 
+433: 
+434: 
+435: 
+436: 
 437: There are no toponyms in this question.
-438: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-439: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-440: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-441: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+438: 
+439: 
+440: 
+441: 
 442: United States: https://en.wikipedia.org/wiki/United_States
-443: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-444: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-445: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-446: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-447: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-448: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+443: 
+444: 
+445: 
+446: 
+447: 
+448: 
 449: Irish Baronies: No toponyms found.
-450: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-451: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-452: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-453: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+450: 
+451:  
+452:  
+453: 
 454: Central Greece: https://en.wikipedia.org/wiki/Central_Greece
-455: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-456: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+455: 
+456: 
 457: Milos: https://en.wikipedia.org/wiki/Milos
-458: District Wards: 
-Civil Parishes: 
-Communities: 
-Oxford: https://en.wikipedia.org/wiki/Oxford
+458: Oxford: https://en.wikipedia.org/wiki/Oxford
 459: County Mayo: https://en.wikipedia.org/wiki/County_Mayo
 460: Metropolitan District Wards in Birmingham: https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Birmingham
 461: Dublin: https://en.wikipedia.org/wiki/Dublin
@@ -646,28 +464,12 @@ Oxford: https://en.wikipedia.org/wiki/Oxford
 464: Cumbria: https://en.wikipedia.org/wiki/Cumbria
 465: County Longford: https://en.wikipedia.org/wiki/County_Longford
 466: Reservoir in Greece: [No Wikipedia link available]
-467: Q: Which 5 municipalities east of Athens have the most residents?
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland?
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki
+467: 
 468: County Roscommon: https://en.wikipedia.org/wiki/County_Roscommon
-469: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+469: 
 470: Irish counties: https://en.wikipedia.org/wiki/Counties_of_Ireland | County Kildare: https://en.wikipedia.org/wiki/County_Kildare | canals: https://en.wikipedia.org/wiki/Canals_in_Ireland
-471: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-472: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+471: 
+472: 
 473: Central Athens regional unit: https://en.wikipedia.org/wiki/Central_Athens_Regional_Unit
 474: Cork: https://en.wikipedia.org/wiki/Cork | County Cork: https://en.wikipedia.org/wiki/County_Cork
 475: Cambridge: https://en.wikipedia.org/wiki/Cambridge
@@ -677,237 +479,100 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 479: Birmingham: https://en.wikipedia.org/wiki/Birmingham
 480: Naxos: https://en.wikipedia.org/wiki/Naxos
 481: Dublin: https://en.wikipedia.org/wiki/Dublin
-482: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+482: 
 483: Irish city councils: 
 484: Unitary authorities of England: https://en.wikipedia.org/wiki/Unitary_authorities_of_England | Scotland: https://en.wikipedia.org/wiki/Scotland
 485: County Wicklow: https://en.wikipedia.org/wiki/County_Wicklow
 486: Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia
-487: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+487: 
 488: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
-489: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-490: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-491: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+489: 
+490: 
+491: 
 492: Kilmacrenan: https://en.wikipedia.org/wiki/Kilmacrenan
 493: Kastoria: https://en.wikipedia.org/wiki/Kastoria
 494: County Cavan: https://en.wikipedia.org/wiki/County_Cavan
 495: Breckland district: https://en.wikipedia.org/wiki/Breckland_district
-496: Beaches: 
-Thessaly: https://en.wikipedia.org/wiki/Thessaly
+496: Thessaly: https://en.wikipedia.org/wiki/Thessaly
 497: Staffordshire: https://en.wikipedia.org/wiki/Staffordshire
 498: County Longford: https://en.wikipedia.org/wiki/County_Longford
 499: Cork: https://en.wikipedia.org/wiki/Cork
 500: State of Iowa: https://en.wikipedia.org/wiki/Iowa
-501: Q: Which 5 municipalities east of Athens have the most residents?
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland?
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki
+501: 
 502: Beaches: https://en.wikipedia.org/wiki/Beaches | Corfu: https://en.wikipedia.org/wiki/Corfu
-503: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-504: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-505: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+503: 
+504: 
+505: 
 506: Norfolk: https://en.wikipedia.org/wiki/Norfolk
 507: Coshlea: No wikipedia link available.
-508: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-509: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-510: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-511: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-512: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+508: 
+509: 
+510: 
+511: 
+512: 
 513: South Aegean: https://en.wikipedia.org/wiki/South_Aegean
 514: State of Illinois: https://en.wikipedia.org/wiki/Illinois
 515: Orange County, California: https://en.wikipedia.org/wiki/Orange_County,_California
 516: There are no toponyms in this question.
-517: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-518: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+517: 
+518: 
 519: Attica: https://en.wikipedia.org/wiki/Attica
-520: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+520: 
 521: Dublin: https://en.wikipedia.org/wiki/Dublin
 522: Attica: https://en.wikipedia.org/wiki/Attica
 523: London: https://en.wikipedia.org/wiki/London
 524: County Wicklow: https://en.wikipedia.org/wiki/County_Wicklow
-525: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+525: 
 526: There are no toponyms in this question.
-527: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-528: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+527: 
+528: 
 529: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
-530: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+530: 
 531: Thrace: https://en.wikipedia.org/wiki/Thrace
 532: Oxford: https://en.wikipedia.org/wiki/Oxford
-533: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+533: 
 534: Localities: None | Lakes: None
-535: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-536: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+535: 
+536: 
 537: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
-538: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+538: 
 539: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
 540: United States: https://en.wikipedia.org/wiki/United_States
 541: Peloponnese region: https://en.wikipedia.org/wiki/Peloponnese
 542: Essex: https://en.wikipedia.org/wiki/Essex
 543: Tullyhaw Barony: https://en.wikipedia.org/wiki/Tullyhaw_Barony
-544: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+544: 
 545: England: https://en.wikipedia.org/wiki/England | Wales: https://en.wikipedia.org/wiki/Wales
 546: Texas: https://en.wikipedia.org/wiki/Texas
 547: County Kerry: https://en.wikipedia.org/wiki/County_Kerry | County Wexford: https://en.wikipedia.org/wiki/County_Wexford
 548: Thessaly: https://en.wikipedia.org/wiki/Thessaly
 549: Corfu: https://en.wikipedia.org/wiki/Corfu
-550: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+550: 
 551: Crete: https://en.wikipedia.org/wiki/Crete
 552: Paros: https://en.wikipedia.org/wiki/Paros
 553: Dublin: https://en.wikipedia.org/wiki/Dublin
-554: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-555: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+554: 
+555: 
 556: England: https://en.wikipedia.org/wiki/England | Wales: https://en.wikipedia.org/wiki/Wales
 557: Wicklow: https://en.wikipedia.org/wiki/Wicklow
 558: Lake: https://en.wikipedia.org/wiki/Lake | British county: https://en.wikipedia.org/wiki/British_county
 559: Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia
-560: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-561: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-562: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-563: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+560: 
+561: 
+562: 
+563: 
 564: County of Great Britain: https://en.wikipedia.org/wiki/County_of_Great_Britain
 565: Peloponnese: https://en.wikipedia.org/wiki/Peloponnese
-566: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-567: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+566:  
+567: 
 568: Corfu: https://en.wikipedia.org/wiki/Corfu
 569: County of Longford: https://en.wikipedia.org/wiki/County_Longford
-570: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-571: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-572: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+570: 
+571: 
+572: 
 573: Staffordshire: https://en.wikipedia.org/wiki/Staffordshire
-574: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-575: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+574: 
+575: 
 576: Wales: https://en.wikipedia.org/wiki/Wales
 577: Regional units of Greece: https://en.wikipedia.org/wiki/Regional_units_of_Greece
 578: Epirus: https://en.wikipedia.org/wiki/Epirus
@@ -917,642 +582,192 @@ Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of
 582: Texas: https://en.wikipedia.org/wiki/Texas
 583: Town of Ireland: https://en.wikipedia.org/wiki/Town_of_Ireland | Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
 584: Chania: https://en.wikipedia.org/wiki/Chania
-585: Q: Which 5 municipalities east of Athens have the most residents?
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland?
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki
+585: 
 586: County Cumbria: https://en.wikipedia.org/wiki/Cumbria
 587: English counties: https://en.wikipedia.org/wiki/Counties_of_England
-588: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-589: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-590: Irish counties: No toponyms found.
+588: 
+589: 
+590: 
 591: Essex: https://en.wikipedia.org/wiki/Essex
 592: Periferiaki Enotita Nison: https://en.wikipedia.org/wiki/Periferiaki_Enotita_Nison
 593: Wards of Northern Ireland: https://en.wikipedia.org/wiki/Wards_of_Northern_Ireland | Dublin: https://en.wikipedia.org/wiki/Dublin
 594: Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia
 595: Greece: https://en.wikipedia.org/wiki/Greece
 596: Dublin: https://en.wikipedia.org/wiki/Dublin
-597: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+597: 
 598: Peloponnese: https://en.wikipedia.org/wiki/Peloponnese
 599: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland | Belfast: https://en.wikipedia.org/wiki/Belfast
-600: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+600: 
 601: Kastoria: https://en.wikipedia.org/wiki/Kastoria
 602: Crete: https://en.wikipedia.org/wiki/Crete
 603: Scotland: https://en.wikipedia.org/wiki/Scotland
 604: County Longford: https://en.wikipedia.org/wiki/County_Longford | Dublin: https://en.wikipedia.org/wiki/Dublin
-605: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+605: 
 606: Central Athens Regional Unit: https://en.wikipedia.org/wiki/Central_Athens_Regional_Unit
-607: Northern Irish wards: 
-Wales: https://en.wikipedia.org/wiki/Wales
-608: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+607: Northern Irish wards: | Wales: https://en.wikipedia.org/wiki/Wales
+608: 
 609: Central Athens: https://en.wikipedia.org/wiki/Central_Athens
-610: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+610: 
 611: Greek regions: https://en.wikipedia.org/wiki/Regions_of_Greece
-612: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-613: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+612: 
+613: 
 614: England: https://en.wikipedia.org/wiki/England
 615: County Roscommon: https://en.wikipedia.org/wiki/County_Roscommon
 616: Pyrgos: https://en.wikipedia.org/wiki/Pyrgos,_Elis
 617: Cork: https://en.wikipedia.org/wiki/Cork
 618: Essex: https://en.wikipedia.org/wiki/Essex
-619: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+619: 
 620: England: https://en.wikipedia.org/wiki/England
 621: Dublin: https://en.wikipedia.org/wiki/Dublin
 622: Monaghan: https://en.wikipedia.org/wiki/County_Monaghan
-623: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+623: 
 624: County Cavan: https://en.wikipedia.org/wiki/County_Cavan
 625: Staffordshire: https://en.wikipedia.org/wiki/Staffordshire
 626: Cork City: https://en.wikipedia.org/wiki/Cork_(city)
-627: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-628: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-629: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-630: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-631: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-632: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-633: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-634: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-635: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-636: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-637: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-638: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-639: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-640: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-641: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-642: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-643: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-644: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-645: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-646: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-647: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-648: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-649: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-650: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-651: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-652: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-653: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-654: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-655: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-656: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-657: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-658: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-659: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-660: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-661: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-662: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-663: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-664: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-665: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-666: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+627: 
+628: 
+629: 
+630: 
+631: 
+632: 
+633: 
+634: 
+635: 
+636: 
+637: 
+638: 
+639: 
+640: 
+641: 
+642: 
+643: 
+644: 
+645: 
+646: 
+647: 
+648: 
+649: 
+650: 
+651: 
+652: 
+653: 
+654: 
+655: 
+656: 
+657: 
+658: 
+659: 
+660: 
+661: 
+662: 
+663: 
+664: 
+665: 
+666: 
 667: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
-668: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-669: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-670: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-671: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-672: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-673: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-674: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+668: 
+669: 
+670: 
+671: 
+672: 
+673: 
+674: 
 675: England: https://en.wikipedia.org/wiki/England
-676: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-677: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-678: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-679: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-680: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+676: 
+677: 
+678: 
+679: 
+680: 
 681: Thessaly: https://en.wikipedia.org/wiki/Thessaly
-682: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-683: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-684: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-685: England: https://en.wikipedia.org/wiki/England
-686: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-687: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-688: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+682: 
+683: 
+684: 
+685:  England: https://en.wikipedia.org/wiki/England
+686: 
+687: 
+688: 
 689: Attica: https://en.wikipedia.org/wiki/Attica
 690: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
 691: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
-692: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+692: 
 693: England: https://en.wikipedia.org/wiki/England
-694: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+694: 
 695: Michigan: https://en.wikipedia.org/wiki/Michigan
-696: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-697: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+696: 
+697: 
 698: Alabama: https://en.wikipedia.org/wiki/Alabama
-699: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-700: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+699: 
+700: 
 701: California: https://en.wikipedia.org/wiki/California
 702: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
-703: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+703: 
 704: Ireland: https://en.wikipedia.org/wiki/Ireland
-705: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-706: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-707: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-708: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-709: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-710: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-711: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-712: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-713: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-714: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-715: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-716: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-717: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-718: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-719: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-720: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-721: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-722: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-723: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-724: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-725: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-726: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-727: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-728: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-729: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-730: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-731: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-732: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-733: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-734: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-735: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-736: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-737: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-738: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-739: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-740: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-741: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+705: 
+706: 
+707: 
+708: 
+709: 
+710: 
+711: 
+712: 
+713: 
+714:  
+715: 
+716: 
+717: 
+718: 
+719: 
+720: 
+721: 
+722: 
+723: 
+724: 
+725: 
+726: 
+727: 
+728: 
+729: 
+730: 
+731: 
+732: 
+733: 
+734: 
+735: 
+736: 
+737: 
+738: 
+739: 
+740: 
+741: 
 742: Central Greece: https://en.wikipedia.org/wiki/Central_Greece
 743: Texas: https://en.wikipedia.org/wiki/Texas
 744: Greece: https://en.wikipedia.org/wiki/Greece
-745: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-746: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-747: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-748: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-749: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+745: 
+746: 
+747: 
+748: 
+749: 
 750: UK: https://en.wikipedia.org/wiki/United_Kingdom
-751: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+751: 
 752: Greece: https://en.wikipedia.org/wiki/Greece | Ireland: https://en.wikipedia.org/wiki/Ireland
-753: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+753: 
 754: UK: https://en.wikipedia.org/wiki/United_Kingdom
-755: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-756: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+755: 
+756: 
 757: Harris County: https://en.wikipedia.org/wiki/Harris_County,_Texas | Texas: https://en.wikipedia.org/wiki/Texas
 758: Athens: https://en.wikipedia.org/wiki/Athens | Greece: https://en.wikipedia.org/wiki/Greece
 759: Belfast: https://en.wikipedia.org/wiki/Belfast
 760: Athens: https://en.wikipedia.org/wiki/Athens
 761: Irish county: https://en.wikipedia.org/wiki/Irish_county
 762: Greece: https://en.wikipedia.org/wiki/Greece
-763: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+763: 
 764: Greece: https://en.wikipedia.org/wiki/Greece
 765: County: https://en.wikipedia.org/wiki/County
 766: Athens: https://en.wikipedia.org/wiki/Athens
 767: Essex: https://en.wikipedia.org/wiki/Essex
 768: Dublin: https://en.wikipedia.org/wiki/Dublin
 769: England: https://en.wikipedia.org/wiki/England
-770: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+770: 
 771: Naxos: https://en.wikipedia.org/wiki/Naxos
 772: Thessaly: https://en.wikipedia.org/wiki/Thessaly
 773: Manchester: https://en.wikipedia.org/wiki/Manchester
@@ -1564,16 +779,8 @@ Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of
 779: Agia Paraskevi: https://en.wikipedia.org/wiki/Agia_Paraskevi
 780: County Cork: https://en.wikipedia.org/wiki/County_Cork
 781: Rhodes: https://en.wikipedia.org/wiki/Rhodes
-782: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-783: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+782: 
+783: 
 784: Greece: https://en.wikipedia.org/wiki/Greece
 785: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom | City of London: https://en.wikipedia.org/wiki/City_of_London
 786: Crete: https://en.wikipedia.org/wiki/Crete
@@ -1587,11 +794,7 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 794: Greece: https://en.wikipedia.org/wiki/Greece
 795: Amintaio: https://en.wikipedia.org/wiki/Amintaio
 796: Norfolk: https://en.wikipedia.org/wiki/Norfolk
-797: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+797: 
 798: Greece: https://en.wikipedia.org/wiki/Greece
 799: Greece: https://en.wikipedia.org/wiki/Greece
 800: County: https://en.wikipedia.org/wiki/County
@@ -1600,21 +803,13 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 803: Dublin: https://en.wikipedia.org/wiki/Dublin
 804: Thessaloniki: https://en.wikipedia.org/wiki/Thessaloniki
 805: Town in England:  | River:  | England: https://en.wikipedia.org/wiki/England
-806: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+806: 
 807: Cork: https://en.wikipedia.org/wiki/Cork
 808: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
 809: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
 810: Florida: https://en.wikipedia.org/wiki/Florida
 811: Kansas: https://en.wikipedia.org/wiki/Kansas
-812: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+812: 
 813: County: [No toponyms identified]
 814: Nevada: https://en.wikipedia.org/wiki/Nevada
 815: Kansas: https://en.wikipedia.org/wiki/Kansas
@@ -1626,32 +821,12 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 821: Scotland: https://en.wikipedia.org/wiki/Scotland
 822: County in Ireland: https://en.wikipedia.org/wiki/County_in_Ireland
 823: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
-824: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-825: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+824: 
+825: 
 826: There are no toponyms in this question.
-827: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-828: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-829: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+827: 
+828: 
+829: 
 830: Athens: https://en.wikipedia.org/wiki/Athens
 831: Plymouth: https://en.wikipedia.org/wiki/Plymouth
 832: Essex: https://en.wikipedia.org/wiki/Essex
@@ -1664,208 +839,86 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 839: Athens: https://en.wikipedia.org/wiki/Athens
 840: Greater London: https://en.wikipedia.org/wiki/Greater_London
 841: County Kerry: https://en.wikipedia.org/wiki/County_Kerry
-842: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+842: 
 843: Peloponnese: https://en.wikipedia.org/wiki/Peloponnese
 844: Cumbria: https://en.wikipedia.org/wiki/Cumbria
 845: County Wicklow: https://en.wikipedia.org/wiki/County_Wicklow
 846: North Yorkshire: https://en.wikipedia.org/wiki/North_Yorkshire
-847: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+847: 
 848: US State: https://en.wikipedia.org/wiki/List_of_U.S._states_by_area | England: https://en.wikipedia.org/wiki/England
 849: United States: https://en.wikipedia.org/wiki/United_States
-850: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-851: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+850: 
+851: 
 852: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
 853: UK: https://en.wikipedia.org/wiki/United_Kingdom
 854: US state capital: https://en.wikipedia.org/wiki/US_state_capital
 855: England: https://en.wikipedia.org/wiki/England
-856: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+856: 
 857: Longest canal in England: https://en.wikipedia.org/wiki/Longest_canal_in_England
 858: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland | United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
 859: Galway: https://en.wikipedia.org/wiki/Galway
-860: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+860: 
 861: Scotland: https://en.wikipedia.org/wiki/Scotland
-862: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+862: 
 863: Peloponnese prefecture: https://en.wikipedia.org/wiki/Peloponnese
 864: Thessaloniki: https://en.wikipedia.org/wiki/Thessaloniki | Athens: https://en.wikipedia.org/wiki/Athens
 865: Athens: https://en.wikipedia.org/wiki/Athens | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland | Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland | United States: https://en.wikipedia
-866: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-867: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+866: 
+867: 
 868: Attica: https://en.wikipedia.org/wiki/Attica | Crete: https://en.wikipedia.org/wiki/Crete
 869: There are no toponyms in this question.
 870: Most nothern city in Scotland: https://en.wikipedia.org/wiki/Inverness | most southern city in Scotland: https://en.wikipedia.org/wiki/Glasgow
-871: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+871: 
 872: Easternmost towns of England: https://en.wikipedia.org/wiki/Easternmost_towns_of_England
-873: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+873: 
 874: County of Ireland: https://en.wikipedia.org/wiki/County_of_Ireland
 875: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
 876: Irish county: https://en.wikipedia.org/wiki/Irish_county
 877: Greece: https://en.wikipedia.org/wiki/Greece
 878: County in England: https://en.wikipedia.org/wiki/County_in_England
 879: UK: https://en.wikipedia.org/wiki/United_Kingdom
-880: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-881: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+880: 
+881: 
 882: British Counties: https://en.wikipedia.org/wiki/Counties_of_the_United_Kingdom
 883: Irish Baronies: No toponyms found.
 884: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
-885: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-886: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+885: 
+886: 
 887: County:  | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
 888: County: https://en.wikipedia.org/wiki/County
-889: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+889: 
 890: Texas: https://en.wikipedia.org/wiki/Texas | Alabama: https://en.wikipedia.org/wiki/Alabama
-891: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-892: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+891: 
+892: 
 893: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
-894: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+894: 
 895: San Francisco: https://en.wikipedia.org/wiki/San_Francisco
 896: California: https://en.wikipedia.org/wiki/California
-897: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-898: Q: Which 5 municipalities east of Athens have the most residents?
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland?
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki
+897: 
+898: 
 899: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
 900: Belfast: https://en.wikipedia.org/wiki/Belfast
 901: Athens: https://en.wikipedia.org/wiki/Athens
-902: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-903: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+902: 
+903: 
 904: Loch Ness: https://en.wikipedia.org/wiki/Loch_Ness
-905: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-906: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-907: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+905: 
+906: 
+907: 
 908: Dublin: https://en.wikipedia.org/wiki/Dublin
-909: Q: Which 5 municipalities east of Athens have the most residents?
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland?
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki
+909: 
 910: New York City: https://en.wikipedia.org/wiki/New_York_City
 911: Scotland: https://en.wikipedia.org/wiki/Scotland
 912: Victoria Falls: https://en.wikipedia.org/wiki/Victoria_Falls
 913: North Somerset: https://en.wikipedia.org/wiki/North_Somerset
 914: Skye: https://en.wikipedia.org/wiki/Skye
-915: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-916: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-917: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-918: Q: Which 5 municipalities east of Athens have the most residents?
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland?
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki
+915: 
+916: 
+917: 
+918: 
 919: Detroit: https://en.wikipedia.org/wiki/Detroit
 920: London: https://en.wikipedia.org/wiki/London
-921: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+921: 
 922: Loch Awe: https://en.wikipedia.org/wiki/Loch_Awe
 923: Lake Taupo: https://en.wikipedia.org/wiki/Lake_Taupo
 924: Washington: https://en.wikipedia.org/wiki/Washington,_D.C.
@@ -1886,11 +939,7 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 939: Dublin: https://en.wikipedia.org/wiki/Dublin
 940: New York: https://en.wikipedia.org/wiki/New_York_City
 941: Athens: https://en.wikipedia.org/wiki/Athens
-942: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+942: 
 943: Dallas: https://en.wikipedia.org/wiki/Dallas | Texas: https://en.wikipedia.org/wiki/Texas
 944: Dublin: https://en.wikipedia.org/wiki/Dublin
 945: Scotland: https://en.wikipedia.org/wiki/Scotland
@@ -1901,157 +950,76 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 950: New York: https://en.wikipedia.org/wiki/New_York | Statue of Liberty: https://en.wikipedia.org/wiki/Statue_of_Liberty
 951: Royal Armouries Museum: https://en.wikipedia.org/wiki/Royal_Armouries_Museum
 952: Belfast: https://en.wikipedia.org/wiki/Belfast | Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
-953: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-954: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-955: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+953: 
+954: 
+955: 
 956: Kansas: https://en.wikipedia.org/wiki/Kansas
 957: New York: https://en.wikipedia.org/wiki/New_York
-958: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+958: 
 959: UK: https://en.wikipedia.org/wiki/United_Kingdom
 960: Norfolk: https://en.wikipedia.org/wiki/Norfolk
-961: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+961: 
 962: United States: https://en.wikipedia.org/wiki/United_States
-963: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-964: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+963: 
+964: 
 965: Houston: https://en.wikipedia.org/wiki/Houston
-966: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+966:
 967: Brighton: [wikipedia link]
 968: Belfast: https://en.wikipedia.org/wiki/Belfast
 969: United States: https://en.wikipedia.org/wiki/United_States
 970: England: https://en.wikipedia.org/wiki/England
 971: Glasgow: https://en.wikipedia.org/wiki/Glasgow
-972: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+972: 
 973: London: https://en.wikipedia.org/wiki/London
 974: Newcastle Emlyn: [wikipedia link]
 975: There are no toponyms in this question.
-976: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+976: 
 977: United States of America: https://en.wikipedia.org/wiki/United_States_of_America
-978: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+978: 
 979: Scotland: https://en.wikipedia.org/wiki/Scotland
-980: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-981: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+980: 
+981: 
 982: Liverpool: https://en.wikipedia.org/wiki/Liverpool
 983: Seattle: https://en.wikipedia.org/wiki/Seattle
-984: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-985: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+984: 
+985: 
 986: Texas: https://en.wikipedia.org/wiki/Texas
 987: Ireland: https://en.wikipedia.org/wiki/Ireland
 988: California: https://en.wikipedia.org/wiki/California
 989: Missouri: https://en.wikipedia.org/wiki/Missouri
-990: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+990: 
 991: Missouri: https://en.wikipedia.org/wiki/Missouri
-992: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+992: 
 993: London: https://en.wikipedia.org/wiki/London | England: https://en.wikipedia.org/wiki/England
 994: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
 995: Leitrim: https://en.wikipedia.org/wiki/County_Leitrim | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
 996: California: https://en.wikipedia.org/wiki/California
 997: Oldest monument in the US: https://en.wikipedia.org/wiki/Oldest_monument_in_the_United_States
-998: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-999: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+998: 
+999: 
 1000: USA: https://en.wikipedia.org/wiki/United_States
 1001: Galway: https://en.wikipedia.org/wiki/County_Galway | Connacht: https://en.wikipedia.org/wiki/Connacht
 1002: United States: https://en.wikipedia.org/wiki/United_States
-1003: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+1003: 
 1004: Europe: https://en.wikipedia.org/wiki/Europe
 1005: France: https://en.wikipedia.org/wiki/France
 1006: Greece: https://en.wikipedia.org/wiki/Greece
 1007: Oldest historical site in the United States: https://en.wikipedia.org/wiki/Old_Swedes_Church
 1008: United States: https://en.wikipedia.org/wiki/United_States
 1009: California: https://en.wikipedia.org/wiki/California
-1010: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+1010: 
 1011: United States: https://en.wikipedia.org/wiki/United_States
-1012: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+1012: 
 1013: New York: https://en.wikipedia.org/wiki/New_York
 1014: Chicago: https://en.wikipedia.org/wiki/Chicago
 1015: London: https://en.wikipedia.org/wiki/London | Birmingham: https://en.wikipedia.org/wiki/Birmingham | Manchester: https://en.wikipedia.org/wiki/Manchester | Glasgow: https://en.wikipedia.org/wiki/Glasgow | Leeds: https://en.wikipedia.org/wiki/Leeds | United Kingdom: https://en.wikipedia.org/wiki/United_King
-1016: Q: What is the population total of the 5 largest US states? A: United States: https://en.wikipedia.org/wiki/United_States
-1017: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+1016: 
+1017: 
 1018: Region of Central Greece: https://en.wikipedia.org/wiki/Central_Greece
 1019: Cambridge: https://en.wikipedia.org/wiki/Cambridge
 1020: Kalithea: [No Wikipedia link available]
 1021: Andraveda: [no wikipedia link available]
-1022: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+1022: 
 1023: Nikaia Agios Ioannis Rentis: No toponyms found.
 1024: Manchester: https://en.wikipedia.org/wiki/Manchester
 1025: Oxfordshire: https://en.wikipedia.org/wiki/Oxfordshire | Kent: https://en.wikipedia.org/wiki/Kent
@@ -2059,8 +1027,7 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 1027: County Galway: https://en.wikipedia.org/wiki/County_Galway | Claregalway: https://en.wikipedia.org/wiki/Claregalway
 1028: Samos: https://en.wikipedia.org/wiki/Samos | Rodos: https://en.wikipedia.org/wiki/Rhodes
 1029: Cork: https://en.wikipedia.org/wiki/Cork | Galway: https://en.wikipedia.org/wiki/Galway
-1030: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+1030: 
 1031: Athens: https://en.wikipedia.org/wiki/Athens | Kallithea: https://en.wikipedia.org/wiki/Kallithea
 1032: Kalmata: No toponym found | Tripoli: No toponym found
 1033: Liverpool: https://en.wikipedia.org/wiki/Liverpool | Manchester: https://en.wikipedia.org/wiki/Manchester
@@ -2075,87 +1042,36 @@ Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of
 1042: Staffordshire: https://en.wikipedia.org/wiki/Staffordshire
 1043: England: https://en.wikipedia.org/wiki/England
 1044: UK: https://en.wikipedia.org/wiki/United_Kingdom
-1045: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
-1046: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-1047: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+1045: 
+1046: 
+1047: 
 1048: Essex county: https://en.wikipedia.org/wiki/Essex_County
 1049: TULLYHAW Barony: No Wikipedia link | forest: No Wikipedia link | town: No Wikipedia link
 1050: Crete: https://en.wikipedia.org/wiki/Crete
 1051: New York: https://en.wikipedia.org/wiki/New_York
-1052: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+1052: 
 1053: Greece: https://en.wikipedia.org/wiki/Greece
 1054: England: https://en.wikipedia.org/wiki/England
-1055: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-1056: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-1057: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+1055: 
+1056: 
+1057: 
 1058: USA of America: https://en.wikipedia.org/wiki/United_States
-1059: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-1060: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
+1059: 
+1060: 
 1061: Rhodes: https://en.wikipedia.org/wiki/Rhodes
-1062: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
-1063: Q: Which 5 municipalities east of Athens have the most residents?
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland?
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki
-1064: Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org
+1062: 
+1063: 
+1064: 
 1065: Irish barony: https://en.wikipedia.org/wiki/Irish_barony
-1066: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+1066: 
 1067: North Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
 1068: LA: https://en.wikipedia.org/wiki/Los_Angeles
 1069: New York City: https://en.wikipedia.org/wiki/New_York_City
 1070: New York: https://en.wikipedia.org/wiki/New_York_City
 1071: Belfast: https://en.wikipedia.org/wiki/Belfast | Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
 1072: United States: https://en.wikipedia.org/wiki/United_States
-1073: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens:  https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en
-1074: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+1073: 
+1074: 
 1075: Liverpool: https://en.wikipedia.org/wiki/Liverpool
 1076: Eretria:  https://en.wikipedia.org/wiki/Eretria
 1077: Siros: https://en.wikipedia.org/wiki/Siros
@@ -2168,10 +1084,6 @@ A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https:/
 1084: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland
 1085: Ioannina: https://en.wikipedia.org/wiki/Ioannina
 1086: Bedford: https://en.wikipedia.org/wiki/Bedford
-1087: Q: Which 5 municipalities east of Athens have the most residents? 
-A: Athens: https://en.wikipedia.org/wiki/Athens
-
-Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? 
-A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia
+1087: 
 1088: Manchester: https://en.wikipedia.org/wiki/Manchester
 1089: Southampton: https://en.wikipedia.org/wiki/Southampton

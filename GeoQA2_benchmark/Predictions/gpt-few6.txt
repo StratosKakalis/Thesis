@@ -1,0 +1,1089 @@
+1: Toponym: Central Greece Wiki link: https://en.wikipedia.org/wiki/Central_Greece
+2: Dorset: https://en.wikipedia.org/wiki/Dorset
+3: Lough Ramor: https://en.wikipedia.org/wiki/Lough_Ramor
+4: Toponym: Moschato Tavros: https://en.wikipedia.org/wiki/Moschato-Tavros
+5: Oxfordshire: https://en.wikipedia.org/wiki/Oxfordshire
+6: County Galway: https://en.wikipedia.org/wiki/County_Galway
+7: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+8: Kilkenny: https://en.wikipedia.org/wiki/Kilkenny
+9: Glyfada: https://en.wikipedia.org/wiki/Glyfada
+10: Aegina: https://en.wikipedia.org/wiki/Aegina
+11: Cambridge: https://en.wikipedia.org/wiki/Cambridge
+12: Toponym: Glengarra Wood forest Wiki link: https://en.wikipedia.org/wiki/Glengarra_Wood
+13: Toponym: Piraeus Wiki link: https://en.wikipedia.org/wiki/Piraeus
+14: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+15: Dublin: https://en.wikipedia.org/wiki/Dublin
+16: Aghaboy: wiki link not found
+17: Toponym: Taghsheenod Glebe Wiki link: No information available
+18: Toponym: Petroupoli Wiki link: https://en.wikipedia.org/wiki/Petroupoli
+19: Toponym: River Garw: https://en.wikipedia.org/wiki/River_Garw
+20: Muckross village: https://en.wikipedia.org/wiki/Muckross_village
+21: Toponym: Oinofyta Wiki link: https://en.wikipedia.org/wiki/Oinofyta
+22: Anafi: https://en.wikipedia.org/wiki/Anafi
+23: Southampton: https://en.wikipedia.org/wiki/Southampton
+24: Cork: https://en.wikipedia.org/wiki/Cork
+25: Toponym: Lemnos Wiki link: https://en.wikipedia.org/wiki/Lemnos
+26: Toponym: Oxford | Wiki link: https://en.wikipedia.org/wiki/Oxford
+27: County Donegal: https://en.wikipedia.org/wiki/County_Donegal
+28: Eretria: https://en.wikipedia.org/wiki/Eretria
+29: Cambridge: https://en.wikipedia.org/wiki/Cambridge
+30: Dublin: https://en.wikipedia.org/wiki/Dublin
+31: Galatsi: https://en.wikipedia.org/wiki/Galatsi
+32: Mitchelstown: https://en.wikipedia.org/wiki/Mitchelstown
+33: Loch Ness: https://en.wikipedia.org/wiki/Loch_Ness
+34: Lake Kerkini: https://en.wikipedia.org/wiki/Lake_Kerkini
+35: Lough Derg: https://en.wikipedia.org/wiki/Lough_Derg
+36: Toponym: Gravia Wiki link: https://en.wikipedia.org/wiki/Gravia
+37: West Sussex: https://en.wikipedia.org/wiki/West_Sussex
+38: Toponym: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+39: Crete: https://en.wikipedia.org/wiki/Crete
+40: City of London: https://en.wikipedia.org/wiki/City_of_London
+41: Lough Derg: https://en.wikipedia.org/wiki/Lough_Derg
+42: Crete: https://en.wikipedia.org/wiki/Crete
+43: Toponym: Kallithea Wiki link: https://en.wikipedia.org/wiki/Kallithea
+44: Plymouth: https://en.wikipedia.org/wiki/Plymouth
+45: Lough Ree: https://en.wikipedia.org/wiki/Lough_Ree
+46: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+47: Dublin: https://en.wikipedia.org/wiki/Dublin
+48: Icaria: https://en.wikipedia.org/wiki/Icaria
+49: Andravida: https://en.wikipedia.org/wiki/Andravida
+50: Scotland: https://en.wikipedia.org/wiki/Scotland
+51: Manchester: https://en.wikipedia.org/wiki/Manchester
+52: Nafpaktia: https://en.wikipedia.org/wiki/Nafpaktia
+53: Psara: https://en.wikipedia.org/wiki/Psara
+54: York: https://en.wikipedia.org/wiki/York
+55: Astypalaia: https://en.wikipedia.org/wiki/Astypalaia
+56: Isle of Portland: https://en.wikipedia.org/wiki/Isle_of_Portland
+57: County Cork: https://en.wikipedia.org/wiki/County_Cork
+58: Londonderry: https://en.wikipedia.org/wiki/Londonderry
+59: Syros: https://en.wikipedia.org/wiki/Syros
+60: Kastanas beach: wiki link not found
+61: Loch Leven National Nature Reserve: https://en.wikipedia.org/wiki/Loch_Leven_National_Nature_Reserve
+62: Toponym: Killarney Beach Wiki link: https://en.wikipedia.org/wiki/Killarney_Beach
+63: Selby District: https://en.wikipedia.org/wiki/Selby_District
+64: Toponym: Ballinasloe Wiki link: https://en.wikipedia.org/wiki/Ballinasloe
+65: Drogheda: https://en.wikipedia.org/wiki/Drogheda
+66: Crewe: https://en.wikipedia.org/wiki/Crewe
+67: Lesbos: https://en.wikipedia.org/wiki/Lesbos
+68: Arkansas: https://en.wikipedia.org/wiki/Arkansas
+69: Chichester: https://en.wikipedia.org/wiki/Chichester
+70: Toponym: Nikaia-Agios Ioannis Rentis Wiki link: https://en.wikipedia.org/wiki/Nikaia-Agios_Ioannis_Rentis
+71: Mullingar: https://en.wikipedia.org/wiki/Mullingar
+72: Manchester: https://en.wikipedia.org/wiki/Manchester
+73: Paxi: https://en.wikipedia.org/wiki/Paxi
+74: Athens: https://en.wikipedia.org/wiki/Athens
+75: Coventry: https://en.wikipedia.org/wiki/Coventry
+76: Cork City: https://en.wikipedia.org/wiki/Cork_(city)
+77: Chania: https://en.wikipedia.org/wiki/Chania
+78: Norfolk: https://en.wikipedia.org/wiki/Norfolk
+79: Ballymoe barony: https://en.wikipedia.org/wiki/Ballymoe_barony
+80: Galway: https://en.wikipedia.org/wiki/Galway
+81: Greece: https://en.wikipedia.org/wiki/Greece
+82: Edinburgh: https://en.wikipedia.org/wiki/Edinburgh
+83: Greenwich Park: https://en.wikipedia.org/wiki/Greenwich_Park
+84: Glasgow: https://en.wikipedia.org/wiki/Glasgow
+85: Toponym: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+86: Inflows: Lake Michigan: https://en.wikipedia.org/wiki/Lake_Michigan Outflows: Lake Michigan: https://en.wikipedia.org/wiki/Lake_Michigan
+87: Lincoln, Montana: https://en.wikipedia.org/wiki/Lincoln,_Montana
+88: Houston: https://en.wikipedia.org/wiki/Houston
+89: Lake Houston: https://en.wikipedia.org/wiki/Lake_Houston
+90: Selby District: https://en.wikipedia.org/wiki/Selby_District
+91: Arkansas: https://en.wikipedia.org/wiki/Arkansas
+92: Drogheda: https://en.wikipedia.org/wiki/Drogheda
+93: Pallini: https://en.wikipedia.org/wiki/Pallini
+94: Corfu: https://en.wikipedia.org/wiki/Corfu
+95: Cardiff: https://en.wikipedia.org/wiki/Cardiff
+96: Albany County, New York: https://en.wikipedia.org/wiki/Albany_County,_New_York
+97: Toponym: Epirus: https://en.wikipedia.org/wiki/Epirus
+98: Marousi: https://en.wikipedia.org/wiki/Marousi
+99: Sherwood Forest: https://en.wikipedia.org/wiki/Sherwood_Forest
+100: Texas: https://en.wikipedia.org/wiki/Texas
+101: Greece: https://en.wikipedia.org/wiki/Greece
+102: Alaska: https://en.wikipedia.org/wiki/Alaska
+103: Swansea: https://en.wikipedia.org/wiki/Swansea
+104: Newport: https://en.wikipedia.org/wiki/Newport
+105: Bristol: https://en.wikipedia.org/wiki/Bristol
+106: Lake Trichonida: https://en.wikipedia.org/wiki/Lake_Trichonida
+107: Trichonida: https://en.wikipedia.org/wiki/Lake_Trichonida
+108: Piraeus: https://en.wikipedia.org/wiki/Piraeus
+109: Andover Ponds: wiki link not found
+110: Ullswater: https://en.wikipedia.org/wiki/Ullswater
+111: Rafina: https://en.wikipedia.org/wiki/Rafina
+112: Muckross: https://en.wikipedia.org/wiki/Muckross
+113: Wells County, North Dakota: https://en.wikipedia.org/wiki/Wells_County,_North_Dakota
+114: Wells County, North Dakota: https://en.wikipedia.org/wiki/Wells_County,_North_Dakota
+115: Southampton: https://en.wikipedia.org/wiki/Southampton
+116: Alaska: https://en.wikipedia.org/wiki/Alaska
+117: Kalamata: https://en.wikipedia.org/wiki/Kalamata
+118: County Cavan: https://en.wikipedia.org/wiki/County_Cavan
+119: Toponym: Essex | Wiki link: https://en.wikipedia.org/wiki/Essex
+120: Serifos: https://en.wikipedia.org/wiki/Serifos
+121: Kifisia: https://en.wikipedia.org/wiki/Kifisia
+122: Chicago: https://en.wikipedia.org/wiki/Chicago
+123: Birmingham: https://en.wikipedia.org/wiki/Birmingham
+124: Nottinghamshire: https://en.wikipedia.org/wiki/Nottinghamshire
+125: City of Dundee: https://en.wikipedia.org/wiki/City_of_Dundee
+126: Luton: https://en.wikipedia.org/wiki/Luton
+127: Broxtowe: https://en.wikipedia.org/wiki/Broxtowe
+128: Toponym: Distomo-Arachova-Antikyra Wiki link: https://en.wikipedia.org/wiki/Distomo-Arachova-Antikyra
+129: Municipality of Nafplio: https://en.wikipedia.org/wiki/Nafplio
+130: Pylos: https://en.wikipedia.org/wiki/Pylos
+131: Toponym: Pylos Wiki link: https://en.wikipedia.org/wiki/Pylos
+132: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+133: Manchester: https://en.wikipedia.org/wiki/Manchester
+134: Amarynthos: https://en.wikipedia.org/wiki/Amarynthos
+135: Toponym: Petroupoli Wiki link: https://en.wikipedia.org/wiki/Petroupoli
+136: Toponym: Western Macedonia: https://en.wikipedia.org/wiki/Western_Macedonia
+137: Oklahoma: https://en.wikipedia.org/wiki/Oklahoma
+138: Londonderry: https://en.wikipedia.org/wiki/Londonderry
+139: Toponym: George Washington Park Wiki link: https://en.wikipedia.org/wiki/George_Washington_Park
+140: Missouri: https://en.wikipedia.org/wiki/Missouri
+141: Toponym: Alabama: https://en.wikipedia.org/wiki/Alabama
+142: Thessaloniki: https://en.wikipedia.org/wiki/Thessaloniki
+143: Toponym: UK: https://en.wikipedia.org/wiki/United_Kingdom
+144: Crete: https://en.wikipedia.org/wiki/Crete | Thessaly: https://en.wikipedia.org/wiki/Thessaly
+145: Worcestershire: https://en.wikipedia.org/wiki/Worcestershire | Oxfordshire: https://en.wikipedia.org/wiki/Oxfordshire
+146: County Cavan: https://en.wikipedia.org/wiki/County_Cavan | County Mayo: https://en.wikipedia.org/wiki/County_Mayo
+147: Kythira: https://en.wikipedia.org/wiki/Kythira
+148: Bedford: https://en.wikipedia.org/wiki/Bedford
+149: County Mayo: https://en.wikipedia.org/wiki/County_Mayo | County Sligo: https://en.wikipedia.org/wiki/County_Sligo
+150: Dublin: https://en.wikipedia.org/wiki/Dublin | Kilkenny: https://en.wikipedia.org/wiki/Kilkenny
+151: Samos: https://en.wikipedia.org/wiki/Samos | Mykonos: https://en.wikipedia.org/wiki/Mykonos
+152: Thessaloniki: https://en.wikipedia.org/wiki/Thessaloniki | Trikala: https://en.wikipedia.org/wiki/Trikala
+153: Oxfordshire: https://en.wikipedia.org/wiki/Oxfordshire | Kent: https://en.wikipedia.org/wiki/Kent
+154: Lough Leane: https://en.wikipedia.org/wiki/Lough_Leane | County Kerry: https://en.wikipedia.org/wiki/County_Kerry
+155: Peristeri: https://en.wikipedia.org/wiki/Peristeri | Zografou: https://en.wikipedia.org/wiki/Zografou
+156: Cambridge: https://en.wikipedia.org/wiki/Cambridge | Oxford: https://en.wikipedia.org/wiki/Oxford
+157: County Galway: https://en.wikipedia.org/wiki/County_Galway | Claregalway: https://en.wikipedia.org/wiki/Claregalway
+158: Samos: https://en.wikipedia.org/wiki/Samos | Rhodes: https://en.wikipedia.org/wiki/Rhodes
+159: Cardiff: https://en.wikipedia.org/wiki/Cardiff | Birmingham: https://en.wikipedia.org/wiki/Birmingham
+160: Mullingar: https://en.wikipedia.org/wiki/Mullingar | Dublin: https://en.wikipedia.org/wiki/Dublin
+161: Denbighshire: https://en.wikipedia.org/wiki/Denbighshire
+162: Dublin: https://en.wikipedia.org/wiki/Dublin | Galway County: https://en.wikipedia.org/wiki/County_Galway
+163: Kallithea: https://en.wikipedia.org/wiki/Kallithea | Nea Smyrni: https://en.wikipedia.org/wiki/Nea_Smyrni
+164: Cork: https://en.wikipedia.org/wiki/Cork | Galway: https://en.wikipedia.org/wiki/Galway
+165: Southampton: https://en.wikipedia.org/wiki/Southampton | Oxford: https://en.wikipedia.org/wiki/Oxford
+166: Agia Paraskevi: https://en.wikipedia.org/wiki/Agia_Paraskevi | Chalandri: https://en.wikipedia.org/wiki/Chalandri
+167: Delta: https://en.wikipedia.org/wiki/Delta,_Thessaloniki
+168: Essex: https://en.wikipedia.org/wiki/Essex | Hertfordshire: https://en.wikipedia.org/wiki/Hertfordshire
+169: County Donegal: https://en.wikipedia.org/wiki/County_Donegal | County Wexford: https://en.wikipedia.org/wiki/County_Wexford
+170: Elafonisos: https://en.wikipedia.org/wiki/Elafonisos | Galatsi: https://en.wikipedia.org/wiki/Galatsi
+171: Oxford: https://en.wikipedia.org/wiki/Oxford | Cambridge: https://en.wikipedia.org/wiki/Cambridge
+172: Dublin: https://en.wikipedia.org/wiki/Dublin | Clane: https://en.wikipedia.org/wiki/Clane
+173: Rhodes: https://en.wikipedia.org/wiki/Rhodes
+174: Doolin: https://en.wikipedia.org/wiki/Doolin | Dublin: https://en.wikipedia.org/wiki/Dublin
+175: Liverpool: https://en.wikipedia.org/wiki/Liverpool | Adare: wiki link not available
+176: Sfakia: https://en.wikipedia.org/wiki/Sfakia
+177: Belfast: https://en.wikipedia.org/wiki/Belfast | Edinburgh: https://en.wikipedia.org/wiki/Edinburgh
+178: Sfakia: https://en.wikipedia.org/wiki/Sfakia | Peristeri: https://en.wikipedia.org/wiki/Peristeri
+179: Essex: https://en.wikipedia.org/wiki/Essex | Kent: https://en.wikipedia.org/wiki/Kent
+180: Ballymoe: https://en.wikipedia.org/wiki/Ballymoe | County Longford: https://en.wikipedia.org/wiki/County_Longford
+181: Ierapetra: https://en.wikipedia.org/wiki/Ierapetra | Athens: https://en.wikipedia.org/wiki/Athens
+182: Scotland: https://en.wikipedia.org/wiki/Scotland | London: https://en.wikipedia.org/wiki/London
+183: Dublin: https://en.wikipedia.org/wiki/Dublin | London: https://en.wikipedia.org/wiki/London
+184: Bristol: https://en.wikipedia.org/wiki/Bristol
+185: Thessaly: https://en.wikipedia.org/wiki/Thessaly | Western Macedonia: https://en.wikipedia.org/wiki/Western_Macedonia
+186: Dublin: https://en.wikipedia.org/wiki/Dublin | Arklow: https://en.wikipedia.org/wiki/Arklow
+187: Kallithea: https://en.wikipedia.org/wiki/Kallithea | Nea Smyrni: https://en.wikipedia.org/wiki/Nea_Smyrni
+188: Norwich: https://en.wikipedia.org/wiki/Norwich | London: https://en.wikipedia.org/wiki/London
+189: Norilsk: https://en.wikipedia.org/wiki/Norilsk | Dublin: https://en.wikipedia.org/wiki/Dublin
+190: Athens: https://en.wikipedia.org/wiki/Athens | Kallithea: https://en.wikipedia.org/wiki/Kallithea
+191: Manchester: https://en.wikipedia.org/wiki/Manchester
+192: Belfast: https://en.wikipedia.org/wiki/Belfast | Dublin: https://en.wikipedia.org/wiki/Dublin
+193: Lake Yliki: https://en.wikipedia.org/wiki/Lake_Yliki | Municipality of Athens: https://en.wikipedia.org/wiki/Athens
+194: Limerick: https://en.wikipedia.org/wiki/Limerick | Waterford: https://en.wikipedia.org/wiki/Waterford
+195: Rochdale: https://en.wikipedia.org/wiki/Rochdale | Manchester: https://en.wikipedia.org/wiki/Manchester
+196: Nafpaktia: https://en.wikipedia.org/wiki/Nafpaktia
+197: Liverpool: https://en.wikipedia.org/wiki/Liverpool | Wales: https://en.wikipedia.org/wiki/Wales
+198: Scotland: https://en.wikipedia.org/wiki/Scotland | Dublin: https://en.wikipedia.org/wiki/Dublin
+199: Thessaly: https://en.wikipedia.org/wiki/Thessaly | Attica: https://en.wikipedia.org/wiki/Attica
+200: Plymouth: https://en.wikipedia.org/wiki/Plymouth
+201: Dublin: https://en.wikipedia.org/wiki/Dublin | Belfast: https://en.wikipedia.org/wiki/Belfast
+202: Astypalaia: https://en.wikipedia.org/wiki/Astypalaia | Decentralized Administration of the Aegean: https://en.wikipedia.org/wiki/Decentralized_Administration_of_the_Aegean
+203: Sennen Cove: https://en.wikipedia.org/wiki/Sennen_Cove | Helston: https://en.wikipedia.org/wiki/Helston
+204: Howth: https://en.wikipedia.org/wiki/Howth | Dublin: https://en.wikipedia.org/wiki/Dublin
+205: Athlone: https://en.wikipedia.org/wiki/Athlone | Portumna: https://en.wikipedia.org/wiki/Portumna
+206: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli
+207: Kastanas beach: wiki link not found
+208: Liverpool: https://en.wikipedia.org/wiki/Liverpool | Scotland: https://en.wikipedia.org/wiki/Scotland
+209: Killarney Beach: https://en.wikipedia.org/wiki/Killarney_Beach | Cork: https://en.wikipedia.org/wiki/Cork
+210: Ierapetra: https://en.wikipedia.org/wiki/Ierapetra | Chania: https://en.wikipedia.org/wiki/Chania
+211: Cambridge: https://en.wikipedia.org/wiki/Cambridge
+212: County Cavan: https://en.wikipedia.org/wiki/County_Cavan | County Laois: https://en.wikipedia.org/wiki/County_Laois
+213: Barony of Kinsale: https://en.wikipedia.org/wiki/Barony_of_Kinsale | City of Kilkenny: https://en.wikipedia.org/wiki/Kilkenny
+214: Bristol: https://en.wikipedia.org/wiki/Bristol | Liverpool: https://en.wikipedia.org/wiki/Liverpool
+215: Chios: https://en.wikipedia.org/wiki/Chios | Paxi: https://en.wikipedia.org/wiki/Paxi
+216: Canada: https://en.wikipedia.org/wiki/Canada | China: https://en.wikipedia.org/wiki/China
+217: Crete: https://en.wikipedia.org/wiki/Crete | Attica: https://en.wikipedia.org/wiki/Attica
+218: Tullyhaw: https://en.wikipedia.org/wiki/Tullyhaw
+219: Liverpool: https://en.wikipedia.org/wiki/Liverpool | Manchester: https://en.wikipedia.org/wiki/Manchester
+220: Athlone: https://en.wikipedia.org/wiki/Athlone | Kilkenny: https://en.wikipedia.org/wiki/Kilkenny
+221: Nottingham: https://en.wikipedia.org/wiki/Nottingham | Liverpool: https://en.wikipedia.org/wiki/Liverpool
+222: Lesbos: https://en.wikipedia.org/wiki/Lesbos | Chania: https://en.wikipedia.org/wiki/Chania
+223: Kastoria: https://en.wikipedia.org/wiki/Kastoria | Livadeia: https://en.wikipedia.org/wiki/Livadeia
+224: Birmingham: https://en.wikipedia.org/wiki/Birmingham | Leicester: https://en.wikipedia.org/wiki/Leicester
+225: Cork City: https://en.wikipedia.org/wiki/Cork_City | Dublin: https://en.wikipedia.org/wiki/Dublin
+226: Chania: https://en.wikipedia.org/wiki/Chania
+227: Kent: https://en.wikipedia.org/wiki/Kent | Norfolk: https://en.wikipedia.org/wiki/Norfolk
+228: Ballymoe: https://en.wikipedia.org/wiki/Ballymoe | Ratoath: https://en.wikipedia.org/wiki/Ratoath
+229: Athens: https://en.wikipedia.org/wiki/Athens | Manchester: https://en.wikipedia.org/wiki/Manchester
+230: Dublin: https://en.wikipedia.org/wiki/Dublin | Thessaloniki: https://en.wikipedia.org/wiki/Thessaloniki
+231: Suffolk: https://en.wikipedia.org/wiki/Suffolk | County Cork: https://en.wikipedia.org/wiki/County_Cork
+232: Albany: https://en.wikipedia.org/wiki/Albany,_New_York | New York City: https://en.wikipedia.org/wiki/New_York_City
+233: Wales: https://en.wikipedia.org/wiki/Wales | Cambridge: https://en.wikipedia.org/wiki/Cambridge
+234: Glasgow: https://en.wikipedia.org/wiki/Glasgow | Edinburgh: https://en.wikipedia.org/wiki/Edinburgh
+235: Cardiff: https://en.wikipedia.org/wiki/Cardiff | Manchester: https://en.wikipedia.org/wiki/Manchester
+236: Alabama: https://en.wikipedia.org/wiki/Alabama | Louisiana: https://en.wikipedia.org/wiki/Louisiana
+237: Texas: https://en.wikipedia.org/wiki/Texas | Kentucky: https://en.wikipedia.org/wiki/Kentucky
+238: Dublin: https://en.wikipedia.org/wiki/Dublin | Scotland: https://en.wikipedia.org/wiki/Scotland
+239: Manchester: https://en.wikipedia.org/wiki/Manchester | Liverpool: https://en.wikipedia.org/wiki/Liverpool
+240: Ladis: wiki link not found
+241: Whitehall: https://en.wikipedia.org/wiki/Whitehall
+242: Cumbria: https://en.wikipedia.org/wiki/Cumbria | Birmingham: https://en.wikipedia.org/wiki/Birmingham
+243: Athens: https://en.wikipedia.org/wiki/Athens | Oxford: https://en.wikipedia.org/wiki/Oxford
+244: England: https://en.wikipedia.org/wiki/England | Greece: https://en.wikipedia.org/wiki/Greece
+245: York: https://en.wikipedia.org/wiki/York
+246: Essex: https://en.wikipedia.org/wiki/Essex | Hertfordshire: https://en.wikipedia.org/wiki/Hertfordshire
+247: Patras: https://en.wikipedia.org/wiki/Patras | Tripoli: https://en.wikipedia.org/wiki/Tripoli
+248: Belfast: https://en.wikipedia.org/wiki/Belfast | Galatsi: wiki link not available
+249: NYC: https://en.wikipedia.org/wiki/New_York_City | Cambridge: https://en.wikipedia.org/wiki/Cambridge
+250: Dublin: https://en.wikipedia.org/wiki/Dublin | Clane: https://en.wikipedia.org/wiki/Clane
+251: Patmos: https://en.wikipedia.org/wiki/Patmos | Rhodes: https://en.wikipedia.org/wiki/Rhodes
+252: Doolin: https://en.wikipedia.org/wiki/Doolin | Dublin: https://en.wikipedia.org/wiki/Dublin
+253: Liverpool: https://en.wikipedia.org/wiki/Liverpool | Adare: wiki link not available
+254: Sfakia: https://en.wikipedia.org/wiki/Sfakia
+255: Belfast: https://en.wikipedia.org/wiki/Belfast | London: https://en.wikipedia.org/wiki/London
+256: Peristeri: https://en.wikipedia.org/wiki/Peristeri | Nea Smyrni: https://en.wikipedia.org/wiki/Nea_Smyrni
+257: Essex: https://en.wikipedia.org/wiki/Essex | Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+258: Ballymoe: https://en.wikipedia.org/wiki/Ballymoe | County of Longford: https://en.wikipedia.org/wiki/County_Longford
+259: Ierapetra: https://en.wikipedia.org/wiki/Ierapetra | Athens: https://en.wikipedia.org/wiki/Athens
+260: Edinburgh: https://en.wikipedia.org/wiki/Edinburgh | London: https://en.wikipedia.org/wiki/London
+261: Belfast: https://en.wikipedia.org/wiki/Belfast | London: https://en.wikipedia.org/wiki/London
+262: Bristol: https://en.wikipedia.org/wiki/Bristol
+263: Thessaly: https://en.wikipedia.org/wiki/Thessaly | Western Macedonia: https://en.wikipedia.org/wiki/Western_Macedonia
+264: Dublin: https://en.wikipedia.org/wiki/Dublin | Arklow: https://en.wikipedia.org/wiki/Arklow
+265: Kallithea: https://en.wikipedia.org/wiki/Kallithea,_Attica | Nea Smyrni: https://en.wikipedia.org/wiki/Nea_Smyrni
+266: Norwich: https://en.wikipedia.org/wiki/Norwich
+267: Norilsk: https://en.wikipedia.org/wiki/Norilsk | Dublin: https://en.wikipedia.org/wiki/Dublin
+268: Leicester: https://en.wikipedia.org/wiki/Leicester | Birmingham: https://en.wikipedia.org/wiki/Birmingham
+269: Scotland: https://en.wikipedia.org/wiki/Scotland | England: https://en.wikipedia.org/wiki/England
+270: York: https://en.wikipedia.org/wiki/York | New York: https://en.wikipedia.org/wiki/New_York_City
+271: Alaska: https://en.wikipedia.org/wiki/Alaska | Florida: https://en.wikipedia.org/wiki/Florida
+272: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+273: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland | United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+274: Toponym: Tripoli: https://en.wikipedia.org/wiki/Tripoli,_Greece | Athens: https://en.wikipedia.org/wiki/Athens | Ioannina: https://en.wikipedia.org/wiki/Ioannina
+275: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
+276: Dublin: https://en.wikipedia.org/wiki/Dublin | New York City: https://en.wikipedia.org/wiki/New_York_City | London: https://en.wikipedia.org/wiki/London
+277: Limerick: https://en.wikipedia.org/wiki/Limerick | Waterford: https://en.wikipedia.org/wiki/Waterford | Dublin: https://en.wikipedia.org/wiki/Dublin
+278: Toponym: Epirus region: https://en.wikipedia.org/wiki/Epirus
+279: Toponym: Oxfordshire: https://en.wikipedia.org/wiki/Oxfordshire
+280: County Mayo: https://en.wikipedia.org/wiki/County_Mayo
+281: Moschato Tavros: https://en.wikipedia.org/wiki/Moschato-Tavros
+282: Toponym: Essex: https://en.wikipedia.org/wiki/Essex
+283: County Sligo: https://en.wikipedia.org/wiki/County_Sligo
+284: Toponym: Liverpool | Wiki link: https://en.wikipedia.org/wiki/Liverpool
+285: Doolin: https://en.wikipedia.org/wiki/Doolin
+286: Mykonos: https://en.wikipedia.org/wiki/Mykonos
+287: Toponym: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+288: Manchester: https://en.wikipedia.org/wiki/Manchester | Metropolitan Districts: https://en.wikipedia.org/wiki/Metropolitan_district
+289: Canals in Dublin: https://en.wikipedia.org/wiki/Canals_in_Dublin
+290: Toponym: Regional Unit of Piraeus: https://en.wikipedia.org/wiki/Piraeus_(regional_unit)
+291: Toponym: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+292: Toponym: Dublin: https://en.wikipedia.org/wiki/Dublin
+293: Corfu: https://en.wikipedia.org/wiki/Corfu
+294: Toponym: Dublin: https://en.wikipedia.org/wiki/Dublin | Lakes near Dublin: No specific link provided
+295: Cardiff: https://en.wikipedia.org/wiki/Cardiff
+296: Toponym: City of Westminster: https://en.wikipedia.org/wiki/City_of_Westminster
+297: Castleblayney: https://en.wikipedia.org/wiki/Castleblayney
+298: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+299: Hampshire: https://en.wikipedia.org/wiki/Hampshire
+300: Cork: https://en.wikipedia.org/wiki/Cork
+301: Agia Paraskevi: https://en.wikipedia.org/wiki/Agia_Paraskevi
+302: Central Athens Regional Unit: https://en.wikipedia.org/wiki/Central_Athens_Regional_Unit
+303: Toponym: Greater London Authority: https://en.wikipedia.org/wiki/Greater_London_Authority
+304: County Wexford: https://en.wikipedia.org/wiki/County_Wexford
+305: Dublin: https://en.wikipedia.org/wiki/Dublin
+306: Naxos: https://en.wikipedia.org/wiki/Naxos
+307: Manchester: https://en.wikipedia.org/wiki/Manchester
+308: Doolin: https://en.wikipedia.org/wiki/Doolin | Bays near Doolin: No specific information available.
+309: Lincolnshire: https://en.wikipedia.org/wiki/Lincolnshire
+310: Toponym: Greek parks Wiki link: https://en.wikipedia.org/wiki/List_of_parks_in_Greece
+311: Toponym: North Dublin: https://en.wikipedia.org/wiki/North_Dublin
+312: Athens: https://en.wikipedia.org/wiki/Athens
+313: Cambridge: https://en.wikipedia.org/wiki/Cambridge
+314: Lough Neagh: https://en.wikipedia.org/wiki/Lough_Neagh
+315: Toponym: Ierapetra Wiki link: https://en.wikipedia.org/wiki/Ierapetra
+316: Toponym: Metropolitan Boroughs of London: https://en.wikipedia.org/wiki/Metropolitan_Boroughs_of_London
+317: Kilkieran: https://en.wikipedia.org/wiki/Kilkieran
+318: Metropolitan districts: https://en.wikipedia.org/wiki/Metropolitan_district
+319: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+320: Toponym: Lakes of the United Kingdom: https://en.wikipedia.org/wiki/List_of_lakes_of_the_United_Kingdom
+321: Nea Smirni: https://en.wikipedia.org/wiki/Nea_Smirni
+322: Athens: https://en.wikipedia.org/wiki/Athens
+323: Toponym: Greater London: https://en.wikipedia.org/wiki/Greater_London
+324: Toponym: Cities north of Dublin: https://en.wikipedia.org/wiki/Cities_north_of_Dublin
+325: Toponym: Parks in Dublin: https://en.wikipedia.org/wiki/Parks_in_Dublin
+326: Toponym: Manchester: https://en.wikipedia.org/wiki/Manchester
+327: Toponym: Thessaloniki: https://en.wikipedia.org/wiki/Thessaloniki
+328: Dublin: https://en.wikipedia.org/wiki/Dublin | 2nd Order Administrative Units: https://en.wikipedia.org/wiki/Local_government_in_the_Republic_of_Ireland
+329: Toponym: Greater London | Wiki link: https://en.wikipedia.org/wiki/Greater_London
+330: Toponym: Lakes in Greece: https://en.wikipedia.org/wiki/List_of_lakes_of_Greece
+331: Essex: https://en.wikipedia.org/wiki/Essex
+332: Toponym: County councils in the Republic of Ireland: https://en.wikipedia.org/wiki/Local_government_in_the_Republic_of_Ireland#County_councils
+333: Epirus: https://en.wikipedia.org/wiki/Epirus
+334: Toponym: Greater London: https://en.wikipedia.org/wiki/Greater_London
+335: Belfast: https://en.wikipedia.org/wiki/Belfast | Wards of Belfast: https://en.wikipedia.org/wiki/Wards_of_Belfast
+336: Greenwich: https://en.wikipedia.org/wiki/Greenwich
+337: Alonnisos: https://en.wikipedia.org/wiki/Alonnisos
+338: Nottingham: https://en.wikipedia.org/wiki/Nottingham
+339: Toponym: Dublin: https://en.wikipedia.org/wiki/Dublin
+340: Worcestershire County: https://en.wikipedia.org/wiki/Worcestershire
+341: Coolea: https://en.wikipedia.org/wiki/Coolea
+342: Toponym: Kilkis - https://en.wikipedia.org/wiki/Kilkis
+343: Copeland district: https://en.wikipedia.org/wiki/Copeland_district
+344: Kastanas beach: wiki link not available
+345: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+346: Cork: https://en.wikipedia.org/wiki/Cork
+347: Greece: https://en.wikipedia.org/wiki/Greece
+348: Forests in England: https://en.wikipedia.org/wiki/Forests_in_England
+349: Toponym: Parks of Dublin Wiki link: https://en.wikipedia.org/wiki/Parks_in_Dublin
+350: Donegal County: https://en.wikipedia.org/wiki/County_Donegal
+351: Warwickshire: https://en.wikipedia.org/wiki/Warwickshire
+352: Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia
+353: Clondalkin: https://en.wikipedia.org/wiki/Clondalkin
+354: Toponym: Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia
+355: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+356: Stafford district: https://en.wikipedia.org/wiki/Stafford_(borough)
+357: County Clare: https://en.wikipedia.org/wiki/County_Clare
+358: Wakefield district: https://en.wikipedia.org/wiki/Wakefield_district
+359: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+360: Toponym: Municipalities bordering Athens: https://en.wikipedia.org/wiki/Municipalities_and_communities_of_Attica#Municipalities
+361: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+362: Ardee: https://en.wikipedia.org/wiki/Ardee
+363: Chania: https://en.wikipedia.org/wiki/Chania
+364: Norfolk: https://en.wikipedia.org/wiki/Norfolk
+365: Toponym: Coshlea: https://en.wikipedia.org/wiki/Coshlea
+366: Makrakomi: https://en.wikipedia.org/wiki/Makrakomi
+367: County Durham: https://en.wikipedia.org/wiki/County_Durham
+368: Meath: https://en.wikipedia.org/wiki/County_Meath
+369: Forests of Edinburgh: https://en.wikipedia.org/wiki/Forests_of_Edinburgh | Canals of Edinburgh: https://en.wikipedia.org/wiki/Canals_of_Edinburgh
+370: Ormos Vourkari: wiki link
+371: Toponym: Lake District: https://en.wikipedia.org/wiki/Lake_District
+372: Lincolnshire: https://en.wikipedia.org/wiki/Lincolnshire
+373: Manchester: https://en.wikipedia.org/wiki/Manchester
+374: Toponym: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+375: Toponym: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+376: Loch Ness: https://en.wikipedia.org/wiki/Loch_Ness
+377: Toponym: New York City: https://en.wikipedia.org/wiki/New_York_City
+378: Lake Michigan: https://en.wikipedia.org/wiki/Lake_Michigan
+379: Island Hoy: https://en.wikipedia.org/wiki/Hoy
+380: Miami: https://en.wikipedia.org/wiki/Miami
+381: Lough Corrib: https://en.wikipedia.org/wiki/Lough_Corrib
+382: Scotland: https://en.wikipedia.org/wiki/Scotland
+383: Wales: https://en.wikipedia.org/wiki/Wales
+384: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+385: Toponym: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+386: Toponym: Peristeri Wiki link: https://en.wikipedia.org/wiki/Peristeri
+387: York: https://en.wikipedia.org/wiki/York
+388: Missolonghi: https://en.wikipedia.org/wiki/Missolonghi
+389: Toponym: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
+390: Ioannina: https://en.wikipedia.org/wiki/Ioannina
+391: Chania: https://en.wikipedia.org/wiki/Chania
+392: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+393: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+394: Metropolitan Districts: https://en.wikipedia.org/wiki/Metropolitan_district
+395: New York City: https://en.wikipedia.org/wiki/New_York_City
+396: Thebes: https://en.wikipedia.org/wiki/Thebes
+397: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+398: Dublin: https://en.wikipedia.org/wiki/Dublin | Townlands: Unfortunately, I couldn't find a specific Wikipedia link for Dublin's neighboring townlands.
+399: Lemnos: https://en.wikipedia.org/wiki/Lemnos
+400: County Carlow: https://en.wikipedia.org/wiki/County_Carlow
+401: Toponym: Unitary Authorities in Wales: https://en.wikipedia.org/wiki/Unitary_authorities_of_Wales
+402: Manchester: https://en.wikipedia.org/wiki/Manchester
+403: Clonakilty: https://en.wikipedia.org/wiki/Clonakilty
+404: Toponym: Peloponnese: https://en.wikipedia.org/wiki/Peloponnese
+405: Toponym: County Dublin: https://en.wikipedia.org/wiki/County_Dublin
+406: Bedford: https://en.wikipedia.org/wiki/Bedford | Counties bordering Bedford:  https://en.wikipedia.org/wiki/Bedford_County,_Virginia#Adjacent_counties
+407: Chalandri: https://en.wikipedia.org/wiki/Chalandri
+408: Toponym: South Athens Regional Unit Wiki link: https://en.wikipedia.org/wiki/South_Athens_Regional_Unit
+409: Toponym: Greater London Authority: https://en.wikipedia.org/wiki/Greater_London_Authority
+410: London: https://en.wikipedia.org/wiki/London
+411: Corfu: https://en.wikipedia.org/wiki/Corfu
+412: Toponym: New York City: https://en.wikipedia.org/wiki/New_York_City
+413: New York City: https://en.wikipedia.org/wiki/New_York_City
+414: Nottinghamshire: https://en.wikipedia.org/wiki/Nottinghamshire
+415: Toponym: Canals of Wales: https://en.wikipedia.org/wiki/Canals_of_Wales
+416: Toponym: Athens: https://en.wikipedia.org/wiki/Athens
+417: County Kerry: https://en.wikipedia.org/wiki/County_Kerry
+418: Toponym: Athens: https://en.wikipedia.org/wiki/Athens
+419: Toponym: Dublin Mountains: https://en.wikipedia.org/wiki/Dublin_Mountains
+420: Toponym: Greater London: https://en.wikipedia.org/wiki/Greater_London
+421: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+422: Toponym: Tripoli | Wiki link: https://en.wikipedia.org/wiki/Tripoli
+423: Chania: https://en.wikipedia.org/wiki/Chania
+424: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+425: Toponym: Texas: https://en.wikipedia.org/wiki/Texas
+426: Toponym: Lakes District: https://en.wikipedia.org/wiki/Lake_District
+427: Alnwick: https://en.wikipedia.org/wiki/Alnwick | Northumberland: https://en.wikipedia.org/wiki/Northumberland
+428: Suffolk: https://en.wikipedia.org/wiki/Suffolk
+429: Forests in England: https://en.wikipedia.org/wiki/Forests_in_England
+430: Toponym: Corinth: https://en.wikipedia.org/wiki/Corinth
+431: Pallini: https://en.wikipedia.org/wiki/Pallini | Agia Paraskevi: https://en.wikipedia.org/wiki/Agia_Paraskevi
+432: Toponym: municipalities: wiki link
+433: I'm sorry, but I couldn't find any specific information about nature reserves that are west of townlands.
+434: Toponym: lakes Wiki link: https://en.wikipedia.org/wiki/List_of_lakes
+435: Toponym: Streams Wiki link: https://en.wikipedia.org/wiki/Stream
+436: Toponym: Barony: https://en.wikipedia.org/wiki/Barony
+437: Toponym: Nature reserves south of a forested area: Wiki link not available.
+438: toponym: Beaches: https://en.wikipedia.org/wiki/Beach
+439: Toponym: Rural areas intersecting with lakes: wiki link not available.
+440: Toponym: Urban centers with beaches: https://en.wikipedia.org/wiki/List_of_urban_areas_by_population
+441: Toponym: lakes: https://en.wikipedia.org/wiki/Lake | woodland area: https://en.wikipedia.org/wiki/Woodland
+442: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+443: Lake: https://en.wikipedia.org/wiki/Lake
+444: Toponym: Stream Wiki link: https://en.wikipedia.org/wiki/Stream
+445: Toponym: Lakes: https://en.wikipedia.org/wiki/Lake
+446: Toponym: Stream | Island: https://en.wikipedia.org/wiki/Island
+447: Toponym: Islands situated within the boundaries of lakes: https://en.wikipedia.org/wiki/Islands_in_lakes
+448: Toponym: Greek villages: https://en.wikipedia.org/wiki/List_of_villages_in_Greece
+449: Irish Baronies: wiki link
+450: Toponym: Islands: https://en.wikipedia.org/wiki/Island
+451: Toponym: counties: wiki link
+452: Toponym: Alaska: https://en.wikipedia.org/wiki/Alaska | Arizona: https://en.wikipedia.org/wiki/Arizona | Colorado: https://en.wikipedia.org/wiki/Colorado | Delaware: https://en.wikipedia.org/wiki/Delaware | Hawaii: https://en.wikipedia.org/wiki/Hawaii | Idaho: https://en.wikipedia.org/wiki/Id
+453: US state: wiki link
+454: Toponym: Central Greece: https://en.wikipedia.org/wiki/Central_Greece
+455: Toponym: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Lakes in the Republic of Ireland: https://en.wikipedia.org/wiki/List_of_lakes_of_Ireland
+456: Toponym: Lakes in England: https://en.wikipedia.org/wiki/Lakes_in_England
+457: Milos: https://en.wikipedia.org/wiki/Milos
+458: Toponym: Oxford: https://en.wikipedia.org/wiki/Oxford
+459: County Mayo: https://en.wikipedia.org/wiki/County_Mayo
+460: Toponym: Birmingham: https://en.wikipedia.org/wiki/Birmingham
+461: Toponym: Dublin Bay: https://en.wikipedia.org/wiki/Dublin_Bay
+462: Corfu Island: https://en.wikipedia.org/wiki/Corfu
+463: Toponym: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+464: Toponym: Cumbria: https://en.wikipedia.org/wiki/Cumbria
+465: County Longford: https://en.wikipedia.org/wiki/County_Longford
+466: Toponym: Reservoir in Greece: https://en.wikipedia.org/wiki/Reservoir
+467: Toponym: Unitary Authority Wards in Edinburgh Wiki link: https://en.wikipedia.org/wiki/Unitary_authority_wards_in_Edinburgh
+468: County Roscommon: https://en.wikipedia.org/wiki/County_Roscommon
+469: Toponym: Suffolk: https://en.wikipedia.org/wiki/Suffolk
+470: County Kildare: https://en.wikipedia.org/wiki/County_Kildare | Irish counties: https://en.wikipedia.org/wiki/Counties_of_Ireland | Canals: https://en.wikipedia.org/wiki/Canals_in_Ireland
+471: Toponym: Lakes in England: https://en.wikipedia.org/wiki/List_of_lakes_of_England
+472: Toponym: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Rural areas: No specific link provided for forests intersecting with rural areas in the Republic of Ireland.
+473: Toponym: Central Athens regional unit: https://en.wikipedia.org/wiki/Central_Athens_Regional_Unit
+474: Toponym: County Cork: https://en.wikipedia.org/wiki/County_Cork
+475: Cambridge: https://en.wikipedia.org/wiki/Cambridge
+476: Toponym: Ioannina: https://en.wikipedia.org/wiki/Ioannina
+477: Thasos: https://en.wikipedia.org/wiki/Thasos
+478: Toponym: Herbert Park: https://en.wikipedia.org/wiki/Herbert_Park
+479: Toponym: Birmingham: https://en.wikipedia.org/wiki/Birmingham
+480: Naxos: https://en.wikipedia.org/wiki/Naxos
+481: Dublin: https://en.wikipedia.org/wiki/Dublin | Parks in Dublin: https://en.wikipedia.org/wiki/Parks_in_Dublin
+482: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+483: Dublin City Council: https://en.wikipedia.org/wiki/Dublin_City_Council | Cork City Council: https://en.wikipedia.org/wiki/Cork_City_Council | Galway City Council: https://en.wikipedia.org/wiki/Galway_City_Council | Limerick City and County Council: https://en.wikipedia.org/wiki/L
+484: Toponym: Unitary authorities of England: https://en.wikipedia.org/wiki/Unitary_authorities_of_England | Scotland: https://en.wikipedia.org/wiki/Scotland
+485: County Wicklow: https://en.wikipedia.org/wiki/County_Wicklow
+486: Toponym: Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia
+487: Toponym: England: https://en.wikipedia.org/wiki/England
+488: Toponym: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+489: Toponym: Baronies of Ireland: https://en.wikipedia.org/wiki/Baronies_of_Ireland
+490: Toponym: Greek municipalities with beaches: https://en.wikipedia.org/wiki/List_of_beaches_in_Greece
+491: Toponym: Counties of England: https://en.wikipedia.org/wiki/Counties_of_England
+492: Toponym: Kilmacrenan barony: https://en.wikipedia.org/wiki/Kilmacrenan_barony
+493: Toponym: Kastoria: https://en.wikipedia.org/wiki/Kastoria
+494: County Cavan: https://en.wikipedia.org/wiki/County_Cavan
+495: Breckland district: https://en.wikipedia.org/wiki/Breckland_district
+496: Toponym: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+497: Toponym: Staffordshire: https://en.wikipedia.org/wiki/Staffordshire
+498: County Longford: https://en.wikipedia.org/wiki/County_Longford
+499: Toponym: Cork: https://en.wikipedia.org/wiki/Cork
+500: Toponym: State of Iowa: https://en.wikipedia.org/wiki/Iowa
+501: Toponym: County Cumbria: https://en.wikipedia.org/wiki/Cumbria
+502: Toponym: Corfu: https://en.wikipedia.org/wiki/Corfu
+503: Toponym: Lakes in Greece: https://en.wikipedia.org/wiki/List_of_lakes_in_Greece
+504: Toponym: New Forest: https://en.wikipedia.org/wiki/New_Forest
+505: Toponym: Irish Barony
+506: Toponym: Norfolk: https://en.wikipedia.org/wiki/Norfolk
+507: Toponym: Baronies east of Coshlea: https://en.wikipedia.org/wiki/Baronies_of_Ireland
+508: Toponym: Cambridge: https://en.wikipedia.org/wiki/Cambridge
+509: Toponym: Civil parishes in Ireland: https://en.wikipedia.org/wiki/Civil_parishes_in_Ireland
+510: Toponym: Greek municipalities with more than 5 beaches: https://en.wikipedia.org/wiki/List_of_municipalities_of_Greece
+511: Toponym: Scotland: https://en.wikipedia.org/wiki/Scotland
+512: Toponym: Ireland: https://en.wikipedia.org/wiki/Ireland
+513: Toponym: South Aegean: https://en.wikipedia.org/wiki/South_Aegean
+514: Toponym: State of Illinois: https://en.wikipedia.org/wiki/Illinois
+515: Toponym: Orange County, California: https://en.wikipedia.org/wiki/Orange_County,_California
+516: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+517: Toponym: Canals in England: https://en.wikipedia.org/wiki/Canals_in_England | Forests in England: https://en.wikipedia.org/wiki/Forests_in_England
+518: Lakes in Ireland: https://en.wikipedia.org/wiki/List_of_lakes_of_Ireland
+519: Toponym: Attica: https://en.wikipedia.org/wiki/Attica
+520: Toponym: Parks in the US: https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States
+521: Toponym: Rural areas south of Dublin: https://en.wikipedia.org/wiki/South_Dublin
+522: Attica: https://en.wikipedia.org/wiki/Attica
+523: Toponym: London: https://en.wikipedia.org/wiki/London
+524: County Wicklow: https://en.wikipedia.org/wiki/County_Wicklow
+525: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+526: I'm sorry, but I couldn't find any specific information on reservoirs east of 3rd order administrative units in Ireland.
+527: Toponym: England: https://en.wikipedia.org/wiki/England
+528: Toponym: Greek villages: https://en.wikipedia.org/wiki/List_of_villages_in_Greece
+529: Toponym: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+530: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+531: Thrace: https://en.wikipedia.org/wiki/Thrace
+532: Toponym: Oxford: https://en.wikipedia.org/wiki/Oxford
+533: Toponym: Parks in the United States: https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States
+534: Toponym: Lakes in Ireland: https://en.wikipedia.org/wiki/List_of_lakes_in_Ireland
+535: Toponym: UK: https://en.wikipedia.org/wiki/United_Kingdom
+536: Toponym: England: https://en.wikipedia.org/wiki/England
+537: Toponym: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+538: Toponym: Lake Prespa: https://en.wikipedia.org/wiki/Lake_Prespa | Lake Vegoritida: https://en.wikipedia.org/wiki/Lake_Vegoritida
+539: Toponym: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Lakes in the Republic of Ireland: https://en.wikipedia.org/wiki/List_of_lakes_of_Ireland
+540: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+541: Toponym: Peloponnese region: https://en.wikipedia.org/wiki/Peloponnese
+542: Toponym: Essex: https://en.wikipedia.org/wiki/Essex
+543: Tullyhaw Barony: https://en.wikipedia.org/wiki/Tullyhaw_Barony
+544: Ireland: https://en.wikipedia.org/wiki/Ireland
+545: Counties of England: https://en.wikipedia.org/wiki/Counties_of_England | Wales: https://en.wikipedia.org/wiki/Wales
+546: Toponym: Houston: https://en.wikipedia.org/wiki/Houston
+547: County Kerry: https://en.wikipedia.org/wiki/County_Kerry | County Wexford: https://en.wikipedia.org/wiki/County_Wexford
+548: Toponym: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+549: Corfu: https://en.wikipedia.org/wiki/Corfu
+550: Lake Trichonida: https://en.wikipedia.org/wiki/Lake_Trichonida
+551: Toponym: Crete beaches: https://en.wikipedia.org/wiki/Beaches_of_Crete
+552: Toponym: Paros: https://en.wikipedia.org/wiki/Paros
+553: Toponym: Dublin: https://en.wikipedia.org/wiki/Dublin | Parks in Dublin: No specific link provided
+554: Toponym: Islands of Greece: https://en.wikipedia.org/wiki/Islands_of_Greece
+555: Toponym: Ireland: https://en.wikipedia.org/wiki/Ireland
+556: Toponym: Unitary authorities of England: https://en.wikipedia.org/wiki/Unitary_authorities_of_England
+557: Wicklow: https://en.wikipedia.org/wiki/Wicklow
+558: Lake District: https://en.wikipedia.org/wiki/Lake_District
+559: Toponym: Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia
+560: Toponym: Greece: https://en.wikipedia.org/wiki/Greece | Nature reserve: https://en.wikipedia.org/wiki/Nature_reserve
+561: Toponym: Streams in Ireland: https://en.wikipedia.org/wiki/List_of_rivers_of_Ireland
+562: Ireland: https://en.wikipedia.org/wiki/Ireland
+563: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+564: Toponym: Great Britain: https://en.wikipedia.org/wiki/Great_Britain
+565: Toponym: Peloponnese: https://en.wikipedia.org/wiki/Peloponnese
+566: Toponym: Greek region: https://en.wikipedia.org/wiki/Greek_region
+567: Toponym: Irish Barony
+568: Corfu: https://en.wikipedia.org/wiki/Corfu
+569: Toponym: County Longford: https://en.wikipedia.org/wiki/County_Longford
+570: Toponym: Baronies west of Coshlea: https://en.wikipedia.org/wiki/Baronies_of_Ireland
+571: Toponym: Lakes in Greece: https://en.wikipedia.org/wiki/Lakes_in_Greece
+572: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+573: Toponym: Staffordshire: https://en.wikipedia.org/wiki/Staffordshire
+574: Toponym: Oregon: https://en.wikipedia.org/wiki/Oregon
+575: Toponym: Parks situated on islands of the US: https://en.wikipedia.org/wiki/List_of_parks_in_the_United_States#Parks_on_islands
+576: Toponym: Wales: https://en.wikipedia.org/wiki/Wales
+577: Toponym: Regional units of Greece: https://en.wikipedia.org/wiki/Regional_units_of_Greece
+578: Toponym: Epirus: https://en.wikipedia.org/wiki/Epirus
+579: Arkansas: https://en.wikipedia.org/wiki/Arkansas
+580: Missouri: https://en.wikipedia.org/wiki/Missouri
+581: Lough Neagh: https://en.wikipedia.org/wiki/Lough_Neagh
+582: Texas: https://en.wikipedia.org/wiki/Texas
+583: Toponym: Dundalk: https://en.wikipedia.org/wiki/Dundalk
+584: Toponym: Chania: https://en.wikipedia.org/wiki/Chania
+585: Toponym: Longford: https://en.wikipedia.org/wiki/County_Longford
+586: County Cumbria: https://en.wikipedia.org/wiki/Cumbria
+587: Toponym: English counties
+588: Greek regions: https://en.wikipedia.org/wiki/Regions_of_Greece
+589: Toponym: Greek municipalities: https://en.wikipedia.org/wiki/List_of_municipalities_of_Greece
+590: Irish counties: https://en.wikipedia.org/wiki/Counties_of_Ireland
+591: Toponym: Essex: https://en.wikipedia.org/wiki/Essex
+592: Toponym: Periferiaki Enotita Nison: https://en.wikipedia.org/wiki/Periferiaki_Enotita_Nison
+593: Toponym: Wards of Northern Ireland: https://en.wikipedia.org/wiki/Wards_of_Northern_Ireland | Dublin: https://en.wikipedia.org/wiki/Dublin
+594: Toponym: Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia
+595: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+596: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland
+597: Toponym: Municipalities in Greece: https://en.wikipedia.org/wiki/List_of_municipalities_of_Greece_with_a_population_of_less_than_30,000
+598: Toponym: Peloponnese: https://en.wikipedia.org/wiki/Peloponnese
+599: Toponym: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
+600: Toponym: Scarawalsh Barony: https://en.wikipedia.org/wiki/Scarawalsh_Barony
+601: Kastoria: https://en.wikipedia.org/wiki/Kastoria
+602: Toponym: Crete: https://en.wikipedia.org/wiki/Crete
+603: Scotland: https://en.wikipedia.org/wiki/Scotland
+604: Toponym: County Longford: https://en.wikipedia.org/wiki/County_Longford | Dublin: https://en.wikipedia.org/wiki/Dublin
+605: Toponym: Greek regional units: https://en.wikipedia.org/wiki/List_of_Greek_regional_units_by_population
+606: Toponym: Central Athens Regional Unit: https://en.wikipedia.org/wiki/Central_Athens_Regional_Unit
+607: Toponym: Northern Irish wards: https://en.wikipedia.org/wiki/Northern_Ireland | Wales: https://en.wikipedia.org/wiki/Wales
+608: Toponym: Epping Forest: https://en.wikipedia.org/wiki/Epping_Forest
+609: Toponym: Central Athens: https://en.wikipedia.org/wiki/Central_Athens
+610: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+611: Greek regions: https://en.wikipedia.org/wiki/Regions_of_Greece
+612: Louisiana: https://en.wikipedia.org/wiki/Louisiana
+613: Toponym: Los Angeles | Link: https://en.wikipedia.org/wiki/Los_Angeles
+614: Toponym: England: https://en.wikipedia.org/wiki/England
+615: County Roscommon: https://en.wikipedia.org/wiki/County_Roscommon
+616: Toponym: Pyrgos: https://en.wikipedia.org/wiki/Pyrgos,_Elis
+617: Cork: https://en.wikipedia.org/wiki/Cork
+618: Toponym: Essex | Wiki link: https://en.wikipedia.org/wiki/Essex
+619: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+620: Toponym: England: https://en.wikipedia.org/wiki/England
+621: Dublin: https://en.wikipedia.org/wiki/Dublin
+622: Monaghan: https://en.wikipedia.org/wiki/County_Monaghan
+623: I'm sorry, but I couldn't find a specific Wikipedia link for your query.
+624: County Cavan: https://en.wikipedia.org/wiki/County_Cavan
+625: Toponym: Staffordshire: https://en.wikipedia.org/wiki/Staffordshire
+626: Rural Area south of Cork City: wiki link not available
+627: toponym: lakeside villages
+628: toponym: streams | forests: https://en.wikipedia.org/wiki/Forest
+629: Toponym: Beaches: https://en.wikipedia.org/wiki/Beach
+630: Toponym: Greek region: https://en.wikipedia.org/wiki/Regions_of_Greece
+631: Toponym: English districts: https://en.wikipedia.org/wiki/Local_government_in_England
+632: Toponym: Townland | Lakes: https://en.wikipedia.org/wiki/Lake
+633: toponym: lake
+634: toponym: city limits
+635: toponym: bays | wiki link: https://en.wikipedia.org/wiki/Bay
+636: Toponym: municipality
+637: Toponym: County: https://en.wikipedia.org/wiki/County
+638: Toponym: counties Wiki link: https://en.wikipedia.org/wiki/County
+639: Toponym: Greek regions: https://en.wikipedia.org/wiki/Regions_of_Greece
+640: Counties: wiki link
+641: Baronies: wiki link not found
+642: Toponym: Nature reserve: https://en.wikipedia.org/wiki/Nature_reserve | Forest: https://en.wikipedia.org/wiki/Forest
+643: Toponym: Oxbow (geography) - https://en.wikipedia.org/wiki/Oxbow_(geography)
+644: Toponym: islands: https://en.wikipedia.org/wiki/Island
+645: Toponym: nature reserves | Wiki link: https://en.wikipedia.org/wiki/Nature_reserve
+646: Toponym: Villages: https://en.wikipedia.org/wiki/Village
+647: Toponym: Beaches: https://en.wikipedia.org/wiki/List_of_beaches
+648: Toponym: Districts: https://en.wikipedia.org/wiki/Districts
+649: Toponym: Irish counties: https://en.wikipedia.org/wiki/Counties_of_Ireland
+650: Toponym: forest | Lakes: https://en.wikipedia.org/wiki/Lake
+651: Baronies: wiki link
+652: toponym: lakes: https://en.wikipedia.org/wiki/Lake
+653: Toponym: Parks located within cities: https://en.wikipedia.org/wiki/Parks_in_cities
+654: Toponym: Bay Wiki link: https://en.wikipedia.org/wiki/Bay
+655: toponym: streams | lakes: https://en.wikipedia.org/wiki/Lake
+656: Toponym: Nature reserves: https://en.wikipedia.org/wiki/Nature_reserve
+657: Toponym: Islands: https://en.wikipedia.org/wiki/Island
+658: Toponym: Nature reserves on islands: https://en.wikipedia.org/wiki/List_of_island_nature_reserves
+659: toponym: beaches | forests: wiki link
+660: toponym: parks with lakes: https://en.wikipedia.org/wiki/List_of_parks_with_lakes
+661: Toponym: lakes | Forest: https://en.wikipedia.org/wiki/Forest
+662: Toponym: Cretan villages: https://en.wikipedia.org/wiki/List_of_settlements_in_Crete
+663: County Kerry: https://en.wikipedia.org/wiki/County_Kerry
+664: Toponym: Greek municipalities: https://en.wikipedia.org/wiki/Municipalities_and_communities_of_Greece
+665: Toponym: I'm sorry, I couldn't find any specific information regarding lakes overlapping with metropolitan districts.
+666: Toponym: village | Cities: https://en.wikipedia.org/wiki/City
+667: Toponym: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+668: Toponym: Scotland: https://en.wikipedia.org/wiki/Scotland
+669: Toponym: Localities adjacent to forests: https://en.wikipedia.org/wiki/Forest
+670: Toponym: municipality
+671: Toponym: municipality
+672: Toponym: Wales: https://en.wikipedia.org/wiki/Wales
+673: toponym: lakes | forests: https://en.wikipedia.org/wiki/Forest
+674: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+675: Toponym: England: https://en.wikipedia.org/wiki/England
+676: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+677: Toponym: English counties: https://en.wikipedia.org/wiki/Counties_of_England
+678: Toponym: Nature reserves: https://en.wikipedia.org/wiki/Nature_reserve
+679: Toponym: Greek regional units: https://en.wikipedia.org/wiki/Greek_regional_units
+680: Toponym: County Kildare: https://en.wikipedia.org/wiki/County_Kildare
+681: Toponym: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+682: Toponym: Oxford: https://en.wikipedia.org/wiki/Oxford
+683: County Longford: https://en.wikipedia.org/wiki/County_Longford
+684: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+685: Toponym: England: https://en.wikipedia.org/wiki/England
+686: County Mayo: https://en.wikipedia.org/wiki/County_Mayo
+687: Toponym: English counties: https://en.wikipedia.org/wiki/Counties_of_England
+688: Plymouth: https://en.wikipedia.org/wiki/Plymouth
+689: Toponym: Attica: https://en.wikipedia.org/wiki/Attica
+690: Toponym: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+691: Toponym: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
+692: Toponym: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+693: Toponym: England beaches: https://en.wikipedia.org/wiki/List_of_beaches_in_England
+694: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+695: Michigan: https://en.wikipedia.org/wiki/Michigan
+696: Scotland: https://en.wikipedia.org/wiki/Scotland
+697: Toponym: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+698: Toponym: Alabama: https://en.wikipedia.org/wiki/Alabama
+699: Toponym: California: https://en.wikipedia.org/wiki/California
+700: Toponym: Ireland: https://en.wikipedia.org/wiki/Ireland
+701: Toponym: California: https://en.wikipedia.org/wiki/California
+702: Toponym: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
+703: Toponym: villages
+704: Toponym: Ireland: https://en.wikipedia.org/wiki/Ireland
+705: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+706: Toponym: Texas: https://en.wikipedia.org/wiki/Texas
+707: Irish counties: https://en.wikipedia.org/wiki/Counties_of_Ireland
+708: toponym: lakeside forests
+709: toponym: None found
+710: Toponym: Bay: https://en.wikipedia.org/wiki/Bay
+711: Toponym: Woodlands: https://en.wikipedia.org/wiki/Woodlands
+712: Toponym: English districts: https://en.wikipedia.org/wiki/Local_government_in_England
+713: Toponym: I'm sorry, but I couldn't find any specific information regarding the number of forests that intersect with lakes.
+714: Toponym: I'm sorry, but I couldn't find any specific information regarding the number of forests adjacent to a lake.
+715: Toponym: parks
+716: Toponym: nature reserves Wiki link: https://en.wikipedia.org/wiki/Nature_reserve
+717: Toponym: nature reserves
+718: toponym: lakes | forests: wiki link
+719: Toponym: I'm sorry, I couldn't find a specific wiki link for the total amount of streams that border forests.
+720: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+721: Toponym: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+722: Toponym: Greek municipalities: https://en.wikipedia.org/wiki/Municipalities_and_communities_of_Greece
+723: Toponym: wiki link
+724: toponym: parks
+725: toponym: lakes | canals: https://en.wikipedia.org/wiki/Canal
+726: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+727: Toponym: regions: https://en.wikipedia.org/wiki/Region
+728: Toponym: lakes
+729: toponym: forest
+730: Toponym: Greek municipalities: https://en.wikipedia.org/wiki/Municipalities_and_communities_of_Greece
+731: Toponym: Irish Baronies: https://en.wikipedia.org/wiki/Baronies_of_Ireland
+732: Toponym: Ireland: https://en.wikipedia.org/wiki/Ireland
+733: Toponym: Greek regions: https://en.wikipedia.org/wiki/Regions_of_Greece
+734: toponym: baronies
+735: Toponym: I'm sorry, I couldn't find any specific information regarding streams intersecting beaches and lakes.
+736: toponym: nature reserve
+737: toponym: lagoon
+738: Toponym: municipality | Canals: https://en.wikipedia.org/wiki/Canal
+739: Toponym: British counties: https://en.wikipedia.org/wiki/Counties_of_the_United_Kingdom
+740: British counties: https://en.wikipedia.org/wiki/List_of_counties_of_the_United_Kingdom
+741: toponym: baronies: https://en.wikipedia.org/wiki/Barony_(Ireland)
+742: Toponym: Municipalities of Central Greece Wiki link: https://en.wikipedia.org/wiki/Municipalities_of_Central_Greece
+743: Texas: https://en.wikipedia.org/wiki/Texas
+744: Greece: https://en.wikipedia.org/wiki/Greece
+745: Scottish lakes: https://en.wikipedia.org/wiki/List_of_lochs_of_Scotland
+746: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+747: Toponym: Islands with at least three lakes: https://en.wikipedia.org/wiki/List_of_islands_by_lake_count
+748: Toponym: American States: https://en.wikipedia.org/wiki/List_of_U.S._states
+749: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+750: Toponym: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+751: Toponym: England: https://en.wikipedia.org/wiki/England
+752: Greece: https://en.wikipedia.org/wiki/Greece | Ireland: https://en.wikipedia.org/wiki/Ireland
+753: Toponym: islands
+754: Toponym: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+755: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+756: Thrace: https://en.wikipedia.org/wiki/Thrace
+757: Harris County: https://en.wikipedia.org/wiki/Harris_County,_Texas
+758: Toponym: Athens: https://en.wikipedia.org/wiki/Athens
+759: Toponym: Belfast: https://en.wikipedia.org/wiki/Belfast | Forest nearest to Belfast: https://en.wikipedia.org/wiki/Belvoir_Park_Forest
+760: Lake Marathon: https://en.wikipedia.org/wiki/Lake_Marathon
+761: Toponym: Irish county: https://en.wikipedia.org/wiki/Counties_of_Ireland
+762: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+763: Toponym: Island of Ireland: https://en.wikipedia.org/wiki/Island_of_Ireland
+764: Toponym: Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia
+765: Toponym: County of Rutland: https://en.wikipedia.org/wiki/Rutland
+766: Toponym: Athens: https://en.wikipedia.org/wiki/Athens
+767: Essex: https://en.wikipedia.org/wiki/Essex
+768: Toponym: Dublin: https://en.wikipedia.org/wiki/Dublin | Baronies: Unfortunately, I couldn't find specific information on the two biggest baronies that intersect with Dublin.
+769: Toponym: Northumberland Forest: https://en.wikipedia.org/wiki/Northumberland_Forest
+770: Toponym: Phoenix Park: https://en.wikipedia.org/wiki/Phoenix_Park
+771: Toponym: Naxos: https://en.wikipedia.org/wiki/Naxos
+772: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+773: Manchester: https://en.wikipedia.org/wiki/Manchester
+774: Toponym: County Kerry Wiki link: https://en.wikipedia.org/wiki/County_Kerry
+775: Toponym: Epirus: https://en.wikipedia.org/wiki/Epirus
+776: Toponym: Surrey: https://en.wikipedia.org/wiki/Surrey
+777: Toponym: County Wexford: https://en.wikipedia.org/wiki/County_Wexford
+778: Toponym: Budgebury Forest: https://en.wikipedia.org/wiki/Budgebury_Forest
+779: Toponym: Agia Paraskevi: https://en.wikipedia.org/wiki/Agia_Paraskevi
+780: Cork: https://en.wikipedia.org/wiki/Cork
+781: Rhodes: https://en.wikipedia.org/wiki/Rhodes
+782: Toponym: England: https://en.wikipedia.org/wiki/England
+783: Toponym: St. Stephen's Green Park: https://en.wikipedia.org/wiki/St_Stephen%27s_Green_Park
+784: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+785: Toponym: Greater London: https://en.wikipedia.org/wiki/Greater_London | City of London: https://en.wikipedia.org/wiki/City_of_London | United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+786: Toponym: Crete: https://en.wikipedia.org/wiki/Crete
+787: Toponym: Phoenix Park: https://en.wikipedia.org/wiki/Phoenix_Park
+788: Toponym: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+789: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+790: Toponym: South Aegean administrative region: https://en.wikipedia.org/wiki/South_Aegean
+791: Rural area south of Longford: wiki link not available
+792: Toponym: Northumberland: https://en.wikipedia.org/wiki/Northumberland
+793: Toponym: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+794: Toponym: Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia
+795: Toponym: Lake Vegoritida: https://en.wikipedia.org/wiki/Lake_Vegoritida
+796: Toponym: Norfolk: https://en.wikipedia.org/wiki/Norfolk
+797: Toponym: Killinane | Wiki link: https://en.wikipedia.org/wiki/Killinane
+798: Toponym: Central Macedonia: https://en.wikipedia.org/wiki/Central_Macedonia
+799: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+800: County Cork: https://en.wikipedia.org/wiki/County_Cork
+801: Smallest county of England: https://en.wikipedia.org/wiki/Rutland
+802: Toponym: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+803: Toponym: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland
+804: Thessaloniki: https://en.wikipedia.org/wiki/Thessaloniki
+805: Toponym: England: https://en.wikipedia.org/wiki/England
+806: Toponym: Kastanas beach: https://en.wikipedia.org/wiki/Kastanas_beach
+807: Toponym: Cork: https://en.wikipedia.org/wiki/Cork
+808: Toponym: Lough Ramor: https://en.wikipedia.org/wiki/Lough_Ramor
+809: Toponym: Lake Windermere: https://en.wikipedia.org/wiki/Lake_Windermere
+810: Toponym: Jacksonville, Florida: https://en.wikipedia.org/wiki/Jacksonville,_Florida
+811: Toponym: Largest lake in Kansas: https://en.wikipedia.org/wiki/List_of_lakes_of_Kansas
+812: Toponym: Anchorage: https://en.wikipedia.org/wiki/Anchorage,_Alaska
+813: Los Angeles County: https://en.wikipedia.org/wiki/Los_Angeles_County,_California
+814: Toponym: Clark County, Nevada: https://en.wikipedia.org/wiki/Clark_County,_Nevada
+815: Kansas: https://en.wikipedia.org/wiki/Kansas
+816: Toponym: Ireland: https://en.wikipedia.org/wiki/Ireland
+817: Liverpool: https://en.wikipedia.org/wiki/Liverpool | United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+818: Toponym: Houston: https://en.wikipedia.org/wiki/Houston
+819: Alaska: https://en.wikipedia.org/wiki/Alaska
+820: Toponym: City of London Wiki link: https://en.wikipedia.org/wiki/City_of_London
+821: Toponym: Loch Lomond: https://en.wikipedia.org/wiki/Loch_Lomond
+822: Toponym: County Dublin: https://en.wikipedia.org/wiki/County_Dublin
+823: Toponym: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+824: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+825: Toponym: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+826: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+827: Toponym: Greek municipality: https://en.wikipedia.org/wiki/Greek_municipality
+828: Toponym: Municipality of Oropos: https://en.wikipedia.org/wiki/Oropos
+829: Toponym: counties Wiki link: https://en.wikipedia.org/wiki/County
+830: Toponym: Athens: https://en.wikipedia.org/wiki/Athens
+831: Plymouth: https://en.wikipedia.org/wiki/Plymouth
+832: Essex: https://en.wikipedia.org/wiki/Essex
+833: Lough Neagh: https://en.wikipedia.org/wiki/Lough_Neagh
+834: Toponym: Western Macedonia: https://en.wikipedia.org/wiki/Western_Macedonia
+835: Toponym: Greater London: https://en.wikipedia.org/wiki/Greater_London
+836: Municipality on the border of Wester Macedonia with the smallest population: Wiki link not available.
+837: Oxford: https://en.wikipedia.org/wiki/Oxford
+838: Toponym: County Wicklow: https://en.wikipedia.org/wiki/County_Wicklow
+839: Toponym: Athens: https://en.wikipedia.org/wiki/Athens
+840: Toponym: City of London: https://en.wikipedia.org/wiki/City_of_London
+841: Toponym: County Kerry: https://en.wikipedia.org/wiki/County_Kerry
+842: Toponym: Smallest lake in England: https://en.wikipedia.org/wiki/Smallest_lake_in_England
+843: Toponym: Peloponnese: https://en.wikipedia.org/wiki/Peloponnese
+844: Toponym: Allerdale: https://en.wikipedia.org/wiki/Allerdale | Copeland: https://en.wikipedia.org/wiki/Copeland
+845: Toponym: County Wicklow: https://en.wikipedia.org/wiki/County_Wicklow
+846: Toponym: North Yorkshire: https://en.wikipedia.org/wiki/North_Yorkshire
+847: Toponym: Largest rural area: https://en.wikipedia.org/wiki/Rural_area
+848: Toponym: England: https://en.wikipedia.org/wiki/England
+849: Alaska: https://en.wikipedia.org/wiki/Alaska
+850: Toponym: England: https://en.wikipedia.org/wiki/England
+851: Toponym: Sam Houston National Forest: https://en.wikipedia.org/wiki/Sam_Houston_National_Forest
+852: Lough Neagh: https://en.wikipedia.org/wiki/Lough_Neagh
+853: Toponym: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+854: Toponym: Phoenix, Arizona: https://en.wikipedia.org/wiki/Phoenix,_Arizona
+855: England: https://en.wikipedia.org/wiki/England
+856: Toponym: Caledonian Canal: https://en.wikipedia.org/wiki/Caledonian_Canal | Forth and Clyde Canal: https://en.wikipedia.org/wiki/Forth_and_Clyde_Canal | Union Canal: https://en.wikipedia.org/wiki/Union_Canal_(Scotland)
+857: Toponym: Longest canal in England: https://en.wikipedia.org/wiki/Grand_Union_Canal
+858: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland | United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+859: Toponym: Lough Derg | Wiki link: https://en.wikipedia.org/wiki/Lough_Derg
+860: Toponym: Mount Olympus National Park: https://en.wikipedia.org/wiki/Mount_Olympus_National_Park
+861: Scotland's capital: https://en.wikipedia.org/wiki/Edinburgh | largest city: https://en.wikipedia.org/wiki/Glasgow
+862: Toponym: Largest uninhabited island: https://en.wikipedia.org/wiki/List_of_uninhabited_islands
+863: Toponym: Peloponnese prefecture: https://en.wikipedia.org/wiki/Peloponnese
+864: Toponym: Lake Volvi: https://en.wikipedia.org/wiki/Lake_Volvi
+865: Toponym: Beaches in Greece: https://en.wikipedia.org/wiki/Beaches_in_Greece
+866: Smallest county of England: https://en.wikipedia.org/wiki/Rutland
+867: Smallest municipality of Greece: https://en.wikipedia.org/wiki/List_of_municipalities_of_Greece
+868: Attica: https://en.wikipedia.org/wiki/Attica | Crete: https://en.wikipedia.org/wiki/Crete
+869: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+870: Toponym: Inverness: https://en.wikipedia.org/wiki/Inverness | Toponym: Dumfries: https://en.wikipedia.org/wiki/Dumfries
+871: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+872: Toponym: Easternmost towns of England: https://en.wikipedia.org/wiki/Easternmost_towns_of_England
+873: English district: https://en.wikipedia.org/wiki/Lake_District
+874: County Cork: https://en.wikipedia.org/wiki/County_Cork
+875: Toponym: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+876: Toponym: County Cavan: https://en.wikipedia.org/wiki/County_Cavan
+877: Island of Greece: https://en.wikipedia.org/wiki/List_of_islands_of_Greece
+878: Toponym: Cumbria: https://en.wikipedia.org/wiki/Cumbria
+879: Toponym: UK counties with the most forests: https://en.wikipedia.org/wiki/Forests_and_woodlands_of_the_United_Kingdom#Counties_with_the_most_forests
+880: County of England: https://en.wikipedia.org/wiki/County_of_England
+881: Barony: wiki link
+882: Toponym: British Counties: https://en.wikipedia.org/wiki/Counties_of_the_United_Kingdom
+883: Toponym: Irish Baronies: https://en.wikipedia.org/wiki/Baronies_of_Ireland
+884: Toponym: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+885: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+886: Toponym: Nevada: https://en.wikipedia.org/wiki/Nevada
+887: Toponym: County Cork: https://en.wikipedia.org/wiki/County_Cork
+888: County Cork: https://en.wikipedia.org/wiki/County_Cork
+889: Toponym: Texan county: https://en.wikipedia.org/wiki/List_of_counties_in_Texas
+890: Texas: https://en.wikipedia.org/wiki/Texas | Alabama: https://en.wikipedia.org/wiki/Alabama
+891: Toponym: Texas counties: https://en.wikipedia.org/wiki/List_of_counties_in_Texas
+892: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+893: Toponym: Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+894: English county: https://en.wikipedia.org/wiki/English_county
+895: San Francisco: https://en.wikipedia.org/wiki/San_Francisco
+896: Sacramento: https://en.wikipedia.org/wiki/Sacramento,_California
+897: Toponym: Mount Shuksan Waterfalls: https://en.wikipedia.org/wiki/Mount_Shuksan
+898: Toponym: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+899: Toponym: Northern Ireland: https://en.wikipedia.org/wiki/Northern_Ireland
+900: Toponym: Belfast | Wiki link: https://en.wikipedia.org/wiki/Belfast
+901: Toponym: Athens Wiki link: https://en.wikipedia.org/wiki/Athens
+902: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+903: Los Angeles: https://en.wikipedia.org/wiki/Los_Angeles
+904: Loch Ness: https://en.wikipedia.org/wiki/Loch_Ness
+905: Toponym: Ireland: https://en.wikipedia.org/wiki/Ireland
+906: John F. Kennedy International Airport: https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport
+907: River Liffey: https://en.wikipedia.org/wiki/River_Liffey
+908: Dublin: https://en.wikipedia.org/wiki/Dublin
+909: Toponym: Lower Ghaghri Falls: https://en.wikipedia.org/wiki/Lower_Ghaghri_Falls
+910: New York City: https://en.wikipedia.org/wiki/New_York_City
+911: Scotland: https://en.wikipedia.org/wiki/Scotland
+912: Victoria Falls: https://en.wikipedia.org/wiki/Victoria_Falls
+913: North Somerset: https://en.wikipedia.org/wiki/North_Somerset
+914: Skye: https://en.wikipedia.org/wiki/Skye
+915: Awali River: https://en.wikipedia.org/wiki/Awali_River
+916: Toponym: Dnyanganga river: https://en.wikipedia.org/wiki/Dnyanganga_river
+917: Mount Rushmore: https://en.wikipedia.org/wiki/Mount_Rushmore
+918: Grand Canyon: https://en.wikipedia.org/wiki/Grand_Canyon
+919: Detroit: https://en.wikipedia.org/wiki/Detroit
+920: London: https://en.wikipedia.org/wiki/London
+921: Bala Lake: https://en.wikipedia.org/wiki/Bala_Lake
+922: Loch Awe: https://en.wikipedia.org/wiki/Loch_Awe
+923: Lake Taupo: https://en.wikipedia.org/wiki/Lake_Taupo
+924: Washington: https://en.wikipedia.org/wiki/Washington,_D.C.
+925: Buckingham Palace: https://en.wikipedia.org/wiki/Buckingham_Palace
+926: England: https://en.wikipedia.org/wiki/England
+927: New York: https://en.wikipedia.org/wiki/New_York_City | United States: https://en.wikipedia.org/wiki/United_States
+928: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland
+929: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland
+930: Athens: https://en.wikipedia.org/wiki/Athens | New York City: https://en.wikipedia.org/wiki/New_York_City
+931: Ireland: https://en.wikipedia.org/wiki/Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland
+932: MoMA P.S. 1: https://en.wikipedia.org/wiki/MoMA_P.S._1
+933: Toponym: Dublin | Wiki link: https://en.wikipedia.org/wiki/Dublin
+934: Key Largo: https://en.wikipedia.org/wiki/Key_Largo
+935: Toponym: Edinburgh | Wiki link: https://en.wikipedia.org/wiki/Edinburgh
+936: Lake Como: https://en.wikipedia.org/wiki/Lake_Como
+937: Liverpool: https://en.wikipedia.org/wiki/Liverpool | Liverpool F.C.: https://en.wikipedia.org/wiki/Liverpool_F.C.
+938: Toponym: New York City: https://en.wikipedia.org/wiki/New_York_City
+939: Toponym: Dublin: https://en.wikipedia.org/wiki/Dublin
+940: New York: https://en.wikipedia.org/wiki/New_York_City#Museums
+941: Athens: https://en.wikipedia.org/wiki/Athens#Museums
+942: Toponym: List of airports in the United States - https://en.wikipedia.org/wiki/List_of_airports_in_the_United_States
+943: Dallas: https://en.wikipedia.org/wiki/Dallas
+944: Toponym: Dublin: https://en.wikipedia.org/wiki/Dublin
+945: Mountains in Scotland: https://en.wikipedia.org/wiki/Mountains_and_hills_of_Scotland
+946: Galway: https://en.wikipedia.org/wiki/Galway
+947: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+948: Athlone: https://en.wikipedia.org/wiki/Athlone
+949: Toponym: Washington, D.C.: https://en.wikipedia.org/wiki/Washington,_D.C.
+950: Statue of Liberty: https://en.wikipedia.org/wiki/Statue_of_Liberty
+951: Toponym: Royal Armouries Museum: https://en.wikipedia.org/wiki/Royal_Armouries_Museum
+952: Toponym: Belfast | Country: Northern Ireland | Wiki link: https://en.wikipedia.org/wiki/Belfast
+953: Toponym: Non-metropolitan counties of England: https://en.wikipedia.org/wiki/Non-metropolitan_counties_of_England
+954: Toponym: Metropolitan counties of England: https://en.wikipedia.org/wiki/Metropolitan_counties_of_England
+955: Washington, D.C.: https://en.wikipedia.org/wiki/Washington,_D.C.
+956: Toponym: Kansas: https://en.wikipedia.org/wiki/Kansas
+957: Toponym: New York: https://en.wikipedia.org/wiki/New_York
+958: Toponym: Rivers in Ireland: https://en.wikipedia.org/wiki/List_of_rivers_of_Ireland
+959: Toponym: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+960: Norfolk: https://en.wikipedia.org/wiki/Norfolk
+961: Toponym: USA: https://en.wikipedia.org/wiki/United_States
+962: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+963: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+964: Toponym: Texas: https://en.wikipedia.org/wiki/Texas
+965: Houston: https://en.wikipedia.org/wiki/Houston
+966: Miami: https://en.wikipedia.org/wiki/Miami
+967: Toponym: Brighton | Wiki link: https://en.wikipedia.org/wiki/Brighton
+968: Belfast: https://en.wikipedia.org/wiki/Belfast
+969: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+970: England: https://en.wikipedia.org/wiki/England
+971: Glasgow: https://en.wikipedia.org/wiki/Glasgow
+972: Toponym: Central London Wiki link: https://en.wikipedia.org/wiki/Central_London
+973: Toponym: London: https://en.wikipedia.org/wiki/London
+974: Newcastle Emlyn: https://en.wikipedia.org/wiki/Newcastle_Emlyn
+975: Toponym: Ireland: https://en.wikipedia.org/wiki/Ireland
+976: Toponym: Ireland: https://en.wikipedia.org/wiki/Ireland
+977: Toponym: United States of America: https://en.wikipedia.org/wiki/United_States
+978: Intercontinental Hotels: https://en.wikipedia.org/wiki/InterContinental_Hotels_Group
+979: Scotland: https://en.wikipedia.org/wiki/Scotland
+980: Toponym: Georgia (U.S. state) - https://en.wikipedia.org/wiki/Georgia_(U.S._state)
+981: Cork: https://en.wikipedia.org/wiki/Cork
+982: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+983: Seattle: https://en.wikipedia.org/wiki/Seattle
+984: Toponym: London: https://en.wikipedia.org/wiki/London
+985: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+986: Toponym: Texas: https://en.wikipedia.org/wiki/Texas
+987: Toponym: Leinster: https://en.wikipedia.org/wiki/Leinster
+988: California: https://en.wikipedia.org/wiki/California
+989: Toponym: Kansas City, Missouri: https://en.wikipedia.org/wiki/Kansas_City,_Missouri
+990: Toponym: Arkansas: https://en.wikipedia.org/wiki/Arkansas
+991: Kansas City: https://en.wikipedia.org/wiki/Kansas_City,_Missouri
+992: Toponym: Washington, D.C.: https://en.wikipedia.org/wiki/Washington,_D.C.
+993: London: https://en.wikipedia.org/wiki/London | England: https://en.wikipedia.org/wiki/England
+994: Toponym: Clondalkin: https://en.wikipedia.org/wiki/Clondalkin
+995: Leitrim: https://en.wikipedia.org/wiki/County_Leitrim | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland
+996: Los Angeles County: https://en.wikipedia.org/wiki/Los_Angeles_County
+997: Toponym: Oldest monument in the US: https://en.wikipedia.org/wiki/Oldest_monument_in_the_United_States
+998: Toponym: Ireland: https://en.wikipedia.org/wiki/Ireland
+999: Toponym: Kansas: https://en.wikipedia.org/wiki/Kansas
+1000: Toponym: Phoenix, Arizona: https://en.wikipedia.org/wiki/Phoenix,_Arizona
+1001: Galway: https://en.wikipedia.org/wiki/County_Galway | Connacht: https://en.wikipedia.org/wiki/Connacht
+1002: Toponym: Mississippi River: https://en.wikipedia.org/wiki/Mississippi_River
+1003: Toponym: Rivers in the United States: https://en.wikipedia.org/wiki/List_of_rivers_of_the_United_States
+1004: Toponym: Europe: https://en.wikipedia.org/wiki/Europe
+1005: Settlement: Paris: https://en.wikipedia.org/wiki/Paris
+1006: Toponym: Longest river in Greece: https://en.wikipedia.org/wiki/Acheloos
+1007: Toponym: Oldest historical site in the United States: https://en.wikipedia.org/wiki/Oldest_historical_site_in_the_United_States
+1008: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+1009: Toponym: Oroville Dam Wiki link: https://en.wikipedia.org/wiki/Oroville_Dam
+1010: Toponym: Oldest castle in Pennsylvania: https://en.wikipedia.org/wiki/Glen_Cairn_Hall
+1011: Toponym: San Miguel Chapel Wiki link: https://en.wikipedia.org/wiki/San_Miguel_Mission
+1012: Toponym: Dublin: https://en.wikipedia.org/wiki/Dublin
+1013: New York: https://en.wikipedia.org/wiki/New_York_City
+1014: Toponym: Willis Tower: https://en.wikipedia.org/wiki/Willis_Tower
+1015: Toponym: United Kingdom: https://en.wikipedia.org/wiki/United_Kingdom
+1016: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+1017: Toponym: California: https://en.wikipedia.org/wiki/California
+1018: Region of Central Greece: https://en.wikipedia.org/wiki/Central_Greece
+1019: Cambridge: https://en.wikipedia.org/wiki/Cambridge
+1020: Toponym: Kalithea Wiki link: https://en.wikipedia.org/wiki/Kalithea
+1021: Toponym: Andraveda Wiki link: https://en.wikipedia.org/wiki/Andraveda
+1022: Toponym: Psara iki link: https://en.wikipedia.org/wiki/Psara
+1023: Toponym: Nikaia Agios Ioannis Rentis Wiki link: https://en.wikipedia.org/wiki/Nikaia_Agios_Ioannis_Rentis
+1024: Manchester: https://en.wikipedia.org/wiki/Manchester
+1025: Oxfordshire: https://en.wikipedia.org/wiki/Oxfordshire | Kent: https://en.wikipedia.org/wiki/Kent
+1026: Oxfordshire: https://en.wikipedia.org/wiki/Oxfordshire | Kent: https://en.wikipedia.org/wiki/Kent
+1027: County Galway: https://en.wikipedia.org/wiki/County_Galway | Claregalway: https://en.wikipedia.org/wiki/Claregalway
+1028: Samos: https://en.wikipedia.org/wiki/Samos | Rodos: https://en.wikipedia.org/wiki/Rhodes
+1029: Cork: https://en.wikipedia.org/wiki/Cork | Galway: https://en.wikipedia.org/wiki/Galway
+1030: Toponym: Bublin: wiki link not found
+1031: Athens: https://en.wikipedia.org/wiki/Athens | Kallithea: https://en.wikipedia.org/wiki/Kallithea,_Attica
+1032: Kalmata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli
+1033: Liverpool: https://en.wikipedia.org/wiki/Liverpool | Manchester: https://en.wikipedia.org/wiki/Manchester
+1034: County Sligo: https://en.wikipedia.org/wiki/County_Sligo
+1035: Naxos: https://en.wikipedia.org/wiki/Naxos
+1036: Toponym: Ipiros region Wiki link: https://en.wikipedia.org/wiki/Epirus
+1037: Toponym: Belfast: https://en.wikipedia.org/wiki/Belfast
+1038: Athens: https://en.wikipedia.org/wiki/Athens
+1039: Norfolk: https://en.wikipedia.org/wiki/Norfolk
+1040: Toponym: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+1041: County Cork: https://en.wikipedia.org/wiki/County_Cork
+1042: Toponym: Staffordshire: https://en.wikipedia.org/wiki/Staffordshire
+1043: Toponym: England: https://en.wikipedia.org/wiki/England
+1044: County: https://en.wikipedia.org/wiki/Counties_of_the_United_Kingdom
+1045: County: https://en.wikipedia.org/wiki/County
+1046: Toponym: Rivers in Greece: https://en.wikipedia.org/wiki/List_of_rivers_of_Greece
+1047: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+1048: Toponym: Essex county: https://en.wikipedia.org/wiki/Essex_County,_New_Jersey
+1049: TULLYHAW Barony: https://en.wikipedia.org/wiki/Tullyhaw_Barony
+1050: Toponym: Crete region: https://en.wikipedia.org/wiki/Crete
+1051: Toponym: New York: https://en.wikipedia.org/wiki/New_York
+1052: Toponym: England | Wiki link: https://en.wikipedia.org/wiki/England
+1053: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+1054: Toponym: England: https://en.wikipedia.org/wiki/England
+1055: toponym: lakeside villages
+1056: Toponym: Isle of Lakes: https://en.wikipedia.org/wiki/Isle_of_Lakes
+1057: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+1058: Toponym: United States of America: https://en.wikipedia.org/wiki/United_States_of_America
+1059: Toponym: Irish counties: https://en.wikipedia.org/wiki/Counties_of_Ireland
+1060: Toponym: Greece: https://en.wikipedia.org/wiki/Greece
+1061: Rhodes: https://en.wikipedia.org/wiki/Rhodes
+1062: Toponym: Mount Olympus National Park: https://en.wikipedia.org/wiki/Mount_Olympus_National_Park
+1063: Toponym: counties: wiki link
+1064: United States: https://en.wikipedia.org/wiki/United_States
+1065: Irish barony: wiki link not available
+1066: Toponym: Cambridgeshire: https://en.wikipedia.org/wiki/Cambridgeshire
+1067: Toponym: Belfast | North Ireland: https://en.wikipedia.org/wiki/Belfast
+1068: Toponym: Los Angeles Wiki link: https://en.wikipedia.org/wiki/Los_Angeles
+1069: Toponym: New York City | Wiki link: https://en.wikipedia.org/wiki/New_York_City
+1070: New York: https://en.wikipedia.org/wiki/New_York_City
+1071: Belfast: https://en.wikipedia.org/wiki/Belfast
+1072: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+1073: Seattle: https://en.wikipedia.org/wiki/Seattle
+1074: Toponym: United States: https://en.wikipedia.org/wiki/United_States
+1075: Liverpool: https://en.wikipedia.org/wiki/Liverpool
+1076: Eretria: https://en.wikipedia.org/wiki/Eretria
+1077: Toponym: Siros Wiki link: https://en.wikipedia.org/wiki/Siros
+1078: Syros: https://en.wikipedia.org/wiki/Syros
+1079: Chikago: https://en.wikipedia.org/wiki/Chicago
+1080: Dublin: https://en.wikipedia.org/wiki/Dublin | Kilkenny: https://en.wikipedia.org/wiki/Kilkenny
+1081: Oxford: https://en.wikipedia.org/wiki/Oxford | Cambridge: https://en.wikipedia.org/wiki/Cambridge
+1082: Thessaly: https://en.wikipedia.org/wiki/Thessaly
+1083: Toponym: Greater London Authority: https://en.wikipedia.org/wiki/Greater_London_Authority
+1084: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland
+1085: Ioannina: https://en.wikipedia.org/wiki/Ioannina
+1086: Bedford: https://en.wikipedia.org/wiki/Bedford
+1087: Los Angeles: https://en.wikipedia.org/wiki/Los_Angeles
+1088: Toponym: Manchester: https://en.wikipedia.org/wiki/Manchester | England: https://en.wikipedia.org/wiki/England
+1089: Southampton: https://en.wikipedia.org/wiki/Southampton

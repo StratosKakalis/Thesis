@@ -45,6 +45,14 @@ class Benchmark():
             return GPT_Inference(question, "few3")
         elif (model == "gpt-few4"):
             return GPT_Inference(question, "few4")
+        elif (model == "gpt-few5"):
+            return GPT_Inference(question, "few5")
+        elif (model == "gpt-few6"):
+            return GPT_Inference(question, "few6")
+        elif (model == "gpt-few7"):
+            return GPT_Inference(question, "few7")
+        elif (model == "gpt-few8"):
+            return GPT_Inference(question, "few8")
         elif (model == "wat"):
             return WAT_Inference(question)
         elif (model == "rel"):
@@ -117,9 +125,9 @@ class Benchmark():
         print(self.df)
 
     def Inference_Pipeline(self):
-        skip_until = 769
-        #model_list = {"gpt-one", "gpt-few", "rel", "wat"}
-        model_list = {"gpt-few3"}
+        skip_until = 0
+        #model_list = ["gpt-one", "gpt-few", "rel", "wat"]
+        model_list = ["gpt-few5", "gpt-few6", "gpt-few7"]
         # For each model that we test, run all the questions and save the results in a respective file.
         for model in model_list:
             print("Testing model: " + model)
@@ -296,6 +304,6 @@ bench = Benchmark()
 # Create a dataframe from the labaled dataset.
 bench.Create_Dataframe()
 # Run inference on the selected models.
-bench.Inference_Pipeline()
+#bench.Inference_Pipeline()
 # Compare model responses to the ground truth. 
 bench.Evaluate_Pipeline()

@@ -47,7 +47,24 @@ Report for the progress since the last meeting:
 
         2.2) Performing prompt engineering to get better results from GPT-few and testing multiple prompts:
                Model| Precision|    Recall|   F1-Score| Wikification Accuracy
-            GPT-few2|0.93931837|0.94798657| 0.94363256|71.26666666666667
-                    |          |          |           |
-                    |          |          |           |
-                    |          |          |           |
+            GPT-few2|0.93931837|0.94798657|0.943632567|71.26666666666667
+            GPT-few3|0.95527426|0.94886839|0.952060555|68.35526315789474
+            GPT-few4|0.95911949|0.76633165|0.851955301|77.24425887265136
+            GPT-few5|0.91848264|0.95230125|0.935086277|68.66059817945384
+            GPT-few6|0.51570881|0.56176961|0.537754695|53.70919881305638
+            GPT-few7|0.83886639|0.86839899|0.853377265|59.274924471299094
+
+
+
+            Observations: -Since the gpt-few and few2 the model seems to realize well that it's task is toponym recognition and wikification and very rarely answers other questions or does not follow the required 
+                           format. This means that we have formed a prompt that takes good care of that issue. One issue that remains is the model sometimes responds with a toponym followed by 'No toponym found'
+                           also sometimes this way the model avoids providing a link. Furthermore, the model is currently incapable of saying it isn't confident for a link (some cases links don't exist and Unavailable. 
+                           should be printed).
+            
+                          -GPT-few4 model was created with a major difference from previous models. It tests showing the examples of questions and answers in the user role with hopes of gpt completing the series 
+                           of questions and answers rather than answering. This however introduces the error of gpt answering with full questions and answers in many occations which is the primary reason for this 
+                           model's failure. Interestingly this model showcases the best wikification accuracy among all gpt models so far, even better than REL.
+                          -GPT-few6: I tried explain the format of the output more clearly but the model ended up adopting the 'Wiki link:' in some of it's answers. The model also starts a lot of it's answers with 
+                           'Toponym:' which is perceived as the toponym name by the evaluator. That's why this model failed. If we managed the same results without 'Toponym: and Wiki links:' this could prove powerful.
+                          -GPT-few7: adopted a different pattern. While it still (sometimes) answers with questions and answers it often starts those faulty answers with 'Sorry I cannot browse the internet to provide
+                           links' or something along that line. Clearly the model assumes we are expecting something different of it with this prompt.

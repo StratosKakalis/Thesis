@@ -61,6 +61,43 @@ def GPT_Inference(question, learning_type):
          "Q: " + question + " A: "},
     ]
 
+    # Few-shot learning version 5.      Simplified version of prompt 3.
+    few5_conversation = [
+        {"role": "system", "content": "I want to identify toponyms from sentences. Can you identify the toponyms in the given questions? The number of"
+         "toponyms in each question varies from 0 to 3 and you have to answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples:"
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens"
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland"
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland"
+         "Q: Which state in the US has the most neighboring states? A: United States: https://en.wikipedia.org/wiki/United_States"},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
+    # Few-shot learning version 6.      Simplified version of prompt 4, trying to see if placing more meaning on the user content and less on the system content affects the predictions. 
+    few6_conversation = [
+        {"role": "system", "content": "You are a toponym recognition model. Only respond with: toponym: wiki link"},
+        {"role": "user", "content": "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens"
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland"
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland"
+         "Q: Which state in the US has the most neighboring states? A: United States: https://en.wikipedia.org/wiki/United_States"
+         "Q: " + question + " A: "},
+    ]
+
+    # Few-shot learning version 7.      Different variation of 6, with more info for both user and system.
+    few7_conversation = [
+        {"role": "system", "content": "You are a toponym recognition model. Only respond with: toponym: wiki link"},
+        {"role": "user", "content": "I want to identify toponyms from sentences. Can you identify the toponyms in the given questions? The number of"
+         "toponyms in each question varies from 0 to 3 and you have to answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples:"
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens"
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland"
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland"
+         "Q: Which state in the US has the most neighboring states? A: United States: https://en.wikipedia.org/wiki/United_States"
+         "Q: " + question + " A: "},
+    ]
+
+
     if (learning_type == "one"):
         conversation = one_conversation
     elif (learning_type == "few"):
@@ -71,6 +108,14 @@ def GPT_Inference(question, learning_type):
         conversation = few3_conversation
     elif (learning_type == "few4"):
         conversation = few4_conversation
+    elif (learning_type == "few5"):
+        conversation = few5_conversation
+    elif (learning_type == "few6"):
+        conversation = few6_conversation
+    elif (learning_type == "few7"):
+        conversation = few7_conversation
+    # elif (learning_type == "few8"):
+    #     conversation = few8_conversation
 
 
     # Make a chat completion request
