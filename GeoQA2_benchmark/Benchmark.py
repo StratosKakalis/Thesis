@@ -19,6 +19,9 @@ def is_subset(value1, value2, threshold=0.65):
     set1 = set(value1.lower().split())
     set2 = set(value2.lower().split())
 
+    if value1 == value2 == '':
+        return False
+
     return (
         is_similar(value1, value2, threshold) or
         set1 <= set2 or
@@ -53,6 +56,8 @@ class Benchmark():
             return GPT_Inference(question, "few7")
         elif (model == "gpt-few8"):
             return GPT_Inference(question, "few8")
+        elif (model == "gpt-few9"):
+            return GPT_Inference(question, "few9")
         elif (model == "wat"):
             return WAT_Inference(question)
         elif (model == "rel"):
@@ -127,7 +132,7 @@ class Benchmark():
     def Inference_Pipeline(self):
         skip_until = 0
         #model_list = ["gpt-one", "gpt-few", "rel", "wat"]
-        model_list = ["gpt-few5", "gpt-few6", "gpt-few7"]
+        model_list = ["gpt-few9"]
         # For each model that we test, run all the questions and save the results in a respective file.
         for model in model_list:
             print("Testing model: " + model)
@@ -195,7 +200,7 @@ class Benchmark():
                     df = df._append({'key': key, 'toponym1': toponym1, 'wiki1': wiki1, 'toponym2': toponym2, 'wiki2': wiki2, 'toponym3': toponym3, 'wiki3': wiki3}, ignore_index=True)
 
             # Display the resulting DataFrame
-            print(df)
+            #print(df)
 
             # Now evaluate the models performance by comparing df to the ground truth dataframe (self.df)
             # Select only the relevant columns before merging.

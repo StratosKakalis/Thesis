@@ -97,6 +97,32 @@ def GPT_Inference(question, learning_type):
          "Q: " + question + " A: "},
     ]
 
+    # Few-shot learning version 8.      Another clone of experiment 3, it's the best performing experiment so far.
+    few8_conversation = [
+        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
+         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
+    # Few-shot learning version 9.      Deviation from 8 with more questions and unavailable instead of blank answers.
+    few9_conversation = [
+        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
+         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
+         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
+         "Q: Which municipalities contain at least one beach and one village? A: "},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
 
     if (learning_type == "one"):
         conversation = one_conversation
@@ -114,8 +140,10 @@ def GPT_Inference(question, learning_type):
         conversation = few6_conversation
     elif (learning_type == "few7"):
         conversation = few7_conversation
-    # elif (learning_type == "few8"):
-    #     conversation = few8_conversation
+    elif (learning_type == "few8"):
+        conversation = few8_conversation
+    elif (learning_type == "few9"):
+        conversation = few9_conversation
 
 
     # Make a chat completion request
