@@ -6,7 +6,7 @@ Report for the progress since the last meeting:
         This issue was resolved by automating the entire evaluation process. 
         
         1.1) I created a dataset with all the correct toponyms and correct corresponding wikipedia links for each of the 1089 questions in the given dataset to evaluate the models on toponym recognition 
-        and wikification. Furthermore, I corrected some spelling error in the original questions to allow for better predictions (even though later on I also take measures for typos). From now on I will
+        and wikification. Furthermore, I corrected some spelling errors in the original questions to allow for better predictions (even though later on I also take measures for typos). From now on I will
         refer to this labeled dataset as the ground truth values (toponyms and links).
 
         1.2) The evaluation is done based on three metrics. Precision, Recall and F1-score. In order to calculate those metrics we need the True-Positive(TP), False-Positive(FP) and False-Negative(FN) values.
