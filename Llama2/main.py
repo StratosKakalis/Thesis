@@ -1,8 +1,9 @@
 from transformers import AutoTokenizer
 import transformers
 import torch
+#huggingface-cli login
 
-model = "meta-llama/Llama-2-7b-chat-hf"
+model = "meta-llama/Llama-2-7b-hf"
 
 tokenizer = AutoTokenizer.from_pretrained(model)
 pipeline = transformers.pipeline(
