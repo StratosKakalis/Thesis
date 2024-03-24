@@ -14,7 +14,7 @@ pipeline = transformers.pipeline(
 )
 
 sequences = pipeline(
-    'I liked "Breaking Bad" and "Band of Brothers". Do you have any recommendations of other shows I might like?\n',
+    'Only respond with OSM Overpass QL code. Write an Overpass QL query equivalent to this natural language question: "What is the population of Central Greece?"\n',
     do_sample=True,
     top_k=10,
     num_return_sequences=1,
@@ -25,18 +25,7 @@ for seq in sequences:
     print(f"Result: {seq['generated_text']}")
 
 sequences = pipeline(
-    'Only respond with SPARQL code. Write a SQARQL query equivalent to this natural language question: "What is the population of Central Greece?"\n',
-    do_sample=True,
-    top_k=10,
-    num_return_sequences=1,
-    eos_token_id=tokenizer.eos_token_id,
-    max_length=200,
-)
-for seq in sequences:
-    print(f"Result: {seq['generated_text']}")
-
-sequences = pipeline(
-    'Convert the sentence: "Where is Liverpool located?" into a GeoSPARQL query.\n',
+    'Convert the sentence: "Where is Liverpool located?" into an Overpass QL query.\n',
     do_sample=True,
     top_k=10,
     num_return_sequences=1,
