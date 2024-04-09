@@ -33,7 +33,7 @@ Answer: {response}
 """
 
 model = "meta-llama/Llama-2-7b-hf"
-
+print("Load shards")
 tokenizer = AutoTokenizer.from_pretrained(model)
 pipeline = transformers.pipeline(
     "text-generation",
@@ -86,6 +86,7 @@ def main():
 
         if st.button("Ask"):
             response = generate_query(prompt=CHAT_TEMPLATE.format(history=st.session_state.chat_history, human_input=chat))
+            print(response)
 
             # Display the response as pure text
             st.write(response)
