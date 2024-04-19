@@ -123,6 +123,182 @@ def GPT_Inference(question, learning_type):
         {"role": "user", "content": "Q: " + question + " A: "},
     ]
 
+    custom1_conversation = [
+        {"role": "system", "content": "You are an expert SPARQL query generator."
+         """For each question that the user supplies, the generator will convert it into a valid SPARQL query that can be used to answer the question."""},
+        {"role": "user", "content": """Human: "Where is the Dorset county located?"
+Generator:"""},
+    ]
+
+    custom2_conversation = [
+        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
+         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
+         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
+         "Q: Which municipalities contain at least one beach and one village? A: "},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
+    custom3_conversation = [
+        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
+         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
+         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
+         "Q: Which municipalities contain at least one beach and one village? A: "},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
+    custom4_conversation = [
+        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
+         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
+         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
+         "Q: Which municipalities contain at least one beach and one village? A: "},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
+    custom5_conversation = [
+        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
+         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
+         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
+         "Q: Which municipalities contain at least one beach and one village? A: "},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
+    custom6_conversation = [
+        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
+         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
+         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
+         "Q: Which municipalities contain at least one beach and one village? A: "},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
+    custom7_conversation = [
+        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
+         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
+         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
+         "Q: Which municipalities contain at least one beach and one village? A: "},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
+    custom8_conversation = [
+        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
+         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
+         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
+         "Q: Which municipalities contain at least one beach and one village? A: "},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
+    custom9_conversation = [
+        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
+         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
+         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
+         "Q: Which municipalities contain at least one beach and one village? A: "},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
+    custom10_conversation = [
+        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
+         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
+         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
+         "Q: Which municipalities contain at least one beach and one village? A: "},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
+    custom11_conversation = [
+        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
+         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
+         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
+         "Q: Which municipalities contain at least one beach and one village? A: "},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
+    custom12_conversation = [
+        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
+         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
+         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
+         "Q: Which municipalities contain at least one beach and one village? A: "},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
+    custom13_conversation = [
+        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
+         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
+         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
+         "Q: Which municipalities contain at least one beach and one village? A: "},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
+    custom14_conversation = [
+        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
+         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
+         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
+         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
+         "Q: Which is the largest rural area? A: "
+         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
+         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
+         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
+         "Q: Which municipalities contain at least one beach and one village? A: "},
+        {"role": "user", "content": "Q: " + question + " A: "},
+    ]
+
 
     if (learning_type == "one"):
         conversation = one_conversation
@@ -144,11 +320,40 @@ def GPT_Inference(question, learning_type):
         conversation = few8_conversation
     elif (learning_type == "few9"):
         conversation = few9_conversation
+    elif (learning_type == "custom1"):
+        conversation = custom1_conversation
+    elif (learning_type == "custom2"):
+        conversation = custom2_conversation
+    elif (learning_type == "custom3"):
+        conversation = custom3_conversation
+    elif (learning_type == "custom4"):
+        conversation = custom4_conversation
+    elif (learning_type == "custom5"):
+        conversation = custom5_conversation
+    elif (learning_type == "custom6"):
+        conversation = custom6_conversation
+    elif (learning_type == "custom7"):
+        conversation = custom7_conversation
+    elif (learning_type == "custom8"):
+        conversation = custom8_conversation
+    elif (learning_type == "custom9"):
+        conversation = custom9_conversation
+    elif (learning_type == "custom10"):
+        conversation = custom10_conversation
+    elif (learning_type == "custom11"):
+        conversation = custom11_conversation
+    elif (learning_type == "custom12"):
+        conversation = custom12_conversation
+    elif (learning_type == "custom13"):
+        conversation = custom13_conversation
+    elif (learning_type == "custom14"):
+        conversation = custom14_conversation
 
 
     # Make a chat completion request
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo-0613",
+        #model="gpt-3.5-turbo-0613",
+        model="gpt-4-turbo-2024-04-09",
         messages=conversation,
         max_tokens=70,
         temperature=0.2
