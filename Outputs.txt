@@ -184,3 +184,84 @@ Falcon-7b-instruct
 -'Generated text:E {?county rdfs:subClassOf+ yago:wordnet_county_102898711.?county yago:isLocatedIn+ yago:California.?county yago:wasCreatedOnDate?date.} ORDER BY DESC(?date) LIMIT 1"\nUser ',
 -'Generated text:T DISTINCT?uri WHERE { <http://dbpedia.org/ontology/Xynisteri> <http://dbpedia.org/ontology/Mavro>?uri <http://dbpedia.org/resource/Xynisteri> <http://dbpedia.org/resource/Mavro> }"\nUser ',
 -'Generated text:ASK WHERE {\nwd:Q1040 wdt:P853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 wd:Q853 w']
+
+GPT-4
+
+1:
+```sparql
+SELECT ?location
+WHERE {
+  wd:Q23148 wdt:P131 ?location.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+```
+2:
+```sparql
+SELECT ?population
+WHERE {
+  wd:Q152737 wdt:P1082 ?population.
+}
+```
+3:
+```sparql
+SELECT ?location
+WHERE {
+  ?dorset rdf:type yago:YagoGeoEntity ;
+          rdfs:label "Dorset"@en ;
+          yago:isLocatedIn ?location .
+}
+```
+4:
+```sparql
+SELECT ?river ?riverLabel WHERE {
+  ?river dbo:mouthOfWater ?deadsea.
+  ?deadsea rdfs:label "Dead Sea"@en.
+  ?river rdfs:label ?riverLabel.
+  FILTER (LANG(?riverLabel) = "en")
+}
+```
+5:
+```sparql
+SELECT ?personLabel ?occupationLabel WHERE {
+  ?person wdt:P31 wd:Q5; # instance of human
+          wdt:P21 wd:Q6581097; # gender male
+          rdfs:label "Hans Ertl"@en; # name Hans Ertl
+          wdt:P106
+6:
+```sparql
+SELECT ?area WHERE {
+  dbr:County_Galway dbo:areaTotal ?area.
+}
+```
+7:
+```sparql
+select distinct ?population where {
+  <http://yago-knowledge.org/resource/Piraeus> <http://yago-knowledge.org/resource/hasPopulation> ?population.
+}
+```
+8:
+"SELECT DISTINCT ?region WHERE { <http://dbpedia.org/resource/Tom_Perriello> <http://dbpedia.org/ontology/region> ?region }"
+9:
+```sparql
+SELECT ?parent ?parentLabel WHERE {
+  wd:Q905 wdt:P22|wdt:P25 ?parent.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+```
+10:
+"SELECT ?WKT WHERE { yago:Scotland geo:hasGeometry ?o. ?o geo:asWKT ?WKT. }"
+11:
+"SELECT DISTINCT ?county WHERE { ?county rdf:type y2geoo:OSM_county; geo:hasArea ?area . ?county y2geoo:isPartOf yago:British_Isles } ORDER BY ASC(?area) LIMIT 1"
+12:
+"ASK { ?leitrim yago:wordnet_county_108546183 ; yago:isLocatedIn yago:RepublicOfIreland . ?otherCounty yago:wordnet_county_108546183 ; yago:isLocatedIn yago:RepublicOfIreland . ?leitrim yago:has
+13:
+"SELECT DISTINCT ?location WHERE { 
+  ?xynisteri <http://dbpedia.org/ontology/region> ?location .
+  ?mavro <http://dbpedia.org/ontology/region> ?location .
+  <http://dbpedia.org/resource/Xynisteri> <http://www.w3.org/1999
+14:
+```sparql
+ASK WHERE {
+  wd:Q853 wdt:P106 wd:Q28389
+}
+```

@@ -131,172 +131,132 @@ Generator:"""},
     ]
 
     custom2_conversation = [
-        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
-         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
-         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
-         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
-         "Q: Which is the largest rural area? A: "
-         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
-         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
-         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
-         "Q: Which municipalities contain at least one beach and one village? A: "},
-        {"role": "user", "content": "Q: " + question + " A: "},
+        {"role": "system", "content": "You are an expert SPARQL query generator."
+         "You, the generator, create valid SPARQL queries. The user will provide a question and you will convert it into an equivalent SPARQL query that answers the user's question."},
+        {"role": "user", "content": """Human: "What is the population of Aegina ?"
+Generator:"""},
     ]
 
     custom3_conversation = [
-        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
-         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
-         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
-         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
-         "Q: Which is the largest rural area? A: "
-         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
-         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
-         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
-         "Q: Which municipalities contain at least one beach and one village? A: "},
-        {"role": "user", "content": "Q: " + question + " A: "},
+        {"role": "system", "content": "You are an expert SPARQL query generator."
+         "For each question that the user supplies, the generator (you) will convert it into a valid SPARQL query that can be used to answer the question. The query will be based on the YAGO knowledge graph."},
+        {"role": "user", "content": """Human: "Where is the Dorset county located?"
+Generator:"""},
     ]
 
     custom4_conversation = [
-        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
-         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
-         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
-         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
-         "Q: Which is the largest rural area? A: "
-         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
-         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
-         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
-         "Q: Which municipalities contain at least one beach and one village? A: "},
-        {"role": "user", "content": "Q: " + question + " A: "},
+        {"role": "system", "content": "You are an expert SPARQL query generator."
+         "For each question that the user supplies, the generator (you) will convert it into a valid SPARQL query that can be used to answer the question. The query will be based on the DBpedia knowledge graph."},
+        {"role": "user", "content": """Human: "What is the river whose mouth is in deadsea?"
+Generator:"""},
     ]
 
     custom5_conversation = [
-        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
-         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
-         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
-         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
-         "Q: Which is the largest rural area? A: "
-         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
-         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
-         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
-         "Q: Which municipalities contain at least one beach and one village? A: "},
-        {"role": "user", "content": "Q: " + question + " A: "},
+        {"role": "system", "content": "You are an expert SPARQL query generator."
+         "For each question that the user supplies, the generator (you) will convert it into a valid SPARQL query that can be used to answer the question. The query will be based on the Wikidata knowledge graph."},
+        {"role": "user", "content": """Human: "Was Hans Ertl a screenwriter?"
+Generator:"""},
     ]
 
     custom6_conversation = [
-        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
-         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
-         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
-         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
-         "Q: Which is the largest rural area? A: "
-         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
-         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
-         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
-         "Q: Which municipalities contain at least one beach and one village? A: "},
-        {"role": "user", "content": "Q: " + question + " A: "},
+        {"role": "system", "content": """You are an expert SPARQL query generator.
+        For each question that the user supplies, the generator (you) will convert it into a valid SPARQL query that can be used to answer the question.
+        Human: "Where is Oxfordshire located?"
+        Generator: "SELECT ?WKT WHERE { yago:Oxfordshire geo:hasGeometry ?o. ?o geo:asWKT ?WKT. }"""},
+        {"role": "user", "content": """Human: "What is the total area of County Galway?"
+Generator:"""},
     ]
 
     custom7_conversation = [
-        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
-         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
-         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
-         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
-         "Q: Which is the largest rural area? A: "
-         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
-         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
-         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
-         "Q: Which municipalities contain at least one beach and one village? A: "},
-        {"role": "user", "content": "Q: " + question + " A: "},
+        {"role": "system", "content": """You are an expert SPARQL query generator.
+        For each question that the user supplies, the generator (you) will convert it into a valid SPARQL query that can be used to answer the question. The query will be based on the YAGO knowledge graph.
+        Human: "What is the total area of Glengarra Wood forest?"
+        Generator: "select distinct (strdf:area(?geoWKT) as ?area) where { <http://yago-knowledge.org/resource/geoentity_Glengarra_Wood_3300941> geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. }" """},
+        {"role": "user", "content": """Human: "What is the population of Piraeus?"
+Generator:"""},
     ]
 
     custom8_conversation = [
-        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
-         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
-         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
-         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
-         "Q: Which is the largest rural area? A: "
-         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
-         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
-         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
-         "Q: Which municipalities contain at least one beach and one village? A: "},
-        {"role": "user", "content": "Q: " + question + " A: "},
+        {"role": "system", "content": """You are an expert SPARQL query generator.
+        For each question that the user supplies, the generator (you) will convert it into a valid SPARQL query that can be used to answer the question. The query will be based on the DBpedia knowledge graph.
+        Human: "What is the river whose mouth is in deadsea?"
+        Generator: "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/riverMouth> <http://dbpedia.org/resource/Dead_Sea>  . ?uri <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/River>}" """},
+        {"role": "user", "content": """Human: "What is the region of Tom Perriello ?"
+Generator:"""},
     ]
 
     custom9_conversation = [
-        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
-         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
-         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
-         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
-         "Q: Which is the largest rural area? A: "
-         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
-         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
-         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
-         "Q: Which municipalities contain at least one beach and one village? A: "},
-        {"role": "user", "content": "Q: " + question + " A: "},
+        {"role": "system", "content": """You are an expert SPARQL query generator.
+        For each question that the user supplies, the generator (you) will convert it into a valid SPARQL query that can be used to answer the question. The query will be based on the Wikidata knowledge graph.
+        Human: "Was Hans Ertl a screenwriter?"
+        Generator: "ASK WHERE {wd:Q103013 wdt:P106 wd:Q69423232}" """},
+        {"role": "user", "content": """Human: "Who were Jean-François Champollion's parents?"
+Generator:"""},
     ]
 
     custom10_conversation = [
-        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
-         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
-         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
-         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
-         "Q: Which is the largest rural area? A: "
-         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
-         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
-         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
-         "Q: Which municipalities contain at least one beach and one village? A: "},
-        {"role": "user", "content": "Q: " + question + " A: "},
+        {"role": "system", "content": """You are an expert SPARQL query generator.
+        For each question that the user supplies, the generator (you) will convert it into a valid SPARQL query that can be used to answer the question.
+        Human: "Where is Oxfordshire located?"
+Generator: "SELECT ?WKT WHERE { yago:Oxfordshire geo:hasGeometry ?o. ?o geo:asWKT ?WKT. }"
+Human: "What is Dublin's administrative type?"
+Generator: "select ?e where { yago:Dublin rdf:type ?e }"
+Human: "What population does Icaria have?"
+Generator: "SELECT ?population WHERE{ yago:Icaria  y2geoo:hasGAG_Population ?population . }" """},
+        {"role": "user", "content": """Human: "Where is Scotland located?"
+Generator:"""},
     ]
 
     custom11_conversation = [
-        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
-         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
-         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
-         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
-         "Q: Which is the largest rural area? A: "
-         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
-         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
-         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
-         "Q: Which municipalities contain at least one beach and one village? A: "},
-        {"role": "user", "content": "Q: " + question + " A: "},
+        {"role": "system", "content": """You are an expert SPARQL query generator.
+        For each question that the user supplies, the generator (you) will convert it into a valid SPARQL query that can be used to answer the question.
+        Human: "Which localities are located east of forests in County Wicklow?"
+Generator: "SELECT DISTINCT ?a WHERE { yago:County_Wicklow geo:hasGeometry ?o . ?o geo:asWKT ?geoWKT . ?a rdf:type y2geoo:OSM_locality; geo:hasGeometry ?o1 . ?o1 geo:asWKT ?geoWKT1 . ?b rdf:type y2geoo:OSM_forest; geo:hasGeometry ?o2 . ?o2 geo:asWKT ?geoWKT2 . FILTER (strdf:within(?geoWKT1, ?geoWKT) &&  strdf:within(?geoWKT2, ?geoWKT) &&  strdf:right(?geoWKT1, ?geoWKT2)) }"
+Human: "Is there a stream located east of a lake in Corfu?"
+Generator: "ASK { yago:Corfu geo:hasGeometry ?o2 . ?o2 geo:asWKT ?xWKT2 . ?x2 rdf:type y2geoo:OSM_stream . ?x2 geo:hasGeometry ?x2Geom. ?x2Geom geo:asWKT ?iWKT2. ?x1 rdf:type y2geoo:OSM_lake . ?x1 geo:hasGeometry ?x1Geom. ?x1Geom geo:asWKT ?iWKT1. FILTER(geof:sfWithin(?iWKT1, ?xWKT2) && geof:sfWithin(?iWKT2,?xWKT2) && strdf:right(?iWKT2,?iWKT1)) }"
+Human: "Which region of Greece has the most inhabitants?"
+Generator: "SELECT DISTINCT ?region WHERE { ?region rdf:type y2geoo:GAG_Region . ?region y2geoo:hasGAG_Population ?population } ORDER BY DESC (?population) LIMIT 1" """},
+        {"role": "user", "content": """Human: "Which county in the British Isles is the smallest by area?"
+Generator:"""},
     ]
 
     custom12_conversation = [
-        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
-         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
-         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
-         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
-         "Q: Which is the largest rural area? A: "
-         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
-         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
-         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
-         "Q: Which municipalities contain at least one beach and one village? A: "},
-        {"role": "user", "content": "Q: " + question + " A: "},
+        {"role": "system", "content": """You are an expert SPARQL query generator.
+        For each question that the user supplies, the generator (you) will convert it into a valid SPARQL query that can be used to answer the question. The query will be based on the YAGO knowledge graph.
+        Human: "Which are the 2 newest bridges of Ireland?"
+Generator: "SELECT DISTINCT ?bridge  WHERE {  ?type rdfs:subClassOf+ yago:wordnet_bridge_102898711. ?bridge a ?type .?bridge yago:isLocatedIn+ yago:California.?bridge yago:wasCreatedOnDate ?date.} ORDER BY DESC(?date)  LIMIT 2"
+Human: "Is there a stream located east of a lake in Corfu?"
+Generator: "ASK { yago:Corfu geo:hasGeometry ?o2 . ?o2 geo:asWKT ?xWKT2 . ?x2 rdf:type y2geoo:OSM_stream . ?x2 geo:hasGeometry ?x2Geom. ?x2Geom geo:asWKT ?iWKT2. ?x1 rdf:type y2geoo:OSM_lake . ?x1 geo:hasGeometry ?x1Geom. ?x1Geom geo:asWKT ?iWKT1. FILTER(geof:sfWithin(?iWKT1, ?xWKT2) && geof:sfWithin(?iWKT2,?xWKT2) && strdf:right(?iWKT2,?iWKT1)) }"
+Human: "Which region of Greece has the most inhabitants?"
+Generator: "SELECT DISTINCT ?region WHERE { ?region rdf:type y2geoo:GAG_Region . ?region y2geoo:hasGAG_Population ?population } ORDER BY DESC (?population) LIMIT 1" """},
+        {"role": "user", "content": """Human: "Is Leitrim the least populated county in the Republic of Ireland?"
+Generator:"""},
     ]
 
     custom13_conversation = [
-        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
-         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
-         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
-         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
-         "Q: Which is the largest rural area? A: "
-         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
-         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
-         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
-         "Q: Which municipalities contain at least one beach and one village? A: "},
-        {"role": "user", "content": "Q: " + question + " A: "},
+        {"role": "system", "content": """You are an expert SPARQL query generator.
+        For each question that the user supplies, the generator (you) will convert it into a valid SPARQL query that can be used to answer the question. The query will be based on the DBpedia knowledge graph.
+        Human: "What is the river whose mouth is in deadsea?"
+Generator: "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/riverMouth> <http://dbpedia.org/resource/Dead_Sea>  . ?uri <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/River>}"
+Human: "What is the region of Tom Perriello ?"
+Generator: "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Tom_Perriello> <http://dbpedia.org/ontology/region> ?uri }"
+Human: "How many people live in Wilton, Connecticut?"
+Generator: "SELECT DISTINCT COUNT(?uri) WHERE {?uri <http://dbpedia.org/property/residence> <http://dbpedia.org/resource/Wilton,_Connecticut>  . }" """},
+        {"role": "user", "content": """Human: "In which part of the world can i find Xynisteri and Mavro?"
+Generator:"""},
     ]
 
     custom14_conversation = [
-        {"role": "system", "content": "Can you identify the toponyms in the given questions? "
-         "Your answers depend on the amount of toponyms in each sentence (if there are any) and you answer strictly like this: 'Location Name' | 'wikipedia link'. Follow these examples: "
-         "Q: Which 5 municipalities east of Athens have the most residents? A: Athens:  https://en.wikipedia.org/wiki/Athens "
-         "Q: Is Belfast closer to the capital of the Republic of Ireland or the capital of Scotland? A: Belfast: https://en.wikipedia.org/wiki/Belfast | Republic of Ireland: https://en.wikipedia.org/wiki/Republic_of_Ireland | Scotland: https://en.wikipedia.org/wiki/Scotland "
-         "Q: Which is the largest rural area? A: "
-         "Q: Is Dublin the capital of Ireland? A: Dublin: https://en.wikipedia.org/wiki/Dublin | Ireland: https://en.wikipedia.org/wiki/Ireland "
-         "Q: Which state in the US has the most neighboring states? A: US: https://en.wikipedia.org/wiki/United_States"
-         "Q: Is Kalamata north of Tripoli? A: Kalamata: https://en.wikipedia.org/wiki/Kalamata | Tripoli: https://en.wikipedia.org/wiki/Tripoli"
-         "Q: Which municipalities contain at least one beach and one village? A: "},
-        {"role": "user", "content": "Q: " + question + " A: "},
+        {"role": "system", "content": """You are an expert SPARQL query generator.
+        For each question that the user supplies, the generator (you) will convert it into a valid SPARQL query that can be used to answer the question. The query will be based on the Wikidata knowledge graph.
+        Human: "Was Hans Ertl a screenwriter?"
+Generator: "ASK WHERE {\nwd:Q103013 wdt:P106 wd:Q69423232}"
+Human: "Who were Jean-François Champollion's parents?"
+Generator: "SELECT DISTINCT ?x0 WHERE {\n?x0 wdt:P40|wdt:P355 wd:Q260 \n}"
+Human: "What did Andrei Tarkovsky edit?"
+Generator: "SELECT DISTINCT ?x0 WHERE {\n?x0 wdt:P1040 wd:Q853 \n}" """},
+        {"role": "user", "content": """Human: "Was Andrei Tarkovsky a screenwriter?"
+Generator:"""},
     ]
 
 

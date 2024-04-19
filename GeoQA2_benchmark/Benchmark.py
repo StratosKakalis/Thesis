@@ -58,6 +58,35 @@ class Benchmark():
             return GPT_Inference(question, "few8")
         elif (model == "gpt-few9"):
             return GPT_Inference(question, "few9")
+        elif (model == "custom1"):
+            return GPT_Inference(question, "custom1")
+        elif (model == "custom2"):
+            return GPT_Inference(question, "custom2")
+        elif (model == "custom3"):
+            return GPT_Inference(question, "custom3")
+        elif (model == "custom4"):
+            return GPT_Inference(question, "custom4")
+        elif (model == "custom5"):
+            return GPT_Inference(question, "custom5")
+        elif (model == "custom6"):
+            return GPT_Inference(question, "custom6")
+        elif (model == "custom7"):
+            return GPT_Inference(question, "custom7")
+        elif (model == "custom8"):
+            return GPT_Inference(question, "custom8")
+        elif (model == "custom9"):
+            return GPT_Inference(question, "custom9")
+        elif (model == "custom10"):
+            return GPT_Inference(question, "custom10")
+        elif (model == "custom11"):
+            return GPT_Inference(question, "custom11")
+        elif (model == "custom12"):
+            return GPT_Inference(question, "custom12")
+        elif (model == "custom13"):
+            return GPT_Inference(question, "custom13")
+        elif (model == "custom14"):
+            return GPT_Inference(question, "custom14")
+        
         elif (model == "wat"):
             return WAT_Inference(question)
         elif (model == "rel"):
@@ -131,8 +160,8 @@ class Benchmark():
 
     def Inference_Pipeline(self):
         skip_until = 0
-        #model_list = ["gpt-one", "gpt-few", "rel", "wat"]
-        model_list = ["gpt-few9"]
+        model_list = ["gpt-one", "gpt-few", "rel", "wat"]
+        #model_list = ["custom1"]
         # For each model that we test, run all the questions and save the results in a respective file.
         for model in model_list:
             print("Testing model: " + model)
@@ -150,6 +179,9 @@ class Benchmark():
                     answer = self.Model_Inference(model, question)
                     print (key)
                     output_file.write(f"{key}: {answer}\n")
+
+                #answer = self.Model_Inference(model, "question")
+                #print(answer)
 
     def Evaluate_Pipeline(self):
         pred_path = os.path.join(os.getcwd(), 'Predictions')
@@ -307,8 +339,8 @@ class Benchmark():
 # First run the benchmark and generate model responses.
 bench = Benchmark()
 # Create a dataframe from the labaled dataset.
-bench.Create_Dataframe()
+#bench.Create_Dataframe()
 # Run inference on the selected models.
-#bench.Inference_Pipeline()
+bench.Inference_Pipeline()
 # Compare model responses to the ground truth. 
-bench.Evaluate_Pipeline()
+#bench.Evaluate_Pipeline()
