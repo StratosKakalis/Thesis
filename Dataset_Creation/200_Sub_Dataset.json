@@ -1,0 +1,802 @@
+{
+    "692": {
+        "Question": "In Breckland district, which forests are south of streams?",
+        "Query": "SELECT DISTINCT ?forest WHERE { yago:Breckland_District geo:hasGeometry ?o1 . ?o1 geo:asWKT ?geoWKT1 . ?forest rdf:type y2geoo:OSM_forest . ?forest geo:hasGeometry ?o2 . ?o2 geo:asWKT ?geoWKT2 . ?stream rdf:type y2geoo:OSM_stream . ?stream geo:hasGeometry ?o3 . ?o3 geo:asWKT ?geoWKT3 . FILTER (strdf:within(?geoWKT2, ?geoWKT1) && strdf:within(?geoWKT3, ?geoWKT1) && strdf:below(?geoWKT2, ?geoWKT3)) }"
+    },
+    "380": {
+        "Question": "Is Dublin west of London?",
+        "Query": "ASK { <http://kr.di.uoa.gr/yago2geo/resource/gadmentity_Dublin_IRL.6_1> geo:hasGeometry ?xgeo. ?xgeo geo:asWKT ?xWKT. <http://yago-knowledge.org/resource/geoentity_City_of_London_2643744> geo:hasGeometry ?ygeo. ?ygeo geo:asWKT ?yWKT. FILTER (strdf:left(?xWKT, ?yWKT)) }"
+    },
+    "991": {
+        "Question": "Which is the most populated region in Greece?",
+        "Query": "select distinct ?region where {?region rdf:type y2geoo:GAG_Region . ?region y2geoo:hasGAG_Population ?population .} ORDER BY DESC(?population )LIMIT 1"
+    },
+    "597": {
+        "Question": "Which lakes are within 20km of County Carlow?",
+        "Query": "SELECT distinct ?lake WHERE { yago:County_Carlow geo:hasGeometry ?carlowGeo . ?carlowGeo geo:asWKT ?carlowWKT . ?lake rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OSM_lake> . ?lake geo:hasGeometry ?lake_geo . ?lake_geo geo:asWKT ?lake_geoWKT . FILTER(geof:distance(?carlowWKT,?lake_geoWKT,uom:metre) <= 20000) }"
+    },
+    "686": {
+        "Question": "Which forests are within baronies in the Republic of Ireland?",
+        "Query": "SELECT DISTINCT ?for WHERE { ?for a y2geoo:OSM_forest . ?for geo:hasGeometry ?o . ?o geo:asWKT ?forestGeo . ?barony a y2geoo:OSI_Barony . ?barony geo:hasGeometry ?o2 . ?o2 geo:asWKT ?baronyGeo . yago:Republic_of_Ireland geo:hasGeometry ?ir. ?ir geo:asWKT ?irWKT. FILTER(geof:sfWithin(?forestGeo , ?baronyGeo ) && geof:sfWithin(?baronyGeo, ?irWKT )) }"
+    },
+    "1090": {
+        "Question": "How many counties border the largest county of the Republic of Ireland?",
+        "Query": "SELECT (COUNT(?county) as ?counties) { { SELECT ?largestCounty ?lcWKT WHERE { { ?largestCounty rdf:type y2geoo:OSI_County_Council . } UNION { ?largestCounty rdf:type y2geoo:OSI_City_and_County_Council. } ?largestCounty geo:hasGeometry ?lcGeo . ?lcGeo geo:asWKT ?lcWKT . BIND(strdf:area(?lcWKT) as ?lcArea) . } ORDER BY DESC(?lcArea) LIMIT 1 } { ?county rdf:type y2geoo:OSI_County_Council . } UNION { ?county rdf:type y2geoo:OSI_City_and_County_Council. } ?county geo:hasGeometry ?cGeo . ?cGeo geo:asWKT ?cWKT . FILTER(geof:sfTouches(?cWKT,?lcWKT)) . }"
+    },
+    "698": {
+        "Question": "Which villages are north of lakes, in County Cumbria?",
+        "Query": "SELECT DISTINCT ?village WHERE { yago:Cumbria geo:hasGeometry ?o . ?o geo:asWKT ?geoWKT . ?village rdf:type y2geoo:OSM_village; geo:hasGeometry ?o1 . ?o1 geo:asWKT ?geoWKT1 . ?lake rdf:type y2geoo:OSM_lake; geo:hasGeometry ?o2 . ?o2 geo:asWKT ?geoWKT2 . FILTER (strdf:within(?geoWKT1, ?geoWKT) && strdf:within(?geoWKT2, ?geoWKT) && strdf:above(?geoWKT1, ?geoWKT2)) }"
+    },
+    "63": {
+        "Question": "What is the length of river Thames?",
+        "Query": " SELECT ?length WHERE { <http://yago-knowledge.org/resource/River_Thames> <http://yago-knowledge.org/resource/hasLength> ?length. }\n"
+    },
+    "480": {
+        "Question": "Which forests are less than 25km away from County Sligo?",
+        "Query": "SELECT DISTINCT ?forest WHERE{ yago:County_Sligo geo:hasGeometry ?o. ?o geo:asWKT ?WKT. ?forest rdf:type y2geoo:OSM_forest; geo:hasGeometry ?o1. ?o1 geo:asWKT ?WKT1. FILTER(geof:distance(?WKT, ?WKT1, uom:metre) < 25000) }"
+    },
+    "833": {
+        "Question": "How many municipalities contain at least one lake?",
+        "Query": "SELECT (COUNT (DISTINCT ?mun) as ?municipalities) WHERE { ?lake rdf:type y2geoo:OSM_lake . ?lake geo:hasGeometry ?vgeo . ?vgeo geo:asWKT ?vWKT . ?mun rdf:type y2geoo:GAG_Municipality. ?mun geo:hasGeometry ?mgeo . ?mgeo geo:asWKT ?mWKT . FILTER(strdf:contains(?mWKT,?vWKT)). }"
+    },
+    "259": {
+        "Question": "What's the location of Killarney Beach?",
+        "Query": "SELECT ?wkt WHERE{ yago:geoentity_Killarney_Beach_8215737 geo:hasGeometry ?rep1 . ?rep1 geo:asWKT ?wkt }"
+    },
+    "320": {
+        "Question": "What's the location of Birmingham?",
+        "Query": "SELECT ?wkt WHERE{ yago:Birmingham geo:hasGeometry ?rep1 . ?rep1 geo:asWKT ?wkt }"
+    },
+    "71": {
+        "Question": "How many cities does Merseyside have?",
+        "Query": " SELECT (COUNT(?x1) as ?num) WHERE { ?x1 a <http://yago-knowledge.org/resource/wordnet_city_108524735>. ?x1 <http://yago-knowledge.org/resource/isLocatedIn> <http://yago-knowledge.org/resource/Merseyside>. }\n"
+    },
+    "1166": {
+        "Question": "How many states does the USA have?",
+        "Query": "SELECT (count(distinct ?state) as ?totalX) WHERE { ?state a yago:wikicategory_States_of_the_United_States.}"
+    },
+    "1077": {
+        "Question": "Which county of England has the most parks?",
+        "Query": " SELECT ?county (COUNT(?park) as ?parkCount) WHERE { ?county a y2geoo:OS_County . ?county geo:hasGeometry ?o1 . ?o1 geo:asWKT ?countyWKT . ?park a y2geoo:OSM_park . ?park geo:hasGeometry ?o2 . ?o2 geo:asWKT ?parkWKT . FILTER(geof:sfWithin(?parkWKT , ?countyWKT)) } GROUP BY ?county ORDER BY DESC(?parkCount) LIMIT 1"
+    },
+    "678": {
+        "Question": "Are there any bays next to parks in Dublin?",
+        "Query": "ASK { yago:Dublin geo:hasGeometry ?geomLC. ?geomLC geo:asWKT ?prkWKT. ?park rdf:type y2geoo:OSM_park . ?park geo:hasGeometry ?geoPrk. ?geoPrk geo:asWKT ?lWKT. ?bay rdf:type y2geoo:OSM_bay . ?bay geo:hasGeometry ?geomL. ?geomL geo:asWKT ?cWKT. FILTER (geof:sfWithin(?lWKT, ?prkWKT) && geof:sfTouches(?cWKT, ?lWKT)) }"
+    },
+    "1143": {
+        "Question": "Is there a hospital in Galway?",
+        "Query": "ASK { ?type rdfs:subClassOf+ yago:wordnet_hospital_103540595 . ?hospital a ?type . ?hospital yago:isLocatedIn+ yago:Galway. }"
+    },
+    "636": {
+        "Question": "Which rural areas intersect with lakes?",
+        "Query": "select DISTINCT ?x where { ?x rdf:type y2geoo:OSM_lake . ?x geo:hasGeometry ?xGeom. ?xGeom geo:asWKT ?xWKT. ?o rdf:type y2geoo:OSI_Rural_Area . ?o geo:hasGeometry ?oGeom. ?oGeom geo:asWKT ?iWKT. FILTER(geof:sfIntersects(?xWKT,?iWKT )) }"
+    },
+    "881": {
+        "Question": "How many municipalities in Greece contain beaches?",
+        "Query": "select (COUNT (DISTINCT ?municipality) as ?municipalities) where { ?municipality a y2geoo:GAG_Municipality. ?municipality geo:hasGeometry ?geomLC. ?geomLC geo:asWKT ?lcnWKT. ?beach rdf:type y2geoo:OSM_beach; geo:hasGeometry ?geomL. ?geomL geo:asWKT ?lWKT. FILTER(geof:sfContains(?lcnWKT, ?lWKT)) }"
+    },
+    "95": {
+        "Question": "Where is Trafalgar Square located?",
+        "Query": " SELECT ?x1WKT { ?x1 osm:has_name \"Trafalgar Square\"^^<http://www.w3.org/2001/XMLSchema#string>. ?x1 geo:hasGeometry ?x1Geo. ?x1Geo geo:asWKT ?x1WKT. }\n"
+    },
+    "948": {
+        "Question": "What is the average size of a lake in England?",
+        "Query": "SELECT (AVG(strdf:area(?cWKT)) as ?averageArea ){ yago:England geo:hasGeometry ?eGeo . ?eGeo geo:asWKT ?eWKT . ?canal rdf:type y2geoo:OSM_lake . ?canal geo:hasGeometry ?cGeo . ?cGeo geo:asWKT ?cWKT . FILTER(geof:sfWithin(?cWKT, ?eWKT)) }"
+    },
+    "469": {
+        "Question": "Is the Republic of Ireland part of the United Kingdom?",
+        "Query": "ASK { yago:Republic_of_Ireland geo:hasGeometry ?iGeo . ?iGeo geo:asWKT ?iWKT . yago:United_Kingdom geo:hasGeometry ?ukGeo . ?ukGeo geo:asWKT ?ukWKT . FILTER(strdf:contains(?ukWKT, ?iWKT)) }"
+    },
+    "185": {
+        "Question": "Which is the highest point in Cheshire?",
+        "Query": " select distinct ?x ?property where { ?x rdf:type <http://yago-knowledge.org/resource/wordnet_mountain_109359803>. ?x <http://yago-knowledge.org/resource/isLocatedIn> <http://yago-knowledge.org/resource/Cheshire>. ?x <http://yago-knowledge.org/resource/infobox/en/elevationm> ?property. } ORDER BY DESC(?property) LIMIT 1\n"
+    },
+    "768": {
+        "Question": "Can you determine the names of the lakes in Greece that are completely encompassed within a single municipality?",
+        "Query": "SELECT DISTINCT ?l WHERE { ?m rdf:type y2geoo:GAG_Municipality. ?m geo:hasGeometry ?mg . ?mg geo:asWKT ?mw . ?l a y2geoo:OSM_lake . ?l geo:hasGeometry ?lg . ?lg geo:asWKT ?lw . FILTER(geof:sfWithin(?lw,?mw)) }"
+    },
+    "1203": {
+        "Question": "Which is the longest river in Greece?",
+        "Query": "SELECT ?rivers WHERE{ ?type rdfs:subClassOf+ yago:wordnet_river_109411430. ?rivers a ?type . ?rivers yago:isLocatedIn+ yago:Greece. ?rivers yago:hasLength ?length. } ORDER BY DESC(xsd:integer(?length)) LIMIT 1"
+    },
+    "128": {
+        "Question": "Is Edinburgh west of Glasgow?",
+        "Query": " ASK { <http://yago-knowledge.org/resource/Edinburgh> geo:hasGeometry ?iGeometry1. ?iGeometry1 geo:asWKT ?iWKT1. ?y owl:sameAs <http://yago-knowledge.org/resource/Glasgow>; geo:hasGeometry ?iGeometry2. ?iGeometry2 geo:asWKT ?iWKT2. FILTER(strdf:left(?iWKT1, ?iWKT2)) }\n"
+    },
+    "1014": {
+        "Question": "Is Liverpool the largest city of the United Kingdom?",
+        "Query": "ASK WHERE { { SELECT (strdf:area(?cWKT) AS ?area) (strdf:area(?LWKT) AS ?Larea) WHERE { ?city rdf:type y2geoo:OSM_city ; geo:hasGeometry ?geoc . ?geoc geo:asWKT ?cWKT . yago:United_Kingdom geo:hasGeometry ?geom . ?geom geo:asWKT ?ukWKT . yago:Liverpool geo:hasGeometry ?geom1 . ?geom1 geo:asWKT ?LWKT . FILTER(geof:sfContains(?ukWKT,?cWKT)) . } ORDER BY DESC(?area) LIMIT 1 } FILTER(?Larea > ?area). }"
+    },
+    "648": {
+        "Question": "Which counties have no forests?",
+        "Query": "SELECT DISTINCT ?county WHERE { { ?county a y2geoo:OS_County } UNION { ?county rdf:type y2geoo:OSI_County_Council . } UNION { ?county rdf:type y2geoo:OSI_City_and_County_Council. } . ?county geo:hasGeometry ?countyGeom . ?countyGeom geo:asWKT ?countyWKT . FILTER NOT EXISTS { ?forest a y2geoo:OSM_forest . ?forest geo:hasGeometry ?fGeom . ?fGeom geo:asWKT ?fWKT . FILTER (strdf:contains(?countyWKT, ?fWKT)) . } }"
+    },
+    "1049": {
+        "Question": "Which is the largest lake in Northern Ireland?",
+        "Query": "SELECT ?county (strdf:area(?lWKT) as ?lArea) WHERE { yago:Northern_Ireland geo:hasGeometry ?iGeo . ?iGeo geo:asWKT ?iWKT . ?lake rdf:type y2geoo:OSM_lake . ?lake geo:hasGeometry ?lGeo . ?lGeo geo:asWKT ?lWKT . FILTER(geof:sfWithin(?lWKT,?iWKT)) . } ORDER BY DESC(?lArea) LIMIT 1"
+    },
+    "904": {
+        "Question": "How many lakes do Irish counties have, if any?",
+        "Query": "select distinct ?county (COUNT(?lake) AS ?lake_count) where { { ?county rdf:type y2geoo:OSI_County_Council . } UNION { ?county rdf:type y2geoo:OSI_City_and_County_Council. } . ?county geo:hasGeometry ?geomLC. ?geomLC geo:asWKT ?lcWKT. ?lake rdf:type y2geoo:OSM_lake; geo:hasGeometry ?geomL. ?geomL geo:asWKT ?lWKT. FILTER(strdf:intersects(?lWKT, ?lcWKT)) } GROUP BY ?county"
+    },
+    "623": {
+        "Question": "Which lakes in England are also west of Manchester?",
+        "Query": "select distinct ?lake where{ ?lake rdf:type y2geoo:OSM_lake . ?lake geo:hasGeometry ?ol. ?ol geo:asWKT ?geoWKT. yago:England geo:hasGeometry ?o1. ?o1 geo:asWKT ?geoWKT1. <http://yago-knowledge.org/resource/Manchester> geo:hasGeometry ?o2. ?o2 geo:asWKT ?geoWKT2. FILTER(strdf:left(?geoWKT,?geoWKT2)) FILTER(geof:sfWithin(?geoWKT, ?geoWKT1)) }"
+    },
+    "299": {
+        "Question": "Where is Alaska situated?",
+        "Query": "select ?geoWKT where { <http://yago-knowledge.org/resource/Alaska> geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. }"
+    },
+    "1024": {
+        "Question": "Which Greek municipality has the biggest surface area?",
+        "Query": "SELECT DISTINCT ?region (strdf:area(?geoWKT) AS ?regionArea) WHERE { ?region rdf:type y2geoo:GAG_Municipality . ?region geo:hasGeometry ?o . ?o geo:asWKT ?geoWKT . } ORDER BY DESC(?regionArea) LIMIT 1"
+    },
+    "347": {
+        "Question": "Is Dublin north of Kilkenny?",
+        "Query": "ASK { <http://yago-knowledge.org/resource/Dublin> geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. <http://yago-knowledge.org/resource/Kilkenny> geo:hasGeometry ?o1. ?o1 geo:asWKT ?geoWKT1. FILTER(strdf:above(?geoWKT,?geoWKT1)) }"
+    },
+    "311": {
+        "Question": "What is the size of Wells County, North Dakota?",
+        "Query": "select distinct (strdf:area(?geoWKT) as ?area) where { yago:Wells_County\\,_North_Dakota geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. }"
+    },
+    "435": {
+        "Question": "How close is Dublin to Scotland?",
+        "Query": "SELECT (geof:distance(?dWKT, ?sWKT, uom:metre) AS ?distance) WHERE{ yago:Dublin geo:hasGeometry ?dGeom. ?dGeom geo:asWKT ?dWKT. yago:Scotland geo:hasGeometry ?sGeom. ?sGeom geo:asWKT ?sWKT. }"
+    },
+    "444": {
+        "Question": "Is Patras north of Tripoli?",
+        "Query": "ASK WHERE { yago:geoentity_Dimos_Patras_8133690 geo:hasGeometry ?gx . ?gx geo:asWKT ?xWKT . <http://yago-knowledge.org/resource/Tripoli,_Greece> geo:hasGeometry ?gy . ?gy geo:asWKT ?yWKT . FILTER(strdf:above(?xWKT,?yWKT )) }"
+    },
+    "74": {
+        "Question": "Does county Suffolk border county Durham?",
+        "Query": " ASK { <http://yago-knowledge.org/resource/County_Durham> geo:hasGeometry ?xGeom. ?xGeom geo:asWKT ?xWKT. <http://yago-knowledge.org/resource/Suffolk> geo:hasGeometry ?mGeom. ?mGeom geo:asWKT ?mWKT. FILTER(geof:sfTouches(?xWKT,?mWKT)) } "
+    },
+    "203": {
+        "Question": "What is the total area of County Galway?",
+        "Query": "SELECT (strdf:area(?WKT) AS ?area) WHERE { yago:County_Galway geo:hasGeometry ?o. ?o geo:asWKT ?WKT }"
+    },
+    "893": {
+        "Question": "How many lakes does Scotland have?",
+        "Query": "SELECT (COUNT(?lake) AS ?numLakes) WHERE { yago:Scotland geo:hasGeometry ?geom . ?geom geo:asWKT ?mWKT . ?lake a y2geoo:OSM_lake . ?lake geo:hasGeometry ?geol . ?geol geo:asWKT ?lWKT . FILTER (geof:sfContains(?mWKT, ?lWKT)) }"
+    },
+    "852": {
+        "Question": "How many streams intersect with lakes?",
+        "Query": "SELECT (COUNT (DISTINCT ?p1) as ?streams) WHERE { ?p1 rdf:type y2geoo:OSM_stream; geo:hasGeometry ?p1geo. ?p1geo geo:asWKT ?p1WKT. ?p2 rdf:type y2geoo:OSM_lake; geo:hasGeometry ?p2geo. ?p2geo geo:asWKT ?p2WKT. FILTER(geof:sfIntersects(?p1WKT, ?p2WKT)) }"
+    },
+    "560": {
+        "Question": "Which municipalities share a border with Chania?",
+        "Query": "SELECT distinct ?municipality WHERE { <http://yago-knowledge.org/resource/geoentity_Chania_8133762> geo:hasGeometry ?o . ?o geo:asWKT ?geoWKT . ?municipality rdf:type y2geoo:GAG_Municipality . ?municipality geo:hasGeometry ?o1 . ?o1 geo:asWKT ?geoWKT1 . FILTER(strdf:touches(?geoWKT, strdf:buffer(?geoWKT1, 0, uom:metre))) }"
+    },
+    "730": {
+        "Question": "Which parks intersect with forests in the US?",
+        "Query": "SELECT DISTINCT ?park where {yago:United_States geo:hasGeometry ?geomLC. ?geomLC geo:asWKT ?lcnWKT. ?park rdf:type y2geoo:OSM_park; geo:hasGeometry ?geomP. ?geomP geo:asWKT ?lWKT_P. ?forest rdf:type y2geoo:OSM_forest; geo:hasGeometry ?geomF. ?geomF geo:asWKT ?lWKT_F. FILTER(strdf:within(?lWKT_F, ?lcnWKT) && strdf:intersects(?lWKT_P, ?lWKT_F)) }"
+    },
+    "92": {
+        "Question": "Is there a river that crosses Manchester?",
+        "Query": " ASK where { ?river rdf:type <http://yago-knowledge.org/resource/wordnet_river_109411430>. ?river ?p <http://yago-knowledge.org/resource/Manchester>. }\n"
+    },
+    "491": {
+        "Question": "Which lakes are within 50km of Dublin?",
+        "Query": "SELECT distinct ?lake WHERE { <http://yago-knowledge.org/resource/Dublin> geo:hasGeometry ?dublin_geo . ?dublin_geo geo:asWKT ?dublin_geoWKT . ?lake rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OSM_lake> . ?lake geo:hasGeometry ?lake_geo . ?lake_geo geo:asWKT ?lake_geoWKT . FILTER(geof:distance(?dublin_geoWKT,?lake_geoWKT,uom:metre) <= 50000) }"
+    },
+    "551": {
+        "Question": "Which are the lakes inside Central Macedonia?",
+        "Query": "select DISTINCT ?lake WHERE{ <http://yago-knowledge.org/resource/Central_Macedonia> geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. ?lake <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kr.di.uoa.gr/yago2geo/ontology/OSM_lake>. ?lake geo:hasGeometry ?o1. ?o1 geo:asWKT ?geoWKT1. FILTER(geof:sfWithin(?geoWKT1,?geoWKT)) }"
+    },
+    "91": {
+        "Question": "Where is a car park near Big Ben?",
+        "Query": " SELECT distinct ?w2 WHERE { ?poi osm:has_name \"Big Ben\"^^xsd:string. ?poi geo:hasGeometry ?geo . ?geo geo:asWKT ?w . ?div rdf:type osm:Parking. ?div geo:hasGeometry ?geo2 . ?geo2 geo:asWKT ?w2 . filter(geof:distance(?w,?w2, uom:metre) < 100) }\n"
+    },
+    "1063": {
+        "Question": "How large is the the smallest county of England?",
+        "Query": "SELECT (MIN(strdf:area(?cWKT)) as ?mini) WHERE { yago:England geo:hasGeometry ?eGeo . ?eGeo geo:asWKT ?eWKT . ?county rdf:type y2geoo:OS_County . ?county geo:hasGeometry ?cGeo . ?cGeo geo:asWKT ?cWKT . FILTER (geof:sfContains(?eWKT, ?cWKT)) } "
+    },
+    "1197": {
+        "Question": "Which state capital in the USA has the largest population?",
+        "Query": "SELECT ?x WHERE { ?state a yago:wikicategory_States_of_the_United_States. ?state yago:hasCapital ?x. ?x yago:hasPopulation ?y } ORDER BY DESC(xsd:integer(?y)) LIMIT 1"
+    },
+    "937": {
+        "Question": "How many British counties have lakes and canals in or as parts of them?",
+        "Query": "select (COUNT (DISTINCT ?park) as ?parks) where { ?park rdf:type y2geoo:OS_County; geo:hasGeometry ?geomP. ?geomP geo:asWKT ?lWKT_P. ?lake rdf:type y2geoo:OSM_lake; geo:hasGeometry ?geomF. ?geomF geo:asWKT ?lWKT_F. ?lagoon rdf:type y2geoo:OSM_canal; geo:hasGeometry ?geomL. ?geomL geo:asWKT ?lWKT_L. FILTER(strdf:intersects(?lWKT_P, ?lWKT_F)).FILTER(strdf:intersects(?lWKT_P, ?lWKT_L)) }"
+    },
+    "892": {
+        "Question": "How many lakes are in Michigan?",
+        "Query": "SELECT (COUNT(?lake) AS ?numLakes) WHERE { ?lake a y2geoo:OSM_lake. ?lake geo:hasGeometry ?lakeGeom. ?lakeGeom geo:asWKT ?lakeWKT. yago:Michigan geo:hasGeometry ?mGeom. ?mGeom geo:asWKT ?mWKT. FILTER(geof:sfWithin(?lakeWKT, ?mWKT)). }"
+    },
+    "21": {
+        "Question": "Is there a church at most 2km from the University of Westminster?",
+        "Query": " ASK { ?s2 <http://data.linkedeodata.eu/ontology#has_name> \"University of Westminster\"^^xsd:string. ?s2 rdf:type osm:University . ?s2 geo:hasGeometry ?geo2 . ?geo2 geo:asWKT ?w2 . ?s3 geo:hasGeometry ?geo3 . ?s3 <http://data.linkedeodata.eu/ontology#has_name> ?name . ?geo3 geo:asWKT ?w3 . ?s3 rdf:type osm:Church. filter(geof:distance(?w3,?w2, uom:metre) < 2000) }\n"
+    },
+    "286": {
+        "Question": "What's the location of Lake Houston?",
+        "Query": "SELECT ?wkt WHERE{ yago:Lake_Houston geo:hasGeometry ?rep1 . ?rep1 geo:asWKT ?wkt }"
+    },
+    "1057": {
+        "Question": "Which is the largest park in Greece?",
+        "Query": "SELECT ?park (strdf:area(?pWKT) as ?area) WHERE { yago:Greece geo:hasGeometry ?geo . ?geo geo:asWKT ?gWKT . ?park a y2geoo:OSM_park . ?park geo:hasGeometry ?parkGeo . ?parkGeo geo:asWKT ?pWKT. FILTER (geof:sfContains(?gWKT, ?pWKT)) } ORDER BY DESC(?area) LIMIT 1"
+    },
+    "496": {
+        "Question": "Which 3rd order administrative units border Hampshire?",
+        "Query": "Select distinct ?city Where { <http://yago-knowledge.org/resource/Hampshire> geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. ?city rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/GADM_3rdOrder_AdministrativeUnit>; <http://www.opengis.net/ont/geosparql#hasGeometry> ?geomC. ?geomC geo:asWKT ?cWKT. FILTER(geof:sfTouches(?geoWKT,?cWKT)) }"
+    },
+    "87": {
+        "Question": "Which theaters are near Trafalgar Square?",
+        "Query": " SELECT ?t where { ?x osm:has_name \"Trafalgar Square\"^^xsd:string; rdf:type osm:Attraction. ?x geo:hasGeometry ?geo . ?geo geo:asWKT ?w . ?t rdf:type osm:Theatre . ?t geo:hasGeometry ?geo2 . ?geo2 geo:asWKT ?w2 . filter(geof:distance(?w,?w2, uom:metre) < 1000) }\n"
+    },
+    "737": {
+        "Question": "In the United States, which villages border lakes?",
+        "Query": "SELECT DISTINCT ?a WHERE { yago:United_States geo:hasGeometry ?o . ?o geo:asWKT ?geoWKT . ?a rdf:type y2geoo:OSM_village; geo:hasGeometry ?o1 . ?o1 geo:asWKT ?geoWKT1 . ?b rdf:type y2geoo:OSM_lake; geo:hasGeometry ?o2 . ?o2 geo:asWKT ?geoWKT2 . FILTER (strdf:within(?geoWKT1, ?geoWKT) && strdf:within(?geoWKT2, ?geoWKT) && geof:sfTouches(?geoWKT1, ?geoWKT2) ) }"
+    },
+    "210": {
+        "Question": "What is the population of Piraeus?",
+        "Query": "SELECT ?population WHERE { yago:Piraeus y2geoo:hasGAG_Population ?population }"
+    },
+    "472": {
+        "Question": "How many times larger is the Republic of Ireland from Northern Ireland?",
+        "Query": "SELECT ((strdf:area(?iWKT)/strdf:area(?niWKT)) as ?timesLarger) WHERE { yago:Republic_of_Ireland geo:hasGeometry ?iGeo . ?iGeo geo:asWKT ?iWKT . yago:Northern_Ireland geo:hasGeometry ?niGeo . ?niGeo geo:asWKT ?niWKT . } LIMIT 1"
+    },
+    "583": {
+        "Question": "Which Municipalities are on the border of Peristeri?",
+        "Query": "SELECT DISTINCT ?municipality WHERE { yago:Peristeri geo:hasGeometry ?o. ?o geo:asWKT ?WKT. ?municipality rdf:type y2geoo:GAG_Municipality; geo:hasGeometry ?o1. ?o1 geo:asWKT ?WKT1. FILTER(geof:sfTouches(strdf:buffer(?WKT, 0, uom:metre), strdf:buffer(?WKT1, 0, uom:metre))) }"
+    },
+    "1013": {
+        "Question": "Which is the largest island in Ireland?",
+        "Query": "select distinct ?x (strdf:area(?lWKT) as ?area) where { yago:Republic_of_Ireland geo:hasGeometry ?geom . ?geom geo:asWKT ?mWKT . ?lake a y2geoo:OSM_island . ?lake geo:hasGeometry ?geol . ?geol geo:asWKT ?lWKT . FILTER (geof:sfContains(?mWKT, ?lWKT)) } ORDER BY (?area) LIMIT 1"
+    },
+    "1160": {
+        "Question": "How many cities of more than 100.000 inhabitants are there in the US?",
+        "Query": "SELECT (COUNT (DISTINCT ?city) as ?cities) WHERE{ ?type rdfs:subClassOf+ yago:wordnet_city_108524735 . ?city a ?type . ?city yago:isLocatedIn+ yago:United_States . ?city yago:hasPopulation ?pop . FILTER(xsd:integer(?pop)>100000)}"
+    },
+    "639": {
+        "Question": "Which States of the US border with at most 2 other States?",
+        "Query": "SELECT DISTINCT ?state { yago:United_States geo:hasGeometry ?usGeo . ?usGeo geo:asWKT ?usWKT . ?state rdf:type y2geoo:GADM_2ndOrder_AdministrativeUnit . ?state geo:hasGeometry ?sGeo . ?sGeo geo:asWKT ?sWKT . ?state2 rdf:type y2geoo:GADM_2ndOrder_AdministrativeUnit . ?state2 geo:hasGeometry ?s2Geo . ?s2Geo geo:asWKT ?s2WKT . FILTER(?state != ?state2 && geof:sfWithin(?sWKT,?usWKT) && geof:sfWithin(?s2WKT,?usWKT) && geof:sfTouches(?sWKT,?s2WKT)) . } GROUP BY ?state HAVING(COUNT(?state2)<=2)"
+    },
+    "582": {
+        "Question": "Which are the three largest lakes of the Republic of Ireland?",
+        "Query": "SELECT ?lake WHERE { { SELECT ?lake (strdf:area(?lWKT) as ?area) WHERE { yago:Republic_of_Ireland geo:hasGeometry ?geom . ?geom geo:asWKT ?mWKT . ?lake rdf:type y2geoo:OSM_lake ; geo:hasGeometry ?geol . ?geol geo:asWKT ?lWKT . FILTER (geof:sfContains(?mWKT, ?lWKT)) . } }} ORDER BY DESC(?area) LIMIT 3"
+    },
+    "194": {
+        "Question": "Which towns of England have at least two hospitals?",
+        "Query": " select distinct ?x (count(DISTINCT ?y) as ?count) where { ?x rdf:type <http://yago-knowledge.org/resource/wordnet_town_108665504>. ?y rdf:type <http://yago-knowledge.org/resource/wordnet_hospital_103540595>. ?x <http://yago-knowledge.org/resource/isLocatedIn> <http://yago-knowledge.org/resource/England>. ?y <http://yago-knowledge.org/resource/isLocatedIn> ?x. } GROUP BY ?x HAVING (count(DISTINCT ?y) > 1)\n"
+    },
+    "13": {
+        "Question": "Does the county of Durham border Essex?",
+        "Query": " ASK { <http://yago-knowledge.org/resource/Essex> <http://www.opengis.net/ont/geosparql#sfTouches> <http://yago-knowledge.org/resource/County_Durham>. } "
+    },
+    "525": {
+        "Question": "Which 2nd Order Administrative Units border Dublin ?",
+        "Query": "SELECT distinct ?adm WHERE { y2geor:gadmentity_Dublin_IRL.6_1 geo:hasGeometry ?xGeom . ?xGeom geo:asWKT ?xWKT . ?adm a y2geoo:GADM_2ndOrder_AdministrativeUnit . ?adm geo:hasGeometry ?yGeom . ?yGeom geo:asWKT ?yWKT . FILTER(geof:sfTouches(?xWKT, ?yWKT)) }"
+    },
+    "545": {
+        "Question": "Which forests are in England?",
+        "Query": "select distinct ?forest where { yago:England geo:hasGeometry ?geomLC. ?geomLC geo:asWKT ?lcnWKT. ?forest rdf:type y2geoo:OSM_forest; geo:hasGeometry ?geomL. ?geomL geo:asWKT ?lWKT. FILTER(geof:sfWithin(?lWKT, ?lcnWKT)) }"
+    },
+    "15": {
+        "Question": "Is county Oxfordshire east of the county Essex?",
+        "Query": " ASK { ?oxfordshire <http://www.w3.org/2000/01/rdf-schema#label> ?l ; geo:hasGeometry ?geo1 . filter(str(?l)=\"Oxfordshire\"). ?geo1 geo:asWKT ?wkt1 . ?essex <http://www.w3.org/2000/01/rdf-schema#label> ?l2 ; geo:hasGeometry ?geo2 . ?geo2 geo:asWKT ?wkt2 . filter(str(?l2)=\"Essex\"). FILTER(strdf:left(?wkt1,?wkt2)) }\n"
+    },
+    "1152": {
+        "Question": "Which is the closest city to the capital of the US?",
+        "Query": "SELECT ?city WHERE { yago:United_States geo:hasGeometry ?usGeo . ?usGeo geo:asWKT ?usWKT . yago:United_States yago:hasCapital ?capital . ?capital geo:hasGeometry ?capGeo . ?capGeo geo:asWKT ?capWKT . ?city rdf:type y2geoo:OSM_city . ?city geo:hasGeometry ?cGeo . ?cGeo geo:asWKT ?cWKT . FILTER(geof:sfWithin(?cWKT,?usWKT)) . } ORDER BY DESC(strdf:distance(?cWKT,?capWKT,uom:metre)) LIMIT 1"
+    },
+    "226": {
+        "Question": "Where is Cambridge located?",
+        "Query": "select distinct ?geoWKT where { yago:geoentity_Cambridge_District_7290660 geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. }"
+    },
+    "804": {
+        "Question": "What are the names of the lakes in the Northern Irish wards west of Wales?",
+        "Query": "SELECT DISTINCT ?locality WHERE { yago:Wales geo:hasGeometry ?city_geometry . ?city_geometry geo:asWKT ?geoWKT . ?ward rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OSNI_Ward> . ?ward geo:hasGeometry ?ward_geo . ?ward_geo geo:asWKT ?ward_geoWKT . FILTER(strdf:left(?ward_geoWKT,?geoWKT)) ?locality rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OSM_lake> . ?locality geo:hasGeometry ?locality_geo . ?locality_geo geo:asWKT ?locality_geoWKT . FILTER(geof:sfWithin(?locality_geoWKT,?ward_geoWKT) ) }"
+    },
+    "577": {
+        "Question": "Which cities are north of Miami?",
+        "Query": "SELECT ?cities WHERE { ?cities a y2geoo:OSM_city. ?cities geo:hasGeometry ?cGeom. ?cGeom geo:asWKT ?cWKT. <http://yago-knowledge.org/resource/geoentity_Miami_4398117> geo:hasGeometry ?miGeom. ?miGeom geo:asWKT ?miWKT. FILTER( strdf:above(?cWKT, ?miWKT)). }"
+    },
+    "817": {
+        "Question": "How many lakes are there in England?",
+        "Query": "select (count(distinct ?x) as ?lakes) where { <http://yago-knowledge.org/resource/England> <http://www.opengis.net/ont/geosparql#hasGeometry> ?geomLC. ?geomLC geo:asWKT ?lcnWKT. ?x rdf:type y2geoo:OSM_lake . ?x <http://www.opengis.net/ont/geosparql#hasGeometry> ?geomL. ?geomL geo:asWKT ?lWKT. FILTER(geof:sfWithin(?lWKT, ?lcnWKT)) }"
+    },
+    "398": {
+        "Question": "Is Dublin south of Belfast?",
+        "Query": "ASK { <http://yago-knowledge.org/resource/Dublin> geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. <http://yago-knowledge.org/resource/geoentity_City_of_Belfast_3333223> geo:hasGeometry ?o1. ?o1 geo:asWKT ?geoWKT1. FILTER(strdf:below(?geoWKT,?geoWKT1)) }"
+    },
+    "101": {
+        "Question": "Which hospitals are close to Stirling Castle?",
+        "Query": " SELECT distinct ?x2 WHERE { ?x1 osm:has_name \"Stirling Castle\"^^<http://www.w3.org/2001/XMLSchema#string>. ?x1 geo:hasGeometry ?x1Geo. ?x1Geo geo:asWKT ?x1WKT. ?x2 a osm:Hospital. ?x2 geo:hasGeometry ?x2Geo. ?x2Geo geo:asWKT ?x2WKT. FILTER(geof:distance(?x1WKT, ?x2WKT, uom:metre) < 500). }\n"
+    },
+    "1006": {
+        "Question": "What is the largest lake in the United Kingdom?",
+        "Query": "select distinct ?lake (strdf:area(?lWKT) as ?area) where { yago:United_Kingdom geo:hasGeometry ?geom . ?geom geo:asWKT ?mWKT . ?lake a y2geoo:OSM_lake . ?lake geo:hasGeometry ?geol . ?geol geo:asWKT ?lWKT . FILTER (geof:sfContains(?mWKT, ?lWKT)) } ORDER BY DESC(?area) LIMIT 1"
+    },
+    "963": {
+        "Question": "Which 10 municipalities west of Athens have the lowest population?",
+        "Query": "SELECT DISTINCT ?municipality WHERE { yago:geoentity_Dimos_Athens_8133876 geo:hasGeometry ?o. ?o geo:asWKT ?WKT. ?municipality rdf:type y2geoo:GAG_Municipality; y2geoo:hasGAG_Population ?population; geo:hasGeometry ?o1. ?o1 geo:asWKT ?WKT1. FILTER(strdf:left(?WKT1, ?WKT)) } ORDER BY ?population LIMIT 10"
+    },
+    "229": {
+        "Question": "Where is Mitchelstown located?",
+        "Query": "select ?geoWKT where { <http://yago-knowledge.org/resource/Mitchelstown> geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. }"
+    },
+    "873": {
+        "Question": "How many beaches are in regions in Greece?",
+        "Query": "SELECT (COUNT (DISTINCT ?beach) as ?beaches) WHERE { ?beach a y2geoo:OSM_beach. ?beach geo:hasGeometry ?x1Geo. ?x1Geo geo:asWKT ?x1WKT. ?region a y2geoo:GAG_Region. ?region geo:hasGeometry ?x2Geo. ?x2Geo geo:asWKT ?x2WKT. FILTER(geof:sfWithin(?x1WKT, ?x2WKT))}"
+    },
+    "305": {
+        "Question": "How many inhabitants does Piraeus have?",
+        "Query": "SELECT ?population WHERE { yago:Piraeus y2geoo:hasGAG_Population ?population }"
+    },
+    "720": {
+        "Question": "Which lakes are north of a canal in London?",
+        "Query": "SELECT DISTINCT ?a WHERE { ?a a y2geoo:OSM_lake . ?a geo:hasGeometry ?o1 . ?o1 geo:asWKT ?g1 . ?b a y2geoo:OSM_canal . ?b geo:hasGeometry ?o2 . ?o2 geo:asWKT ?g2 . yago:Greater_London geo:hasGeometry ?o3 . ?o3 geo:asWKT ?g3 . FILTER(geof:sfWithin(?g1, ?g3)) FILTER(strdf:crosses(?g2 , ?g3)) FILTER(strdf:above(?g2,?g1)) }"
+    },
+    "129": {
+        "Question": "Is there an airport in Dublin?",
+        "Query": " ASK { ?x rdf:type <http://yago-knowledge.org/resource/wordnet_airport_102692232>. ?x <http://yago-knowledge.org/resource/isLocatedIn> <http://yago-knowledge.org/resource/Dublin>. }\n"
+    },
+    "1192": {
+        "Question": "Is Leitrim the least populated county in the Republic of Ireland?",
+        "Query": "ASK { yago:County_Leitrim yago:hasPopulation ?lpop . { ?county rdf:type y2geoo:OSI_County_Council . } UNION { ?county rdf:type y2geoo:OSI_City_and_County_Council. } . ?county yago:hasPopulation ?cpop . FILTER(xsd:integer(?lpop) < xsd:integer(?cpop)) . }"
+    },
+    "1121": {
+        "Question": "How many people live in Washington, the capital of the US?",
+        "Query": "SELECT (xsd:integer(?population) as ?pop) WHERE { yago:United_States yago:hasCapital ?cap . ?cap yago:hasPopulation ?population }"
+    },
+    "1025": {
+        "Question": "Which municipality of Greece has the smallest number of inhabitants?",
+        "Query": "SELECT DISTINCT ?mun WHERE { ?mun rdf:type y2geoo:GAG_Municipality . ?mun y2geoo:hasGAG_Population ?population } ORDER BY ASC (?population) LIMIT 1"
+    },
+    "1040": {
+        "Question": "Which region that borders the Peloponnese has the smallest area?",
+        "Query": "SELECT ?rg { { SELECT ?rg (strdf:area(?rgWKT) AS ?area) WHERE { <http://yago-knowledge.org/resource/Peloponnese_(region)> geo:hasGeometry ?tgeo . ?tgeo geo:asWKT ?tWKT . ?rg rdf:type y2geoo:GAG_Region ; geo:hasGeometry ?rggeo . ?rggeo geo:asWKT ?rgWKT . FILTER(geof:sfTouches(?rgWKT,?tWKT)) . } ORDER BY ASC(?area) LIMIT 1 } }"
+    },
+    "1122": {
+        "Question": "Where is the Buckingham Palace located?",
+        "Query": "SELECT ?city WHERE { yago:Buckingham_Palace yago:isLocatedIn ?city }"
+    },
+    "611": {
+        "Question": "Which counties border with Nottinghamshire?",
+        "Query": "SELECT ?county WHERE { <http://yago-knowledge.org/resource/Nottinghamshire> geo:hasGeometry ?geomLC. ?geomLC geo:asWKT ?lcWKT. ?county rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OS_County>; geo:hasGeometry ?geomC. ?geomC geo:asWKT ?cWKT. FILTER(geof:sfTouches(strdf:transform(?lcWKT, <http://www.opengis.net/def/crs/EPSG/0/4326>), strdf:transform(?cWKT, <http://www.opengis.net/def/crs/EPSG/0/4326>))) }"
+    },
+    "718": {
+        "Question": "Can you provide me with the names of 4 villages located in rural areas south of Dublin?",
+        "Query": "SELECT DISTINCT ?vil WHERE{ yago:Dublin geo:hasGeometry ?dblnGeo. ?dblnGeo geo:asWKT ?dblnPolygon. ?vil rdf:type y2geoo:OSM_village. ?vil geo:hasGeometry ?vilGeo. ?vilGeo geo:asWKT ?vilPolygon. ?ra rdf:type y2geoo:OSI_Rural_Area. ?ra geo:hasGeometry ?raGeo. ?raGeo geo:asWKT ?raPolygon. FILTER( strdf:below(?raPolygon,?dblnPolygon) && geof:sfWithin(?vilPolygon,?raPolygon) ) } LIMIT 4"
+    },
+    "921": {
+        "Question": "How many parks contain streams?",
+        "Query": "SELECT (COUNT (DISTINCT ?park) as ?parks) where{ ?park a y2geoo:OSM_park. ?park geo:hasGeometry ?parkGeometry . ?parkGeometry geo:asWKT ?parkWKT . ?stream a y2geoo:OSM_stream. ?stream geo:hasGeometry ?streamGeometry . ?streamGeometry geo:asWKT ?streamWKT . FILTER(geof:sfContains(?parkWKT,?streamWKT )). }"
+    },
+    "1027": {
+        "Question": "Which 5 municipalities east of Athens have the most residents?",
+        "Query": "SELECT DISTINCT ?municipality WHERE {yago:geoentity_Dimos_Athens_8133876 geo:hasGeometry ?o. ?o geo:asWKT ?WKT. ?municipality rdf:type y2geoo:GAG_Municipality; y2geoo:hasGAG_Population ?population; geo:hasGeometry ?o1. ?o1 geo:asWKT ?WKT1. FILTER(strdf:right(?WKT1, ?WKT)) } ORDER BY DESC(?population) LIMIT 5"
+    },
+    "528": {
+        "Question": "Which counties border county Essex?",
+        "Query": "select distinct ?county where { yago:Essex geo:hasGeometry ?geomEss. ?geomEss geo:asWKT ?wktEss. ?county rdf:type y2geoo:OS_County; geo:hasGeometry ?geomC. ?geomC geo:asWKT ?wktC. FILTER(geof:sfTouches(?wktEss, ?wktC)) }"
+    },
+    "341": {
+        "Question": "Is Crete south of Thessaly?",
+        "Query": "ASK { <http://yago-knowledge.org/resource/Crete> geo:hasGeometry ?geo1 . <http://yago-knowledge.org/resource/Thessaly> geo:hasGeometry ?geo2 . ?geo1 geo:asWKT ?geoWKT1 . ?geo2 geo:asWKT ?geoWKT2 . FILTER(strdf:below(?geoWKT1, ?geoWKT2)) }"
+    },
+    "826": {
+        "Question": "How many cities have beaches?",
+        "Query": "SELECT (COUNT (DISTINCT ?city) as ?cities) WHERE { ?city rdf:type y2geoo:OSM_city . ?city geo:hasGeometry ?geoC . ?geoC geo:asWKT ?cWKT . ?beach rdf:type y2geoo:OSM_beach . ?beach geo:hasGeometry ?geoB . ?geoB geo:asWKT ?bWKT . FILTER(geof:sfWithin(?bWKT, ?cWKT)) }"
+    },
+    "1140": {
+        "Question": "Which state does Dallas belong to?",
+        "Query": "SELECT ?state WHERE { ?state a yago:wikicategory_States_of_the_United_States . yago:Dallas yago:isLocatedIn+ ?state. }"
+    },
+    "421": {
+        "Question": "Is Birmingham west of Leicester?",
+        "Query": "ASK { <http://yago-knowledge.org/resource/Birmingham> geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. <http://yago-knowledge.org/resource/Leicester> geo:hasGeometry ?o1. ?o1 geo:asWKT ?geoWKT1. FILTER(strdf:left(?geoWKT,?geoWKT1)) }"
+    },
+    "267": {
+        "Question": "What is the population of Nikaia-Agios Ioannis Rentis?",
+        "Query": "select ?o where { <http://yago-knowledge.org/resource/Nikaia-Agios_Ioannis_Rentis> <http://kr.di.uoa.gr/yago2geo/ontology/hasGAG_Population> ?o. }"
+    },
+    "628": {
+        "Question": "Which municipalities border with both Pallini and Agia Paraskevi?",
+        "Query": "select DISTINCT ?muni where {?muni a y2geoo:GAG_Municipality . ?muni geo:hasGeometry ?geom . ?geom geo:asWKT ?wkt . yago:Agia_Paraskevi geo:hasGeometry ?geom1 . ?geom1 geo:asWKT ?rpwkt . yago:Pallini geo:hasGeometry ?geom2 . ?geom2 geo:asWKT ?pwkt . FILTER(strdf:touches(?wkt,?rpwkt)). FILTER(strdf:touches(?wkt,?pwkt)).}"
+    },
+    "567": {
+        "Question": "Which beaches are at most 100 km away from Ormos Vourkari?",
+        "Query": "SELECT DISTINCT ?beach WHERE { ?beach a y2geoo:OSM_beach. ?beach geo:hasGeometry ?x1Geo. ?x1Geo geo:asWKT ?x1WKT. <http://yago-knowledge.org/resource/geoentity_\u0393\u201crmos_Vourk\u0393\u0385ri_251740> geo:hasGeometry ?x2Geo. ?x2Geo geo:asWKT ?x2WKT. FILTER(geof:distance(?x1WKT, ?x2WKT, uom:metre) <= 100000) }"
+    },
+    "578": {
+        "Question": "Are there any rivers connected with lake Lough Corrib?",
+        "Query": "ASK { ?river rdf:type y2geoo:OSM_stream . ?river geo:hasGeometry ?rgeom . ?rgeom geo:asWKT ?rwkt . yago:Lough_Corrib geo:hasGeometry ?lgeom . ?lgeom geo:asWKT ?lwkt . FILTER(geof:sfIntersects(?rwkt, ?lwkt)). }"
+    },
+    "209": {
+        "Question": "What is the total area of Glengarra Wood forest?",
+        "Query": "select distinct (strdf:area(?geoWKT) as ?area) where { <http://yago-knowledge.org/resource/geoentity_Glengarra_Wood_3300941> geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. }"
+    },
+    "1088": {
+        "Question": "How many counties of Texas are larger than Austin?",
+        "Query": "SELECT (COUNT(?county) as ?count) WHERE { { SELECT ?county (strdf:area(?countyWKT) AS ?county_area) (strdf:area(?austinWKT) AS ?austin_area) WHERE { ?county y2geoo:hasGADM_Description \"County\" ; geo:hasGeometry ?countyGeom . ?countyGeom geo:asWKT ?countyWKT . yago:Texas geo:hasGeometry ?tGeom . ?tGeom geo:asWKT ?texasWKT . <http://yago-knowledge.org/resource/Austin_County,_Texas> geo:hasGeometry ?aGeom . ?aGeom geo:asWKT ?austinWKT . FILTER(geof:sfWithin(?countyWKT,?texasWKT)) . } } FILTER(?county_area > ?austin_area)}"
+    },
+    "903": {
+        "Question": "What is the total area of lakes in the state of Texas?",
+        "Query": "SELECT (sum(?lakeArea) as ?oSum) WHERE { { SELECT ((strdf:area(?lakeWKT)) as ?lakeArea) WHERE{ yago:Texas geo:hasGeometry ?o1 . ?o1 geo:asWKT ?baronyWKT . ?lake a y2geoo:OSM_lake . ?lake geo:hasGeometry ?o2 . ?o2 geo:asWKT ?lakeWKT. FILTER(geof:sfWithin(?lakeWKT, ?baronyWKT )) } } }"
+    },
+    "252": {
+        "Question": "How many citizens does Astypalaia have?",
+        "Query": "SELECT ?p WHERE { <http://yago-knowledge.org/resource/Astypalaia> y2geoo:hasGAG_Population ?p }"
+    },
+    "1038": {
+        "Question": "Which is the biggest lake in County Kerry?",
+        "Query": "SELECT ?lake WHERE { { SELECT ?lake (strdf:area(?WKT2) as ?area) WHERE { yago:County_Kerry geo:hasGeometry ?rep1 . ?rep1 geo:asWKT ?WKT1 . ?lake rdf:type y2geoo:OSM_lake ; geo:hasGeometry ?rep2 . ?rep2 geo:asWKT ?WKT2 . FILTER(geof:sfWithin(?WKT2,?WKT1)). } ORDER BY DESC(?area) LIMIT 1 } }"
+    },
+    "615": {
+        "Question": "Which is the largest park by area in the municipality of Athens?",
+        "Query": "SELECT DISTINCT ?park ((strdf:area(?pWKT)) AS ?totalArea) WHERE { ?park rdf:type y2geoo:OSM_park. ?park <http://www.opengis.net/ont/geosparql#hasGeometry> ?pGeom. ?pGeom geo:asWKT ?pWKT. yago:geoentity_Dimos_Athens_8133876 <http://www.opengis.net/ont/geosparql#hasGeometry> ?lcGeom. ?lcGeom geo:asWKT ?lcWKT. FILTER(geof:sfWithin(?pWKT, ?lcWKT)) } ORDER BY DESC(?totalArea) LIMIT 1"
+    },
+    "172": {
+        "Question": "Does Everton FC plays in Liverpool?",
+        "Query": "ASK { <http://yago-knowledge.org/resource/Everton_F.C.> <http://yago-knowledge.org/resource/infobox/en/ground> ?o. FILTER(contains(?o,\"Liverpool\"))\n}"
+    },
+    "349": {
+        "Question": "Is the municipality of Thessaloniki located to the north of the municipality of Trikala?",
+        "Query": "ASK { <http://yago-knowledge.org/resource/geoentity_Dimos_Thessaloniki_8133841> geo:hasGeometry ?thesgeo . ?thesgeo geo:asWKT ?thesWKT . <http://yago-knowledge.org/resource/geoentity_Dimos_Trikala_8133844> geo:hasGeometry ?trikgeo . ?trikgeo geo:asWKT ?trikWKT . FILTER (strdf:above(?thesWKT,?trikWKT)) . }"
+    },
+    "581": {
+        "Question": "How many county councils does the Republic of Ireland have?",
+        "Query": "select (count(distinct ?x) as ?totalX) where { ?x rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OSI_County_Council>; geo:hasGeometry ?cGeom. ?cGeom geo:asWKT ?cWKT. <http://yago-knowledge.org/resource/Republic_of_Ireland> geo:hasGeometry ?iGeom. ?iGeom geo:asWKT ?iWKT. FILTER(geof:sfContains(?iWKT,?cWKT)) }"
+    },
+    "153": {
+        "Question": "What is the name of Britain's longest river?",
+        "Query": " select distinct ?name ?property where { { ?x rdf:type <http://yago-knowledge.org/resource/wordnet_river_109411430>. ?x <http://yago-knowledge.org/resource/isLocatedIn> <http://yago-knowledge.org/resource/England>. ?x <http://yago-knowledge.org/resource/hasLength> ?property. ?x rdfs:label ?name. } UNION { ?x rdf:type <http://yago-knowledge.org/resource/wordnet_river_109411430>. ?x <http://yago-knowledge.org/resource/isLocatedIn> <http://yago-knowledge.org/resource/Wales>. ?x <http://yago-knowledge.org/resource/hasLength> ?property. ?x rdfs:label ?name. } UNION { ?x rdf:type <http://yago-knowledge.org/resource/wordnet_river_109411430>. ?x <http://yago-knowledge.org/resource/isLocatedIn> <http://yago-knowledge.org/resource/Scotland>. ?x <http://yago-knowledge.org/resource/hasLength> ?property. ?x rdfs:label ?name. } } ORDER BY DESC(xsd:integer(str(?property))) LIMIT 1\n"
+    },
+    "671": {
+        "Question": "Which county bordering the city of Cork contains the largest lake?",
+        "Query": "SELECT DISTINCT ?county (strdf:area(?B) AS ?biggest_lake) WHERE { <http://yago-knowledge.org/resource/geoentity_Cork_City_7778678> geo:hasGeometry ?o. ?o geo:asWKT ?A. { ?county rdf:type y2geoo:OSI_County_Council . } UNION { ?county rdf:type y2geoo:OSI_City_and_County_Council. } . ?county <http://www.opengis.net/ont/geosparql#hasGeometry> ?geomC. ?geomC geo:asWKT ?C. ?lake rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OSM_lake>; <http://www.opengis.net/ont/geosparql#hasGeometry> ?geomB. ?geomB geo:asWKT ?B. FILTER(strdf:touches(?C,?A)). FILTER(strdf:within(?B,?C)). } ORDER BY DESC (?biggest_lake) LIMIT 1"
+    },
+    "565": {
+        "Question": "Which counties are adjacent to the county of Meath?",
+        "Query": "SELECT distinct ?county WHERE { yago:County_Meath geo:hasGeometry ?o . ?o geo:asWKT ?geoWKT . { ?county rdf:type y2geoo:OSI_County_Council . } UNION { ?county rdf:type y2geoo:OSI_City_and_County_Council. } . ?county geo:hasGeometry ?o1 . ?o1 geo:asWKT ?geoWKT1 . FILTER(strdf:touches(?geoWKT, ?geoWKT1)) }"
+    },
+    "401": {
+        "Question": "Is Howth far from Dublin?",
+        "Query": "ASK { <http://yago-knowledge.org/resource/Howth> geo:hasGeometry ?g1. ?g1 geo:asWKT ?wkt1. yago:Dublin geo:hasGeometry ?g2. ?g2 geo:asWKT ?wkt2. FILTER(geof:distance(?wkt1, ?wkt2, uom:metre) > 5000). }"
+    },
+    "1096": {
+        "Question": "What is the population of Northern Ireland?",
+        "Query": "SELECT (xsd:integer (?population) as ?pop) WHERE { yago:Northern_Ireland yago:hasPopulation ?population. }"
+    },
+    "957": {
+        "Question": "Which lake is closest to the municipality of Athens?",
+        "Query": "SELECT DISTINCT ?lake WHERE {?lake a y2geoo:OSM_lake . ?lake geo:hasGeometry ?lake_geom . ?lake_geom geo:asWKT ?lake_wkt. yago:geoentity_Dimos_Athens_8133876 geo:hasGeometry ?o . ?o geo:asWKT ?muni_wkt. } ORDER BY geof:distance(?muni_wkt, ?lake_wkt, uom:metre) LIMIT 1"
+    },
+    "766": {
+        "Question": "Which parks are entirely contained in counties that are east of the county of Longford?",
+        "Query": "SELECT DISTINCT ?l WHERE { yago:County_Longford geo:hasGeometry ?ng . ?ng geo:asWKT ?nw . ?m a y2geoo:OS_County. ?m geo:hasGeometry ?mg . ?mg geo:asWKT ?mw . FILTER(strdf:left(?nw, ?mw)). ?l a y2geoo:OSM_park . ?l geo:hasGeometry ?lg . ?lg geo:asWKT ?lw . FILTER(geof:sfWithin(?lw,?mw)) }"
+    },
+    "1136": {
+        "Question": "What memorials can I visit in Dublin?",
+        "Query": "SELECT DISTINCT ?mon WHERE { ?type rdfs:subClassOf+ yago:wordnet_memorial_103743902. ?mon a ?type . ?mon yago:isLocatedIn yago:Dublin. }"
+    },
+    "814": {
+        "Question": "What is the total number of lakes and the total number of streams located within the city limits of Cork?",
+        "Query": "Select (count(distinct ?lake) as ?total_lakes) (count(distinct ?stream ) as ?total_streams) Where { <http://yago-knowledge.org/resource/geoentity_Cork_City_7778678> geo:hasGeometry ?o. ?o geo:asWKT ?A. ?lake rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OSM_lake>; <http://www.opengis.net/ont/geosparql#hasGeometry> ?geomB. ?geomB geo:asWKT ?B. ?stream rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OSM_stream>; <http://www.opengis.net/ont/geosparql#hasGeometry> ?geomC. ?geomC geo:asWKT ?C. FILTER(strdf:within(?B,?A)). FILTER(strdf:within(?C,?A)). }"
+    },
+    "254": {
+        "Question": "What is the location of County Cork?",
+        "Query": "select ?geoWKT{ yago:County_Cork geo:hasGeometry ?geom . ?geom geo:asWKT ?geoWKT. }"
+    },
+    "862": {
+        "Question": "How many lakes overlap with metropolitan districts?",
+        "Query": "SELECT (COUNT (DISTINCT ?Lake) as ?lakes) WHERE{ ?MD rdf:type y2geoo:OS_MetropolitanDistrict. ?MD geo:hasGeometry ?MDGeo. ?MDGeo geo:asWKT ?MDPolygon. ?Lake rdf:type y2geoo:OSM_lake. ?Lake geo:hasGeometry ?LakeGeo. ?LakeGeo geo:asWKT ?LakePolygon . FILTER(strdf:overlaps(?MDPolygon,?LakePolygon)) }"
+    },
+    "672": {
+        "Question": "Are there district wards within districts in Cambridge?",
+        "Query": "ASK { <http://kr.di.uoa.gr/yago2geo/resource/Geometry_gadm_GBR.1.16_1> geo:asWKT ?C. ?District rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OS_District>; geo:hasGeometry ?geomL. ?geomL geo:asWKT ?A. ?DistrictWard rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OS_DistrictWard>;<http://www.opengis.net/ont/geosparql#hasGeometry> ?geom. ?geom geo:asWKT ?B. FILTER (strdf:within(?B,?A)) . FILTER (strdf:within(?A,?C)) }"
+    },
+    "1055": {
+        "Question": "Is Northern Ireland the least forested country in the UK?",
+        "Query": "ASK { { SELECT (SUM(strdf:area(?fccWKT)) as ?areaCC) WHERE { yago:United_Kingdom geo:hasGeometry ?ukGeo . ?ukGeo geo:asWKT ?ukWKT . ?constituentCountry rdf:type y2geoo:GADM_2ndOrder_AdministrativeUnit . ?constituentCountry geo:hasGeometry ?cGeo . ?cGeo geo:asWKT ?cWKT . ?forectCC rdf:type y2geoo:OSM_forest . ?forectCC geo:hasGeometry ?fccGeo . ?fccGeo geo:asWKT ?fccWKT . FILTER(?constituentCountry != yago:Northern_Ireland && geof:sfWithin(?cWKT,?ukWKT) && geof:sfWithin(?fccWKT,?cWKT)) . } } { SELECT (SUM(strdf:area(?fccWKT)) as ?areaNI) WHERE { yago:Northern_Ireland geo:hasGeometry ?niGeo . ?niGeo geo:asWKT ?niWKT . ?forectNI rdf:type y2geoo:OSM_forest . ?forectNI geo:hasGeometry ?fniGeo . ?fniGeo geo:asWKT ?fniWKT . FILTER(geof:sfWithin(?fniWKT,?niWKT)) . } } FILTER(?areaNI < ?areaCC ) . }"
+    },
+    "422": {
+        "Question": "Is Cork City west of Dublin?",
+        "Query": "ASK { <http://yago-knowledge.org/resource/geoentity_Cork_City_7778678> geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. <http://yago-knowledge.org/resource/Dublin> geo:hasGeometry ?o1. ?o1 geo:asWKT ?geoWKT1. FILTER(strdf:left(?geoWKT,?geoWKT1)) }"
+    },
+    "1173": {
+        "Question": "How many universities are there in Ireland?",
+        "Query": "SELECT (COUNT(?uni)) WHERE { ?type rdfs:subClassOf+ yago:wordnet_university_108286163. ?uni a ?type . ?uni yago:isLocatedIn+ yago:Republic_of_Ireland. }"
+    },
+    "950": {
+        "Question": "How many islands have no towns, villages or cities?",
+        "Query": "SELECT (COUNT(?island) as ?islands) { ?island rdf:type y2geoo:OSM_island . ?island geo:hasGeometry ?iGeo . ?iGeo geo:asWKT ?iWKT . FILTER NOT EXISTS { ?town rdf:type y2geoo:OSM_town . ?town geo:hasGeometry ?tGeo . ?tGeo geo:asWKT ?tWKT . FILTER(geof:sfWithin(?tWKT,?iWKT)) . } FILTER NOT EXISTS { ?city rdf:type y2geoo:OSM_city . ?city geo:hasGeometry ?cGeo . ?cGeo geo:asWKT ?cWKT . FILTER(geof:sfWithin(?cWKT,?iWKT)) . } FILTER NOT EXISTS { ?village rdf:type y2geoo:OSM_village . ?village geo:hasGeometry ?vGeo . ?vGeo geo:asWKT ?vWKT . FILTER(geof:sfWithin(?vWKT,?iWKT)) . } }"
+    },
+    "483": {
+        "Question": "Which beaches are near Mykonos?",
+        "Query": "select distinct ?beach where { <http://yago-knowledge.org/resource/Mykonos> <http://www.opengis.net/ont/geosparql#hasGeometry> ?geomLC. ?geomLC geo:asWKT ?lcnWKT. ?beach rdf:type y2geoo:OSM_beach . ?beach <http://www.opengis.net/ont/geosparql#hasGeometry> ?geomL. ?geomL geo:asWKT ?lWKT. FILTER (geof:distance(?lcnWKT, ?lWKT, uom:metre)<5000). }"
+    },
+    "598": {
+        "Question": "Which Unitary Authorities exist in Wales?",
+        "Query": "SELECT DISTINCT ?order3neighbour WHERE { yago:Wales geo:hasGeometry ?walesGeo . ?walesGeo geo:asWKT ?walesWKT . ?order3neighbour rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OS_UnitaryAuthority> . ?order3neighbour geo:hasGeometry ?order3neighbourgeo . ?order3neighbourgeo geo:asWKT ?order3neighbourgeoWKT . FILTER(geof:sfContains(?walesWKT,?order3neighbourgeoWKT)) }"
+    },
+    "370": {
+        "Question": "Is Rhodes west of Patmos?",
+        "Query": "ASK { <http://yago-knowledge.org/resource/Rhodes> geo:hasGeometry ?geo1 . ?geo1 geo:asWKT ?wkt1 . <http://yago-knowledge.org/resource/Patmos> geo:hasGeometry ?geo2 . ?geo2 geo:asWKT ?wkt2 . FILTER(strdf:left(?wkt1,?wkt2)) }"
+    },
+    "1134": {
+        "Question": "Does Liverpool have a stadium?",
+        "Query": "ASK { ?stadium a yago:geoclass_stadium . ?stadium yago:isLocatedIn yago:Liverpool. }"
+    },
+    "1151": {
+        "Question": "Which are the metropolitan counties of England?",
+        "Query": "SELECT ?county WHERE { ?county a yago:wikicategory_Metropolitan_counties }"
+    },
+    "590": {
+        "Question": "Which Municipalities are on Thessaly's border?",
+        "Query": "SELECT distinct ?rg where { yago:Thessaly geo:hasGeometry ?tgeo . ?tgeo geo:asWKT ?tgWKT . ?rg rdf:type y2geoo:GAG_Municipality . ?rg geo:hasGeometry ?rggeo . ?rggeo geo:asWKT ?rgWKT . FILTER (strdf:touches(?tgWKT,?rgWKT)) . }"
+    },
+    "487": {
+        "Question": "Which Municipalities intersect with the Regional Unit of Piraeus?",
+        "Query": "SELECT DISTINCT ?municipality WHERE { yago:geoentity_Perifereiak\u0393\u00ad_En\u0393\u00b3tita_Peirai\u0393\u00b3s_8200486 geo:hasGeometry ?rep1 . ?rep1 geo:asWKT ?WKT1. ?municipality rdf:type y2geoo:GAG_Municipality. ?municipality geo:hasGeometry ?rep2 . ?rep2 geo:asWKT ?WKT2. FILTER(strdf:intersects(strdf:buffer(?WKT2, 0, uom:metre), strdf:buffer(?WKT1, 0, uom:metre))) }"
+    },
+    "759": {
+        "Question": "Are there lakes located inside forests in Ireland?",
+        "Query": "ASK { ?for a y2geoo:OSM_forest . ?for geo:hasGeometry ?o . ?o geo:asWKT ?forestGeo . ?lake a y2geoo:OSM_lake . ?lake geo:hasGeometry ?o2 . ?o2 geo:asWKT ?lakeGeo . yago:Republic_of_Ireland geo:hasGeometry ?ir. ?ir geo:asWKT ?irWKT. FILTER(geof:sfContains(?forestGeo , ?lakeGeo) && geof:sfWithin(?lakeGeo, ?irWKT )) }"
+    },
+    "1184": {
+        "Question": "Which is the most populated province of Ireland ?",
+        "Query": "SELECT ?city ?pop WHERE{ ?type rdfs:subClassOf+ yago:wordnet_administrative_district_108491826 . ?city a ?type . ?city yago:isLocatedIn+ yago:Republic_of_Ireland . ?city yago:hasPopulation ?pop . } ORDER BY DESC(xsd:integer(?pop)) LIMIT 1"
+    },
+    "661": {
+        "Question": "Which streams cross counties that border Cumbria ?",
+        "Query": "SELECT distinct ?stream WHERE { yago:Cumbria geo:hasGeometry ?lgeo . ?lgeo geo:asWKT ?lWKT . ?county rdf:type y2geoo:OS_County. ?county geo:hasGeometry ?geo . ?geo geo:asWKT ?WKT . ?stream rdf:type y2geoo:OSM_stream . ?stream geo:hasGeometry ?sgeo . ?sgeo geo:asWKT ?sWKT . FILTER(geof:sfTouches(?lWKT,?WKT)). FILTER (strdf:crosses(?WKT,?sWKT)) . }"
+    },
+    "1175": {
+        "Question": "In how many states are there intercontinental hotels ?",
+        "Query": "SELECT (COUNT (DISTINCT ?states) AS ?statesnum) WHERE {?states a yago:wikicategory_States_of_the_United_States. ?hotel a yago:wikicategory_InterContinental_hotels. ?hotel yago:isLocatedIn+ ?states . }"
+    },
+    "920": {
+        "Question": "What is the total count of villages located on the border of cities?",
+        "Query": "SELECT (COUNT (DISTINCT ?village) as ?villages) WHERE{ ?City rdf:type y2geoo:OSM_city. ?City geo:hasGeometry ?CityGeo. ?CityGeo geo:asWKT ?CityPolygon. ?village rdf:type y2geoo:OSM_village. ?village geo:hasGeometry ?villageGeo. ?villageGeo geo:asWKT ?villagePolygon . FILTER (geof:sfTouches(?villagePolygon, ?CityPolygon)) . }"
+    },
+    "1082": {
+        "Question": "How large is the largest forest in Greece?",
+        "Query": "SELECT (MAX(strdf:area(?forest_geoWKT)) AS ?areas_max) WHERE { <http://yago-knowledge.org/resource/Greece> geo:hasGeometry ?greeceGeo . ?greeceGeo geo:asWKT ?greeceWKT . ?forest rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OSM_forest> . ?forest geo:hasGeometry ?forest_geo . ?forest_geo geo:asWKT ?forest_geoWKT . FILTER(geof:sfWithin(?forest_geoWKT,?greeceWKT)) }"
+    },
+    "260": {
+        "Question": "Where is Selby District located?",
+        "Query": "select distinct ?geoWKT where { yago:Selby_District geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. }"
+    },
+    "211": {
+        "Question": "What is the total area of Cambridgeshire?",
+        "Query": "SELECT (strdf:area(?WKT) AS ?totalArea) WHERE { yago:Cambridge geo:hasGeometry ?rep1 . ?rep1 geo:asWKT ?WKT }"
+    },
+    "1155": {
+        "Question": "Which rivers are in Ireland?",
+        "Query": "SELECT DISTINCT ?river WHERE { ?type rdfs:subClassOf+ yago:wordnet_river_109411430 . ?river a ?type . ?county a yago:wikicategory_Counties_of_the_Republic_of_Ireland . ?river yago:isLocatedIn+ ?county. }"
+    },
+    "1091": {
+        "Question": "Which English county has the most forests?",
+        "Query": "SELECT ?county { yago:England geo:hasGeometry ?eGeo . ?eGeo geo:asWKT ?eWKT . ?county rdf:type y2geoo:OS_County . ?county geo:hasGeometry ?cGeo . ?cGeo geo:asWKT ?cWKT . ?forest rdf:type y2geoo:OSM_forest . ?forest geo:hasGeometry ?fGeo . ?fGeo geo:asWKT ?fWKT . FILTER(geof:sfWithin(?cWKT,?eWKT) && geof:sfWithin(?fWKT,?cWKT)) . } GROUP BY (?county) ORDER BY DESC(COUNT(?forest)) LIMIT 1"
+    },
+    "148": {
+        "Question": "Which art museums are at most 1km from Charlotte Square in Edinburgh?",
+        "Query": " SELECT distinct ?poi WHERE { ?poi rdf:type osm:Museum. ?poi geo:hasGeometry ?geom . ?geom geo:asWKT ?wkt . ?instance osm:has_name \"Charlotte Square\"^^<http://www.w3.org/2001/XMLSchema#string> . ?instance geo:hasGeometry ?inGeom . ?inGeom geo:asWKT ?inWKT . FILTER (geof:distance(?wkt, ?inWKT, <http://www.opengis.net/def/uom/OGC/1.0/metre>) <= 1000 ) . }\n"
+    },
+    "168": {
+        "Question": "Is there a river in Ireland that crosses more than 3 cities?",
+        "Query": " ASK { { select distinct ?x where { ?x rdf:type <http://yago-knowledge.org/resource/wordnet_river_109411430>. ?y rdf:type <http://yago-knowledge.org/resource/wordnet_city_108524735>. ?x <http://yago-knowledge.org/resource/isLocatedIn> <http://yago-knowledge.org/resource/Ireland>. ?y <http://yago-knowledge.org/resource/isLocatedIn> <http://yago-knowledge.org/resource/Ireland>. ?x <http://yago-knowledge.org/resource/isLocatedIn> ?y. } GROUP BY(?x) HAVING(count(?y)>3) } }\n"
+    },
+    "504": {
+        "Question": "Which parks are in Manchester?",
+        "Query": "select distinct ?park where { <http://yago-knowledge.org/resource/Manchester> <http://www.opengis.net/ont/geosparql#hasGeometry> ?geomLC. ?geomLC geo:asWKT ?lcnWKT. ?park rdf:type y2geoo:OSM_park . ?park <http://www.opengis.net/ont/geosparql#hasGeometry> ?geomL. ?geomL geo:asWKT ?lWKT. FILTER(geof:sfWithin(?lWKT, ?lcnWKT)) }"
+    },
+    "403": {
+        "Question": "Is Kalamata north of Tripoli?",
+        "Query": "ASK WHERE { <http://yago-knowledge.org/resource/geoentity_Dimos_Kalamata_8133971> geo:hasGeometry ?o1 . ?o1 geo:asWKT ?kalamataGeo . <http://yago-knowledge.org/resource/Tripoli,_Greece> geo:hasGeometry ?o2 . ?o2 geo:asWKT ?tripoliGeo . FILTER(strdf:above(?kalamataGeo , ?tripoliGeo )) }"
+    },
+    "257": {
+        "Question": "Where is Kastanas beach located?",
+        "Query": "SELECT ?wkt WHERE{ yago:geoentity_Paral\u0393\u00ada_Kastan\u0393\u0385s_10277719 geo:hasGeometry ?rep1 . ?rep1 geo:asWKT ?wkt }"
+    },
+    "329": {
+        "Question": "What is the aggregate surface area of Liverpool?",
+        "Query": "select distinct (strdf:area(?geoWKT)as ?totalArea) where { yago:Liverpool geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. }"
+    },
+    "575": {
+        "Question": "Which states does Lake Michigan intersect?",
+        "Query": "SELECT ?state WHERE { yago:United_States geo:hasGeometry ?usGeo . ?usGeo geo:asWKT ?usWKT . ?state rdf:type y2geoo:GADM_2ndOrder_AdministrativeUnit . ?state geo:hasGeometry ?sGeo . ?sGeo geo:asWKT ?sWKT . FILTER(geof:sfContains(?usWKT, ?sWKT)) . yago:Lake_Michigan geo:hasGeometry ?laGeom . ?laGeom geo:asWKT ?laWKT . FILTER(strdf:intersects(?sWKT, ?laWKT)) }"
+    },
+    "974": {
+        "Question": "Which is the biggest forest in County Wexford?",
+        "Query": "SELECT ?forest WHERE { yago:County_Wexford geo:hasGeometry ?rep1 . ?rep1 geo:asWKT ?WKT1. ?forest rdf:type y2geoo:OSM_forest. ?forest geo:hasGeometry ?rep2 . ?rep2 geo:asWKT ?WKT2. FILTER(strdf:within(strdf:buffer(?WKT2, 0, uom:metre), strdf:buffer(?WKT1, 0, uom:metre))) } ORDER BY DESC (strdf:area(?WKT2)) LIMIT 1"
+    },
+    "54": {
+        "Question": "Is there a museum at most 1km from Liverpool?",
+        "Query": " ASK { ?museum rdf:type osm:Museum . ?museum geo:hasGeometry ?geom . ?geom geo:asWKT ?wkt . <http://yago-knowledge.org/resource/Liverpool> geo:hasGeometry ?livGeom . ?livGeom geo:asWKT ?livWKT . FILTER (geof:distance(?wkt, ?livWKT, <http://www.opengis.net/def/uom/OGC/1.0/metre>) < 1000 ) . }\n"
+    },
+    "713": {
+        "Question": "Which islands are east of villages in Greece?",
+        "Query": "SELECT DISTINCT ?x where{ ?y rdf:type y2geoo:OSM_village. ?y geo:hasGeometry ?ygeo. ?ygeo geo:asWKT ?yWKT. ?x rdf:type y2geoo:OSM_island. ?x geo:hasGeometry ?xgeo. ?xgeo geo:asWKT ?xWKT. <http://yago-knowledge.org/resource/Greece> geo:hasGeometry ?grgeo. ?grgeo geo:asWKT ?grWKT. FILTER(strdf:contains(?grWKT,?xWKT) && strdf:contains(?grWKT,?yWKT) && strdf:right(?xWKT,?yWKT)) }"
+    },
+    "599": {
+        "Question": "Which parks are less than 10km away from the city of Manchester?",
+        "Query": "select distinct ?park where{ yago:Manchester geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. ?park rdf:type y2geoo:OSM_park; geo:hasGeometry ?geomC. ?geomC geo:asWKT ?geoWKTr. FILTER(geof:distance(?geoWKT,?geoWKTr,uom:metre) <= 10000) }"
+    },
+    "649": {
+        "Question": "Which states have no lakes?",
+        "Query": "SELECT ?state WHERE { yago:United_States geo:hasGeometry ?usGeo . ?usGeo geo:asWKT ?usWKT . ?state rdf:type y2geoo:GADM_2ndOrder_AdministrativeUnit . ?state geo:hasGeometry ?sGeo . ?sGeo geo:asWKT ?sWKT . FILTER(geof:sfWithin(?sWKT,?usWKT)) . FILTER NOT EXISTS { ?lake rdf:type y2geoo:OSM_lake . ?lake geo:hasGeometry ?lGeo . ?lGeo geo:asWKT ?lWKT . FILTER(geof:sfWithin(?lWKT,?sWKT)) . } }"
+    },
+    "1000": {
+        "Question": "Which are the smallest 5 lakes north of Dublin?",
+        "Query": "select distinct ?y ((strdf:area(?yWKT))as ?totalArea) where{ ?y a y2geoo:OSM_lake. ?y geo:hasGeometry ?ygeo. ?ygeo geo:asWKT ?yWKT. <http://kr.di.uoa.gr/yago2geo/resource/gadmentity_Dublin_IRL.6_1> geo:hasGeometry ?xgeo. ?xgeo geo:asWKT ?xWKT. FILTER (strdf:above(strdf:transform(?yWKT, <http://www.opengis.net/def/crs/EPSG/0/4326>), strdf:transform(?xWKT, <http://www.opengis.net/def/crs/EPSG/0/4326>))) }ORDER BY ASC(?totalArea) LIMIT 5"
+    },
+    "452": {
+        "Question": "Is Belfast far from London?",
+        "Query": "ASK { <http://yago-knowledge.org/resource/geoentity_City_of_Belfast_3333223> geo:hasGeometry ?o. ?o geo:asWKT ?bWKT. <http://yago-knowledge.org/resource/geoentity_City_of_London_2643744> geo:hasGeometry ?o1. ?o1 geo:asWKT ?eWKT. FILTER(geof:distance(?bWKT, ?eWKT, uom:metre) > 5000) }"
+    },
+    "812": {
+        "Question": "What is the total number of localities in County Roscommon, and what is their total and average area?",
+        "Query": "SELECT (COUNT(DISTINCT ?locality) AS ?total) (SUM(strdf:area(?WKT2)) AS ?sum) (AVG(strdf:area(?WKT2)) AS ?avg) WHERE {yago:County_Roscommon geo:hasGeometry ?rep1 . ?rep1 geo:asWKT ?WKT1. ?locality rdf:type y2geoo:OSM_locality. ?locality geo:hasGeometry ?rep2 . ?rep2 geo:asWKT ?WKT2. FILTER(strdf:within(strdf:buffer(?WKT2, 0, uom:metre), strdf:buffer(?WKT1, 0, uom:metre))) }"
+    },
+    "1069": {
+        "Question": "Which are the easternmost towns of England?",
+        "Query": "SELECT DISTINCT ?town WHERE { yago:England geo:hasGeometry ?eGeo . ?eGeo geo:asWKT ?eWKT . ?town rdf:type y2geoo:OSM_town . ?town geo:hasGeometry ?tGeo . ?tGeo geo:asWKT ?tWKT . ?westernTown rdf:type y2geoo:OSM_town . ?westernTown geo:hasGeometry ?wGeo . ?wGeo geo:asWKT ?wWKT . FILTER(geof:sfWithin(?tWKT, ?eWKT) && geof:sfWithin(?wWKT, ?eWKT) ). FILTER NOT EXISTS { FILTER(?town!= ?westernTown && strdf:right(?wWKT,?tWKT)) . } }"
+    },
+    "438": {
+        "Question": "Is Whitehall located to the west of Trafalgar Square?",
+        "Query": "ASK { yago:Whitehall geo:hasGeometry ?a . ?a geo:asWKT ?A . yago:Trafalgar_Square geo:hasGeometry ?b . ?b geo:asWKT ?B . FILTER(strdf:left(?A,?B)) . }"
+    },
+    "1119": {
+        "Question": "How long is Loch Awe?",
+        "Query": "SELECT ?length WHERE { yago:Loch_Awe yago:hasLength ?length }"
+    },
+    "805": {
+        "Question": "What are the largest lakes that belong to counties south of Epping Forest?",
+        "Query": "SELECT DISTINCT ?locality ((strdf:area(?locality_geoWKT)) as ?lakeArea) WHERE { <http://yago-knowledge.org/resource/Epping_Forest> geo:hasGeometry ?for_geo . ?for_geo geo:asWKT ?for_geoWKT . ?county rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OS_County> . ?county geo:hasGeometry ?county_geo . ?county_geo geo:asWKT ?county_geoWKT . FILTER(strdf:above(?for_geoWKT,?county_geoWKT)) ?locality rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OSM_lake> . ?locality geo:hasGeometry ?locality_geo . ?locality_geo geo:asWKT ?locality_geoWKT . FILTER(geof:sfWithin(?locality_geoWKT,?county_geoWKT)) } ORDER BY DESC(?lakeArea) LIMIT 1"
+    },
+    "321": {
+        "Question": "Where is Nottinghamshire located?",
+        "Query": "select distinct ?geoWKT where {yago:Nottinghamshire geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. }"
+    },
+    "405": {
+        "Question": "Is Liverpool south of Scotland?",
+        "Query": "ASK{ yago:Liverpool geo:hasGeometry ?rep1 . ?rep1 geo:asWKT ?lWKT. yago:Scotland geo:hasGeometry ?rep2 . ?rep2 geo:asWKT ?sWKT. FILTER(strdf:below(?lWKT, ?sWKT)). }"
+    },
+    "43": {
+        "Question": "Which medieval castles are in Scotland?",
+        "Query": " select distinct ?x where { ?x rdf:type <http://yago-knowledge.org/resource/wordnet_palace_103878066>. ?x <http://yago-knowledge.org/resource/isLocatedIn> <http://yago-knowledge.org/resource/Scotland>. }\n"
+    },
+    "402": {
+        "Question": "Is Athlone northeast of Portumna?",
+        "Query": "ASK WHERE { <http://yago-knowledge.org/resource/Athlone> geo:hasGeometry ?o2 . ?o2 geo:asWKT ?athloneWKT . <http://yago-knowledge.org/resource/Portumna> geo:hasGeometry ?o . ?o geo:asWKT ?portumnaWKT . FILTER(strdf:right(?athloneWKT, ?portumnaWKT)) . FILTER(strdf:above(?athloneWKT, ?portumnaWKT)) }"
+    },
+    "588": {
+        "Question": "Are there any beaches near the city of Chania?",
+        "Query": "ASK { yago:geoentity_Chania_8133762 <http://www.opengis.net/ont/geosparql#hasGeometry> ?geomLC. ?geomLC geo:asWKT ?lcnWKT. ?beach rdf:type y2geoo:OSM_beach . ?beach <http://www.opengis.net/ont/geosparql#hasGeometry> ?geomL. ?geomL geo:asWKT ?lWKT. FILTER (geof:distance(?lcnWKT, ?lWKT, uom:metre)<5000). }"
+    },
+    "337": {
+        "Question": "How many people live in Missouri?",
+        "Query": "SELECT (sum(xsd:double(?pop)) as ?population) WHERE { yago:Missouri geo:hasGeometry ?aGeo . ?aGeo geo:asWKT ?aWKT . ?county y2geoo:hasGADM_Description \"County\" . ?county geo:hasGeometry ?cGeom . ?cGeom geo:asWKT ?cWKT . FILTER(strdf:within(?cWKT, ?aWKT)) . ?county y2geoo:POPULATION ?pop }"
+    },
+    "1147": {
+        "Question": "Which island in New York is the Statue of Liberty on?",
+        "Query": "SELECT ?island WHERE { ?island a yago:wikicategory_Islands_of_New_York_City . yago:Statue_of_Liberty yago:isLocatedIn ?island. }"
+    },
+    "48": {
+        "Question": "How many rivers cross Edinburgh?",
+        "Query": " SELECT (count(distinct ?x)as ?total) WHERE { ?x rdf:type <http://yago-knowledge.org/resource/wordnet_river_109411430>. ?x <http://yago-knowledge.org/resource/isLocatedIn> <http://yago-knowledge.org/resource/Edinburgh>. }\n"
+    },
+    "800": {
+        "Question": "Is there a village in Scotland with an area smaller than 0.05 square kilometers?",
+        "Query": "ASK{?village rdf:type y2geoo:OSM_village. ?village geo:hasGeometry ?vg. ?vg geo:asWKT ?vgeoWKT. yago:Scotland geo:hasGeometry ?g. ?g geo:asWKT ?geoWKT. FILTER(strdf:within(?vgeoWKT, ?geoWKT)).FILTER(strdf:area(?vgeoWKT) < 0.05). }"
+    },
+    "213": {
+        "Question": "Where is Aghaboy located?",
+        "Query": "SELECT DISTINCT ?geoWKT WHERE { <http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629C17E13A3E055000000000001> geo:hasGeometry ?o . ?o geo:asWKT ?geoWKT }"
+    },
+    "283": {
+        "Question": "Which are the inflows and outflows of Lake Michigan?",
+        "Query": "SELECT ?river WHERE { ?river rdf:type y2geoo:OSM_stream . ?river geo:hasGeometry ?rgeom . ?rgeom geo:asWKT ?rwkt . yago:Lake_Michigan geo:hasGeometry ?lgeom . ?lgeom geo:asWKT ?lwkt . FILTER(geof:sfIntersects(?rwkt, ?lwkt)). }"
+    },
+    "396": {
+        "Question": "Is Thessaly south of Attica?",
+        "Query": "ASK { <http://yago-knowledge.org/resource/Thessaly> geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. <http://yago-knowledge.org/resource/Attica_(region)> geo:hasGeometry ?o1. ?o1 geo:asWKT ?geoWKT1. FILTER(strdf:below(?geoWKT,?geoWKT1))}"
+    },
+    "133": {
+        "Question": "Which countries border Wales?",
+        "Query": " select distinct ?country where { ?country rdf:type <http://yago-knowledge.org/resource/wordnet_country_108544813>. <http://yago-knowledge.org/resource/Wales> <http://yago-knowledge.org/resource/hasNeighbor> ?country. }\n"
+    },
+    "177": {
+        "Question": "Does England have more counties than Ireland?",
+        "Query": " select (COUNT(DISTINCT ?x) > COUNT(DISTINCT ?y)) { { select ?x { ?x rdf:type <http://yago-knowledge.org/resource/wordnet_county_108546183>. ?x <http://yago-knowledge.org/resource/isLocatedIn> <http://yago-knowledge.org/resource/England>. }} { select ?y { ?y rdf:type <http://yago-knowledge.org/resource/wordnet_county_108546183>. ?y <http://yago-knowledge.org/resource/isLocatedIn> <http://yago-knowledge.org/resource/Ireland>. }} }\n"
+    },
+    "334": {
+        "Question": "What is the size of Oklahoma?",
+        "Query": "SELECT (strdf:area(?wkt) as ?oarea) WHERE { yago:Oklahoma geo:hasGeometry ?geo . ?geo geo:asWKT ?wkt }"
+    },
+    "277": {
+        "Question": "Where is Galway located?",
+        "Query": "SELECT ?wkt WHERE { y2geor:gadmentity_Galway_IRL.7_1 geo:hasGeometry ?geom . ?geom geo:asWKT ?wkt }"
+    },
+    "776": {
+        "Question": "Which US states border with Arkansas?",
+        "Query": "SELECT ?state WHERE { yago:United_States geo:hasGeometry ?usGeo . ?usGeo geo:asWKT ?usWKT . yago:Arkansas geo:hasGeometry ?cGeo . ?cGeo geo:asWKT ?cWKT . ?state rdf:type y2geoo:GADM_2ndOrder_AdministrativeUnit . ?state geo:hasGeometry ?sGeo . ?sGeo geo:asWKT ?sWKT . FILTER(geof:sfWithin(?sWKT,?usWKT) && geof:sfTouches(?sWKT,?cWKT)). }"
+    },
+    "1076": {
+        "Question": "Which 5 counties of the UK have the most forests?",
+        "Query": "SELECT DISTINCT ?county WHERE { ?county rdf:type y2geoo:OS_County . ?county geo:hasGeometry ?geoC . ?geoC geo:asWKT ?cWKT . ?forest rdf:type y2geoo:OSM_forest . ?forest geo:hasGeometry ?geoF . ?geoF geo:asWKT ?fWKT . FILTER(geof:sfWithin(?fWKT, ?cWKT)) } GROUP BY ?county ORDER BY DESC (COUNT(?forest)) LIMIT 5"
+    },
+    "985": {
+        "Question": "Show me the biggest park in Liverpool",
+        "Query": "SELECT ?park (strdf:area(?pWKT) AS ?parkArea) WHERE { yago:Liverpool geo:hasGeometry ?rep1 . ?rep1 geo:asWKT ?lWKT. ?park a y2geoo:OSM_park; geo:hasGeometry ?rep2 . ?rep2 geo:asWKT ?pWKT. FILTER(strdf:within(?pWKT, ?lWKT)). } ORDER BY DESC(?parkArea) LIMIT 1"
+    },
+    "614": {
+        "Question": "What is the largest body of water located in the region of County Kerry?",
+        "Query": "SELECT distinct ?lake (strdf:area(?sWKT) as ?area) WHERE { yago:County_Kerry geo:hasGeometry ?lgeo . ?lgeo geo:asWKT ?lWKT . ?lake rdf:type y2geoo:OSM_lake. ?lake geo:hasGeometry ?sgeo . ?sgeo geo:asWKT ?sWKT . FILTER (strdf:within(?sWKT,?lWKT)) . } order by desc (?area) limit 1"
+    },
+    "1009": {
+        "Question": "What is the 10th largest town in Alaska?",
+        "Query": "SELECT ?town WHERE { { SELECT DISTINCT ?town (strdf:area(?lWKT) as ?area) WHERE { yago:Alaska geo:hasGeometry ?geom . ?geom geo:asWKT ?mWKT . ?town a y2geoo:OSM_town . ?town geo:hasGeometry ?geol . ?geol geo:asWKT ?lWKT . FILTER (geof:sfContains(?mWKT, ?lWKT)) } ORDER BY DESC(?area) LIMIT 10 } } ORDER BY ASC(?area) LIMIT 1"
+    },
+    "958": {
+        "Question": "Which Irish county has the fewest townlands?",
+        "Query": "SELECT DISTINCT ?county (COUNT(?town) AS ?num) WHERE { { ?county rdf:type y2geoo:OSI_County_Council . } UNION { ?county rdf:type y2geoo:OSI_City_and_County_Council. } . ?town rdf:type y2geoo:OSI_Townland . ?county geo:hasGeometry ?geoc . ?geoc geo:asWKT ?cWKT . ?town geo:hasGeometry ?geot . ?geot geo:asWKT ?tWKT . FILTER(geof:sfWithin(?tWKT, ?cWKT)) } GROUP BY ?county ORDER BY (?num) LIMIT 1"
+    },
+    "901": {
+        "Question": "How many islands does Ireland have?",
+        "Query": "SELECT (COUNT(?island) as ?islands) WHERE {?island a y2geoo:OSM_island. ?island geo:hasGeometry ?islandGeom. ?islandGeom geo:asWKT ?islandWKT. yago:Republic_of_Ireland geo:hasGeometry ?irelandGeom. ?irelandGeom geo:asWKT ?irelandWKT. FILTER(geof:sfWithin(?islandWKT, ?irelandWKT)). }"
+    },
+    "445": {
+        "Question": "Is Belfast farther west than Galatsi?",
+        "Query": "ASK { yago:Elafonisos geo:hasGeometry ?o. ?o geo:asWKT ?geoWKT. yago:Galatsi geo:hasGeometry ?o1; rdf:type ?type. ?o1 geo:asWKT ?geoWKT1. FILTER(strdf:left(?geoWKT,?geoWKT1)) }"
+    },
+    "289": {
+        "Question": "Where is Drogheda located?",
+        "Query": "SELECT DISTINCT ?geoWKT WHERE { yago:Drogheda geo:hasGeometry ?o . ?o geo:asWKT ?geoWKT . }"
+    },
+    "929": {
+        "Question": "How many lakes are in townlands in Ireland?",
+        "Query": "SELECT (COUNT (DISTINCT ?lake) as ?lakes) WHERE { ?lake a y2geoo:OSM_lake. ?lake geo:hasGeometry ?x1Geo. ?x1Geo geo:asWKT ?x1WKT. ?t a y2geoo:OSI_Townland. ?t geo:hasGeometry ?x2Geo. ?x2Geo geo:asWKT ?x2WKT. FILTER(geof:sfWithin(?x1WKT, ?x2WKT))}"
+    },
+    "612": {
+        "Question": "Which are the canals of Wales?",
+        "Query": "select distinct ?canal where { yago:Wales geo:hasGeometry ?geomLC. ?geomLC geo:asWKT ?lcnWKT. ?canal rdf:type y2geoo:OSM_canal; geo:hasGeometry ?geomLC2. ?geomLC2 geo:asWKT ?lcnWKT2. FILTER(geof:sfWithin(?lcnWKT2,?lcnWKT) ) }"
+    },
+    "138": {
+        "Question": "Which rivers in Scotland have more than 100 km length?",
+        "Query": " select distinct ?x ?property where { ?x rdf:type <http://yago-knowledge.org/resource/wordnet_river_109411430>. ?x <http://yago-knowledge.org/resource/isLocatedIn> <http://yago-knowledge.org/resource/Scotland>. ?x <http://yago-knowledge.org/resource/hasLength> ?property. FILTER(?property > \"100000\"^^<http://yago-knowledge.org/resource/m>). }\n"
+    },
+    "120": {
+        "Question": "Which university colleges are in Scotland?",
+        "Query": " SELECT ?x1 WHERE { ?x1 a <http://yago-knowledge.org/resource/wordnet_college_108278324>. ?x1 <http://yago-knowledge.org/resource/isLocatedIn> <http://yago-knowledge.org/resource/Scotland>. }\n"
+    },
+    "801": {
+        "Question": "Which towns in County Longford with area bigger than 0.01 are west of Dublin?",
+        "Query": "SELECT ?town WHERE { ?town rdf:type y2geoo:OSM_town. ?town geo:hasGeometry ?tg. ?tg geo:asWKT ?tgeoWKT. yago:County_Longford geo:hasGeometry ?g. ?g geo:asWKT ?geoWKT. FILTER(strdf:within(?tgeoWKT, ?geoWKT)). FILTER(strdf:area(?tgeoWKT) > 0.01). yago:Dublin geo:hasGeometry ?dg. ?dg geo:asWKT ?dgeoWKT. FILTER(strdf:left(?geoWKT, ?dgeoWKT)). }"
+    },
+    "882": {
+        "Question": "What is the total number of counties that border with forests in England?",
+        "Query": "select (COUNT (DISTINCT ?county) as ?counties) where { { ?county rdf:type y2geoo:OSI_County_Council . } UNION { ?county rdf:type y2geoo:OSI_City_and_County_Council. } UNION { ?county rdf:type y2geoo:OS_County } . ?county geo:hasGeometry ?geomLC. ?geomLC geo:asWKT ?lcWKT. ?forest rdf:type y2geoo:OSM_forest; geo:hasGeometry ?geomL. ?geomL geo:asWKT ?lWKT. yago:England geo:hasGeometry ?eGeom. ?eGeom geo:asWKT ?eWKT. FILTER(geof:sfWithin(?lcWKT,?eWKT) && strdf:touches(?lWKT, ?lcWKT)) }"
+    },
+    "933": {
+        "Question": "How many streams are within a nature reserve?",
+        "Query": "SELECT (COUNT (DISTINCT ?stream) as ?streams) WHERE{ ?stream a y2geoo:OSM_stream; geo:hasGeometry ?rep1 . ?rep1 geo:asWKT ?sWKT. ?reserve a y2geoo:OSM_nature_reserve; geo:hasGeometry ?rep2 . ?rep2 geo:asWKT ?rWKT . FILTER(geof:sfWithin(?sWKT, ?rWKT)). }"
+    },
+    "294": {
+        "Question": "What is the population of the Greek region of Epirus?",
+        "Query": "SELECT DISTINCT ?population WHERE { <http://yago-knowledge.org/resource/Epirus_(region)> y2geoo:hasGAG_Population ?population }"
+    },
+    "40": {
+        "Question": "Does London have a mountain?",
+        "Query": " ASK { ?mountain rdf:type <http://yago-knowledge.org/resource/wordnet_mountain_109359803>. <http://yago-knowledge.org/resource/London> ?p ?mountain. }\n"
+    },
+    "1083": {
+        "Question": "What is the average area of a lake in Nevada?",
+        "Query": "SELECT (AVG(?areas) AS ?areas_avg) WHERE { SELECT ((strdf:area(?forest_geoWKT)) AS ?areas) WHERE { <http://yago-knowledge.org/resource/Nevada> geo:hasGeometry ?Cork_geo . ?Cork_geo geo:asWKT ?Cork_geoWKT . ?forest rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OSM_lake> . ?forest geo:hasGeometry ?forest_geo . ?forest_geo geo:asWKT ?forest_geoWKT . FILTER(geof:sfWithin(?forest_geoWKT,?Cork_geoWKT)) } }"
+    },
+    "547": {
+        "Question": "Which counties border Donegal county?",
+        "Query": "SELECT distinct ?county WHERE { yago:County_Donegal geo:hasGeometry ?o1 . ?o1 geo:asWKT ?geoWKT1 . { ?county rdf:type y2geoo:OSI_County_Council . } UNION { ?county rdf:type y2geoo:OSI_City_and_County_Council. } . ?county geo:hasGeometry ?o2 . ?o2 geo:asWKT ?geoWKT2 . FILTER(strdf:touches(?geoWKT1, ?geoWKT2)) }"
+    },
+    "989": {
+        "Question": "Which county of England has the largest forest?",
+        "Query": "select distinct ?county (strdf:area(?geoWKT) as ?totalArea) where { yago:England geo:hasGeometry ?egeo . ?egeo geo:asWKT ?eWKT . ?county rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OS_County>; <http://www.opengis.net/ont/geosparql#hasGeometry> ?geomC . ?geomC geo:asWKT ?cWKT . FILTER (geof:sfContains(?eWKT, ?cWKT)) . ?forest rdf:type <http://kr.di.uoa.gr/yago2geo/ontology/OSM_forest> . ?forest geo:hasGeometry ?o2 . ?o2 geo:asWKT ?geoWKT2 . FILTER(geof:sfWithin(?geoWKT2, ?cWKT)) } ORDER BY DESC(?totalArea) LIMIT 1"
+    },
+    "954": {
+        "Question": "Does Harris County in Texas have more inhabitants than all its neighboring counties?",
+        "Query": "ASK { { SELECT (SUM(xsd:double(?pop)) as ?total) WHERE { yago:yago:Harris_County\\,_Texas geo:hasGeometry ?tGeo . ?tGeo geo:asWKT ?tWKT . ?county y2geoo:hasGADM_Description \"County\" . ?county y2geoo:POPULATION ?pop . ?county geo:hasGeometry ?cGeo . ?cGeo geo:asWKT ?cWKT . FILTER(?county != yago:yago:Harris_County\\,_Texas && geof:sfTouches(?cWKT,?tWKT)) . } } yago:yago:Harris_County\\,_Texas y2geoo:POPULATION ?popTexas . FILTER(xsd:double(?popTexas) > ?total) . }"
+    }
+}
