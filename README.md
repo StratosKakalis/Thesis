@@ -1,2 +1,2 @@
 # Thesis
- All files related to my bachelors degree thesis.
+ All files related to my bachelor's degree thesis.
