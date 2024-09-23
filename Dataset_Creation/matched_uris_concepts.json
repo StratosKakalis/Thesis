@@ -1,0 +1,240 @@
+{
+    "860": [
+        "y2geoo:OSM_park"
+    ],
+    "573": [
+        "y2geoo:OS_District",
+        "y2geoo:OSM_forest"
+    ],
+    "260": [],
+    "756": [
+        "y2geoo:OSM_lake"
+    ],
+    "405": [
+        "y2geoo:OSI_Townland"
+    ],
+    "717": [
+        "y2geoo:OSM_beach",
+        "y2geoo:OSM_nature_reserve"
+    ],
+    "103": [],
+    "43": [
+    ],
+    "611": [
+        "y2geoo:GAG_Region"
+    ],
+    "302": [
+        "y2geoo:GAG_Municipality"
+    ],
+    "531": [
+        "y2geoo:OSM_village",
+        "y2geoo:OSM_lake"
+    ],
+    "633": [
+        "y2geoo:OSM_forest",
+        "y2geoo:OSM_lake"
+    ],
+    "650": [
+        "y2geoo:OSM_lake",
+        "y2geoo:OSM_forest"
+    ],
+    "219": [],
+    "159": [],
+    "995": [
+        "y2geoo:OSI_County_Council",
+        "y2geoo:OSI_City_and_County_Council"
+    ],
+    "842": [
+        "y2geoo:OSM_lake"
+    ],
+    "252": [],
+    "186": [],
+    "461": [
+        "y2geoo:OSM_park",
+        "y2geoo:OSM_bay"
+    ],
+    "227": [],
+    "168": [],
+    "505": [
+        "y2geoo:OSI_Barony",
+        "y2geoo:OSM_forest"
+    ],
+    "672": [
+        "y2geoo:OSM_city",
+        "y2geoo:OSM_stream"
+    ],
+    "465": [
+        "y2geoo:OSI_County_Council",
+        "y2geoo:OSI_City_and_County_Council",
+        "y2geoo:OSM_stream"
+    ],
+    "229": [],
+    "682": [
+        "y2geoo:OSM_stream",
+        "y2geoo:OSM_nature_reserve"
+    ],
+    "606": [
+    ],
+    "109": [],
+    "416": [
+        "y2geoo:OSM_beach"
+    ],
+    "100": [],
+    "948": [],
+    "267": [],
+    "143": [
+        "y2geoo:OSM_forest"
+    ],
+    "998": [],
+    "8": [],
+    "244": [],
+    "743": [
+        "y2geoo:GADM_3rdOrder_AdministrativeUnit"
+    ],
+    "34": [],
+    "703": [
+        "y2geoo:OSM_village",
+        "y2geoo:OSM_village"
+    ],
+    "677": [
+        "y2geoo:OSM_park",
+        "y2geoo:OS_County"
+    ],
+    "710": [
+        "y2geoo:OSM_city",
+        "y2geoo:OSM_bay"
+    ],
+    "445": [
+        "y2geoo:OSM_locality",
+        "y2geoo:OSM_lake"
+    ],
+    "674": [
+        "y2geoo:OSM_island",
+        "y2geoo:OSM_stream"
+    ],
+    "226": [],
+    "37": [],
+    "831": [
+        "y2geoo:OS_DistrictWard"
+    ],
+    "819": [
+        "y2geoo:GADM_2ndOrder_AdministrativeUnit"
+    ],
+    "960": [],
+    "864": [
+        "y2geoo:OSM_lake"
+    ],
+    "934": [],
+    "466": [
+        "y2geoo:OSM_reservoir",
+        "y2geoo:OSM_bay"
+    ],
+    "798": [
+        "y2geoo:GAG_Region"
+    ],
+    "189": [],
+    "203": [],
+    "514": [
+        "y2geoo:OSM_village",
+        "y2geoo:OSM_forest"
+    ],
+    "36": [
+    ],
+    "978": [],
+    "654": [
+        "y2geoo:OSM_bay",
+        "y2geoo:OSM_village"
+    ],
+    "284": [
+        "y2geoo:OSM_park"
+    ],
+    "567": [
+        "y2geoo:OSI_Barony",
+        "y2geoo:OSM_lake"
+    ],
+    "23": [],
+    "938": [],
+    "922": [],
+    "200": [],
+    "261": [],
+    "176": [],
+    "910": [],
+    "829": [
+        "y2geoo:OS_County",
+        "y2geoo:OSI_County_Council"
+    ],
+    "815": [
+    ],
+    "597": [
+        "y2geoo:GAG_Municipality"
+    ],
+    "989": [],
+    "908": [],
+    "153": [],
+    "991": [],
+    "110": [],
+    "762": [
+        "y2geoo:GAG_Municipality"
+    ],
+    "92": [],
+    "877": [
+        "y2geoo:OSM_island",
+        "y2geoo:OSM_beach"
+    ],
+    "698": [
+        "y2geoo:OSM_stream"
+    ],
+    "204": [],
+    "512": [
+        "y2geoo:OSM_nature_reserve",
+        "y2geoo:OSM_lake"
+    ],
+    "268": [],
+    "572": [
+        "y2geoo:OSM_park",
+        "y2geoo:OSM_forest"
+    ],
+    "508": [
+        "y2geoo:OS_District",
+        "y2geoo:OSM_forest"
+    ],
+    "126": [],
+    "875": [
+        "y2geoo:OSM_village",
+        "y2geoo:OS_District"
+    ],
+    "1015": [
+        "y2geoo:OSM_city"
+    ],
+    "850": [
+        "y2geoo:OSM_city",
+        "y2geoo:OSM_lake"
+    ],
+    "69": [],
+    "201": [],
+    "770": [
+        "y2geoo:OSM_park"
+    ],
+    "356": [
+        "y2geoo:OS_District"
+    ],
+    "354": [
+        "y2geoo:OSM_lake"
+    ],
+    "867": [
+        "y2geoo:GAG_Municipality"
+    ],
+    "804": [
+        "y2geoo:GAG_Municipality"
+    ],
+    "538": [
+        "y2geoo:OSM_lake",
+        "y2geoo:GAG_Municipality"
+    ],
+    "489": [
+        "y2geoo:OSM_forest",
+        "y2geoo:OSI_Barony"
+    ],
+    "320": [],
+    "71": []
+}
