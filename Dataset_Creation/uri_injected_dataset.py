@@ -41,7 +41,7 @@ def extract_uris(query):
     return wat
 
 # Load the JSON data from a file
-input_file = 'Dataset_Creation/100_Sub_Dataset.json'
+input_file = 'c:/Users/strat/Desktop/validation_set.json'
 with open(input_file, 'r') as file:
     data = json.load(file)
 
@@ -52,7 +52,7 @@ for key, value in data.items():
     value["URI"] = uris
 
 # Save the updated data to a new JSON file
-output_file = 'Dataset_Creation/100_Sub_Dataset_URI.json'
+output_file = 'Dataset_Creation/validation_set_URI.json'
 with open(output_file, 'w') as file:
     json.dump(data, file, indent=4)
 
