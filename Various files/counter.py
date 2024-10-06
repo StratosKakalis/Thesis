@@ -1,7 +1,7 @@
 import json
 
 # Path to the matched URIs file
-input_file_path = 'C:/Users/strat/Desktop/EKPA/Thesis/Dataset_Creation/matched_uris.json'
+input_file_path = 'Dataset_Creation/matched_uris_concepts.json'
 
 # Load the matched URIs from the JSON file
 with open(input_file_path, 'r') as input_file:
